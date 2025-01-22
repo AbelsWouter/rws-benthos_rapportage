@@ -1,0 +1,13 @@
+Collectie_Referentie;Monsterjaar;Waterlichaam;Seizoen;Heeft_Seizoen;test_description
+Sample 1;2023;Noordzee;voorjaar;FALSE;spring will be selected over autumn
+Sample 1;2023;Noordzee;voorjaar;FALSE;spring will be selected over autumn
+Sample 2;2023;Noordzee;voorjaar;FALSE;spring will be selected over autumn
+Sample 2;2023;Noordzee;voorjaar;FALSE;spring will be selected over autumn
+Sample 5;2022;Noordzee;najaar;FALSE;autumn will be selected over spring
+Sample 5;2022;Noordzee;najaar;FALSE;autumn will be selected over spring
+Sample 6;2022;Noordzee;najaar;FALSE;autumn will be selected over spring
+Sample 6;2022;Noordzee;najaar;FALSE;autumn will be selected over spring
+Sample 9;2021;Waddenzee;voorjaar;TRUE;both will be selected
+Sample 9;2021;Waddenzee;voorjaar;TRUE;both will be selected
+Sample 10;2021;Waddenzee;najaar;TRUE;both will be selected
+Sample 10;2021;Waddenzee;najaar;TRUE;both will be selected

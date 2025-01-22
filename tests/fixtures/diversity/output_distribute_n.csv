@@ -1,0 +1,19 @@
+Collectie_Referentie;Gebied;Ecotoop_Codes;Ecotoop_ZES1;Strata;Waterlichaam;Analyse_taxonnaam;Hierarchie;Order;Combi;Seizoen;Monsterjaar;Gebruik;test;Grootheid_Code;IsSoort_Monster;IsSoort_Waterlichaam;IsSoort_Strata;IsSoort_Gebied;IsSoort_Strata_Gebied;IsSoort_Ecotoop_Codes;IsSoort_Ecotoop_Codes_Gebied;Aantal;Massa;Bedekking;Dichtheid_Aantal;n_Soort_Monster;n_Soort_Waterlichaam;n_Soort_Strata;n_Soort_Gebied;n_Soort_Strata_Gebied;n_Soort_Ecotoop_Codes;n_Soort_Ecotoop_Codes_Gebied
+1;1;;a;;A;Ablabesmyia longistyla;Ablabesmyia|Tanypodinae|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;1;;voorjaar;2020;trend;overal;AANTL;True;True;True;True;True;True;True;10;;;62.5;20.0;20.0;20.0;20.0;20.0;20.0;20.0
+1;1;;a;;A;Ablabesmyia;Tanypodinae|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;6;;voorjaar;2020;trend;nooit;AANTL;False;False;False;False;False;False;False;10;;;62.5;;;;;;;
+1;1;;a;;A;Crambidae;Lepidoptera|Insecta|Arthropoda|Animalia;12;;voorjaar;2020;trend;monster;AANTL;True;False;False;False;False;False;False;10;;;62.5;10.0;;;;;;
+2;1;;a;;A;Acentria ephemerella;Acentria|Crambidae|Lepidoptera|Insecta|Arthropoda|Animalia;1;;voorjaar;2020;trend;overal;AANTL;True;True;True;True;True;True;True;10;;;62.5;10.0;30.0;30.0;20.0;20.0;20.0;20.0
+2;1;;a;;A;Einfeldia/Fleuria;Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;8;Einfeldia|Fleuria;voorjaar;2020;trend;nooit;AANTL;False;False;False;False;False;False;False;10;;;62.5;;;;;;;
+2;1;;a;;A;Einfeldia pagana;Einfeldia|Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;1;;voorjaar;2020;trend;overal;AANTL;True;True;True;True;True;True;True;10;;;62.5;20.0;20.0;20.0;20.0;20.0;20.0;20.0
+3;2;;b;;A;Acentria;Crambidae|Lepidoptera|Insecta|Arthropoda|Animalia;6;;voorjaar;2020;trend;monster gebied en strata gebied;AANTL;True;False;False;True;True;True;True;10;;;62.5;10.0;;;10.0;10.0;10.0;10.0
+3;2;;b;;A;Ablabesmyia monilis/longistyla;Ablabesmyia|Tanypodinae|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;2;Ablabesmyia monilis|Ablabesmyia longistyla;voorjaar;2020;trend;monster gebied en strata gebied;AANTL;True;False;False;True;True;True;True;10;;;62.5;10.0;;;10.0;10.0;10.0;10.0
+3;2;;b;;A;Ablabesmyia longistyla;Ablabesmyia|Tanypodinae|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;1;;voorjaar;2020;trend;overal;AANTL;True;True;True;True;True;True;True;10;;;62.5;10.0;20.0;20.0;10.0;10.0;10.0;10.0
+3;2;;b;;A;Cnidaria;Animalia;24;;voorjaar;2020;trend;overal;AANTL;True;True;True;True;True;True;True;10;;;62.5;10.0;10.0;10.0;10.0;10.0;10.0;10.0
+4;2;;b;;A;Hydrozoa;Cnidaria|Animalia;20;;voorjaar;2022;trend;overal;AANTL;True;True;True;True;True;True;True;10;;;62.5;10.0;10.0;10.0;10.0;10.0;10.0;10.0
+5;2;;;a;A;Cnidaria;Animalia;24;;najaar;2022;trend;monster strata en strata gebied;AANTL;True;False;True;False;True;False;False;10;;;62.5;10.0;;10.0;;10.0;;
+6;2;;;b;A;Hydrozoa;Cnidaria|Animalia;20;;najaar;2022;trend;overal;AANTL;True;True;True;True;True;True;True;10;;;62.5;10.0;20.0;10.0;20.0;10.0;20.0;20.0
+6;2;;;b;A;Einfeldia/Fleuria;Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;8;Einfeldia|Fleuria;najaar;2022;trend;overal;AANTL;True;True;True;True;True;True;True;10;;;62.5;10.0;10.0;10.0;10.0;10.0;10.0;10.0
+9;2;;;b;B;Sertulariidae;Hydrozoa|Cnidaria|Animalia;12;;najaar;2020;trend;overal;AANTL;True;True;True;True;True;True;True;10;;;62.5;20.0;20.0;20.0;20.0;20.0;20.0;20.0
+9;2;;;b;B;Hydrozoa;Cnidaria|Animalia;20;;najaar;2020;trend;nooit;AANTL;False;False;False;False;False;False;False;10;;;62.5;;;;;;;
+7;2;;;b;A;Einfeldia/Fleuria;Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;8;Einfeldia|Fleuria;najaar;2022;overig;monster;AANTL;True;False;False;False;False;False;False;10;;;62.5;;;;;;;
+8;2;;;b;A;Einfeldia pagana;Einfeldia|Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;1;;najaar;2022;overig;overal;AANTL;True;True;True;True;True;True;True;10;;;62.5;;;;;;;

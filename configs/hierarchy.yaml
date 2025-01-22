@@ -1,0 +1,17 @@
+Determinatie:
+  Zout: 
+    Aggregate: ["Oligochaeta", "Bryozoa", "Cephalochordata", "Appendicularia", "Ascidiacea", "Hydrozoa", "Enteropneusta", "Nemertea", "Phoronida", "Platyhelminthes", "Porifera"]
+    Aggregate-contra: 
+    Presence: ["Bryozoa", "Hydrozoa", "Porifera"]
+    Presence-contra:
+  Zoet: 
+    Aggregate: ['Bryozoa', 'Cnidaria', 'Porifera']
+    Aggregate-contra:
+    Presence: ["Bryozoa", "Hydrozoa", "Porifera"]
+    Presence-contra: 
+Biomassa:
+  Zout: 
+    Exclude: ["Bryozoa", "Hydrozoa", "Porifera", "Ascidiacea"]
+    Exclude-contra:
+    
+    

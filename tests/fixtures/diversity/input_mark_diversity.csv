@@ -1,0 +1,18 @@
+Collectie_Referentie;Gebied;Ecotoop_Codes;Ecotoop_ZES1;Strata;Waterlichaam;Analyse_taxonnaam;Hierarchie;Order;Combi;Seizoen;Monsterjaar;Gebruik;test;Dichtheid_Aantal
+1;1;a;a;;A;Ablabesmyia longistyla;Ablabesmyia|Tanypodinae|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;1;;voorjaar;2020;trend;overal;1
+1;1;a;a;;A;Ablabesmyia;Tanypodinae|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;6;;voorjaar;2020;trend;nooit;1
+1;1;a;a;;A;Crambidae;Lepidoptera|Insecta|Arthropoda|Animalia;12;;voorjaar;2020;trend;monster;1
+2;1;b;b;;A;Acentria ephemerella;Acentria|Crambidae|Lepidoptera|Insecta|Arthropoda|Animalia;1;;voorjaar;2020;trend;overal;1
+2;1;b;b;;A;Einfeldia/Fleuria;Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;8;Einfeldia|Fleuria;voorjaar;2020;trend;nooit;1
+2;1;b;b;;A;Einfeldia pagana;Einfeldia|Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;1;;voorjaar;2020;trend;overal;1
+3;2;b;b;;A;Acentria;Crambidae|Lepidoptera|Insecta|Arthropoda|Animalia;6;;voorjaar;2020;trend;monster gebied en strata gebied;1
+3;2;b;b;;A;Ablabesmyia monilis/longistyla;Ablabesmyia|Tanypodinae|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;2;Ablabesmyia monilis|Ablabesmyia longistyla;voorjaar;2020;trend;monster gebied en strata gebied;1
+3;2;b;b;;A;Cnidaria;Animalia;24;;voorjaar;2020;trend;overal;1
+4;2;;;;A;Hydrozoa;Cnidaria|Animalia;20;;voorjaar;2022;trend;overal;1
+5;2;;;a;A;Cnidaria;Animalia;24;;najaar;2022;trend;monster strata en strata gebied;1
+6;2;;;b;A;Hydrozoa;Cnidaria|Animalia;20;;najaar;2022;trend;overal;1
+6;2;;;b;A;Einfeldia/Fleuria;Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;8;Einfeldia|Fleuria;najaar;2022;trend;overal;1
+7;2;;;b;A;Einfeldia/Fleuria;Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;8;Einfeldia|Fleuria;najaar;2022;overig;monster;1
+8;2;;;b;A;Einfeldia pagana;Einfeldia|Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;1;;najaar;2022;overig;overal;1
+9;2;;;b;B;Sertulariidae;Hydrozoa|Cnidaria|Animalia;12;;najaar;2020;trend;overal;1
+9;2;;;b;B;Hydrozoa;Cnidaria|Animalia;20;;najaar;2020;trend;nooit;1

@@ -1,0 +1,48 @@
+Name;Taxontype;Taxongroup_code;Taxonrank;Parentname;Statuscode;Synonymname
+Abietinaria;MACEV;BRHYP;Genus;Sertulariidae;10;
+Abietinaria abietina;MACEV;BRHYP;Species;Abietinaria;10;
+Ablabesmyia;MACEV;IDCHI;Genus;Tanypodinae;10;
+Ablabesmyia longistyla;MACEV;IDCHI;Species;Ablabesmyia;10;
+Ablabesmyia monilis;MACEV;IDCHI;Species;Ablabesmyia;10;
+Ablabesmyia monilis monilis;MACEV;IDCHI;Subspecies;Ablabesmyia monilis;10;
+Ablabesmyia monilis/longistyla;MACEV;IDCHI;SpeciesCombi;Ablabesmyia;80;
+Ablabesmyia monilis/phatta;MACEV;IDCHI;SpeciesCombi;Ablabesmyia;80;
+Ablabesmyia phatta;MACEV;IDCHI;Species;Ablabesmyia;10;
+Animalia;MACEV;REMAIN;Kingdom;;10;
+Arthropoda;MACEV;REMAIN;Phylum;Animalia;10;
+Chironomidae;MACEV;IDCHI;Family;Diptera;10;
+Cnidaria;MACEV;BRHYP;Phylum;Animalia;10;
+Diptera;MACEV;INREM;Order;Insecta;10;
+Hydrozoa;MACEV;BRHYP;Class;Cnidaria;10;
+Insecta;MACEV;INREM;Class;Arthropoda;10;
+Sertulariidae;MACEV;BRHYP;Family;Hydrozoa;10;
+Tanypodinae;MACEV;IDCHI;Subfamily;Chironomidae;10;
+Acentria nivea;MACEV;INLEP;Species;x;20;Acentria ephemerella
+Acentropus niveus;MACEV;INLEP;Species;x;20;Acentria ephemerella
+Acentria ephemerella;MACEV;INLEP;Species;Acentria;10;
+Acentria;MACEV;INLEP;Genus;Crambidae;10;
+Crambidae;MACEV;INLEP;Family;Lepidoptera;10;
+Lepidoptera;MACEV;INLEP;Order;Insecta;10;
+Campanulina johnstoni;MACEV;BRHYP;Species;x;91;
+Einfeldia/Fleuria;MACEV;IDCHI;GenusCombi;Chironomini;80;
+Chironomini;MACEV;IDCHI;Tribe;Chironomidae;10;
+Einfeldia;MACEV;IDCHI;Genus;Chironomini;10;
+Einfeldia carbonaria;MACEV;IDCHI;Species;;20;Benthalia carbonaria
+Einfeldia carbonaria gr.;MACEV;IDCHI;SpeciesCombi;;92;
+Einfeldia carbonaria/dissidens;MACEV;IDCHI;SpeciesCombi;;92;
+Einfeldia dissidens;MACEV;IDCHI;Species;;20;Benthalia dissidens
+Einfeldia dissidens agg.;MACEV;IDCHI;SpeciesCombi;;20;Benthalia dissidens
+Einfeldia insolita gr.;MACEV;IDCHI;SpeciesCombi;;92;
+Einfeldia pagana;MACEV;IDCHI;Species;Einfeldia;10;
+Einfeldia pagana gr.;MACEV;IDCHI;SpeciesCombi;;20;Einfeldia pagana
+Benthalia;MACEV;IDCHI;Genus;Chironomini;10;
+Benthalia carbonaria;MACEV;IDCHI;Species;Benthalia;10;
+Benthalia dissidens;MACEV;IDCHI;Species;Benthalia;10;
+Fleuria;MACEV;IDCHI;Genus;Chironomini;10;
+Fleuria lacustris;MACEV;IDCHI;Species;Fleuria;10;
+Tubificoides benedii;MACEV;APOLI;Species;Tubificoides;10;
+Tubificoides;MACEV;APOLI;Genus;Tubificidae;10;
+Tubificidae;MACEV;APOLI;Family;Tubificida;10;
+Tubificida;MACEV;APOLI;Order;Oligochaeta;10;
+Oligochaeta;MACEV;APOLI;Class;Annelida;10;
+Annelida;MACEV;REMAIN;Phylum;Animalia;10;

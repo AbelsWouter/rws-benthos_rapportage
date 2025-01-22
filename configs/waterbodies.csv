@@ -1,0 +1,54 @@
+Waterlichaam;krw_type;Heeft_Seizoen;Trendgroep;Determinatie_protocol;Biomassa_protocol;Startjaar;Min_trend_monsters
+Amsterdam-Rijnkanaal Betuwepand;M7b;FALSE;zoet;zoet;;1999;3
+Amsterdam-Rijnkanaal Noordpand;M7b;FALSE;zoet;zoet;;1999;3
+Bedijkte Maas;R7;FALSE;zoet;zoet;;1999;3
+Beneden Maas;R8;FALSE;zoet;zoet;;1999;3
+Bergsche Maas;R8;FALSE;zoet;zoet;;1999;3
+Boven- en Beneden Merwede;R8;FALSE;zoet;zoet;;1999;3
+Bovenmaas;R7;FALSE;zoet;zoet;;1999;3
+Boven-Rijn, Waal;R7;FALSE;zoet;zoet;;1999;3
+Brabantse Biesbosch;R8;FALSE;zoet;zoet;;1999;3
+Bruine Bank;;TRUE;marien;zout;zout;1999;3
+Doggerbank;;TRUE;marien;zout;zout;1999;3
+Dordtse Biesbosch;R8;FALSE;zoet;zoet;;1999;3
+Eems-Dollard;O2a;FALSE;overgang;zout;zout;1999;3
+Eems-Dollard (kustwater);K1;FALSE;marien;zout;zout;1999;3
+Friese Front;;TRUE;marien;zout;zout;1999;3
+Grensmaas;R16;FALSE;zoet;zoet;;1999;3
+Grevelingenmeer;M32;TRUE;overgang;zout;zout;1999;3
+Haringvliet-oost;R8;FALSE;zoet;zoet;;1999;3
+Haringvliet-west;O2b;FALSE;overgang;zout;zout;1999;3
+Hollandsche IJssel;R8;FALSE;zoet;zoet;;1999;3
+Hollandse kust (kustwater);K1;FALSE;marien;zout;zout;1999;3
+IJssel;R7;FALSE;zoet;zoet;;1999;3
+IJsselmeer;M21b;FALSE;zoet;zoet;;1999;3
+Julianakanaal;M7b;FALSE;zoet;zoet;;1999;3
+Kanaal Gent Terneuzen;M30;FALSE;zoet;zoet;;1999;3
+Ketelmeer, Vossemeer;M14;FALSE;zoet;zoet;;1999;3
+Klaverbank;;TRUE;marien;zout;zout;1999;3
+Markermeer;M21a;FALSE;zoet;zoet;;1999;3
+Midden Limburgse en Noord-Brabantse kanalen;M6b;FALSE;zoet;zoet;;1999;3
+Nederrijn, Lek;R7;FALSE;zoet;zoet;;1999;3
+Nieuwe Maas;O2b;FALSE;overgang;zout;zout;1999;3
+Nieuwe Waterweg;O2b;FALSE;overgang;zout;zout;1999;3
+Noordelijke Deltakust (kustwater);K1;FALSE;marien;zout;zout;1999;3
+Noordzee-overig;;TRUE;marien;zout;zout;1999;3
+Noordzeekanaal;O2b;FALSE;overgang;zout;zout;1999;3
+Oestergronden;;TRUE;marien;zout;zout;1999;3
+Oosterschelde;K2;FALSE;marien;zout;zout;1999;3
+Oude Maas;R8;FALSE;zoet;zoet;;1999;3
+Randmeren-oost;M14;FALSE;zoet;zoet;;1999;3
+Randmeren-zuid;M14;FALSE;zoet;zoet;;1999;3
+Twenthekanalen;M7b;FALSE;zoet;zoet;;1999;3
+Vechtdelta Groot Salland;R7;FALSE;zoet;zoet;;1999;3
+Veerse Meer;M32;TRUE;overgang;zout;zout;1999;1
+Vlakte van de Raan;;TRUE;marien;zout;zout;1999;3
+Volkerak;M20;FALSE;zoet;zoet;;1999;3
+Waddenkust (kustwater);K3;FALSE;marien;zout;zout;1999;3
+Waddenzee;K2;FALSE;marien;zout;zout;1987;3
+Waddenzee vastelandskust;K2;FALSE;marien;zout;zout;1987;3
+Westerschelde;O2a;TRUE;overgang;zout;zout;1992;3
+Zandmaas;R7;FALSE;zoet;zoet;;1999;3
+Zeeuwse kust (kustwater);K3;FALSE;marien;zout;zout;1999;3
+Zoommeer, Eendracht;M20;FALSE;zoet;zoet;;1999;3
+Zwarte Meer;M14;FALSE;zoet;zoet;;1999;3

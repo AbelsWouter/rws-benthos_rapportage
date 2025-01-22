@@ -1,0 +1,93 @@
+# File: Global_variables.yaml
+# Author(s): M. Japink (m.japink@waardenburg.eco) & J. Haringa (j.haringa@waardenburg.eco)
+# Creation date: 21-01-2023
+# Last modification: 20-02-2024
+# Python v3.12.1
+
+# PATHS
+data_path: ".//input"
+output_path: ".//output"
+
+
+# FILES
+# user input
+selection_waterbodies: ".//input//selectie_waterlichaam.txt"
+selection_projects: ".//input//selectie_project.txt"
+
+# user output
+calculated_data: ".//output//opgewerkte_data.xlsx"
+analysis_data: ".//output//analyse_data.xlsx"
+twn_download: ".//output//twn_download.csv"
+twn_corrected: ".//output//twn_gecorrigeerd.csv"
+calculated_bisi: ".//output//BISI.xlsx"
+
+# config
+config_locations: ".//configs//locations.csv"
+config_waterbodies: ".//configs//waterbodies.csv"
+
+config_taxonomic_order: ".//configs//taxonomic_order.csv"
+config_taxon_groups: ".//configs//taxon_groups.csv"
+
+template_bisi: ".//configs//BISI.xlsx"
+config_bisi: ".//configs//bisi_config.csv"
+
+config_hr_species: ".//configs//typical_species_habitat_protected_areas.csv"
+config_exotics: ".//configs//exotics.csv"
+data_model: ".//configs//data_model.csv"
+
+
+
+# DEFINITIONS
+exp_waterbody_columns: ["Waterlichaam", "krw_type", "Heeft_Seizoen", "Trendgroep", "Determinatie_protocol", "Biomassa_protocol", "Startjaar"]
+non_NA_waterbody_columns: ["Waterlichaam", "Heeft_Seizoen", "Trendgroep", "Determinatie_protocol", "Startjaar"]
+
+exp_location_columns: ["Meetobject_Code", "Locatie_Code", "Waterlichaam", "Project_Code", "Methode", "Gebruik", "Strata", "Gebied", "BISI_gebied", "BISI_deelgebied", "BISI_Eunis", "BISI_Eunis_asev", "BISI_Habitat", "Margalef"]
+non_NA_location_columns: ["Meetobject_Code", "Waterlichaam", "Project_Code", "Methode", "Gebruik"]
+
+diversity_levels: {"Monster": ["Collectie_Referentie"], 
+                   "Waterlichaam": ["Waterlichaam", "Monsterjaar", "Seizoen", "Gebruik"], 
+                   "Strata": ["Waterlichaam", "Monsterjaar", "Seizoen", "Strata", "Gebruik"], 
+                   "Gebied": ["Waterlichaam", "Monsterjaar", "Seizoen", "Gebied", "Gebruik"], 
+                   "Strata_Gebied": ["Waterlichaam", "Monsterjaar", "Seizoen", "Strata", "Gebied", "Gebruik"],
+                   "Ecotoop_Codes": ["Waterlichaam", "Monsterjaar", "Seizoen", "Ecotoop_ZES1", "Gebruik"],
+                   "Ecotoop_Codes_Gebied": ["Waterlichaam", "Monsterjaar", "Seizoen", "Ecotoop_ZES1", "Gebied", "Gebruik"]}
+
+subplots_levels: {"Gebied": ["Gebied"],
+                  "Strata": ["Strata"],
+                  "Strata_Gebied": ["Strata", "Gebied"],
+                  "Ecotoop_Codes": ["Ecotoop_ZES1"],
+                  "Ecotoop_Codes_Gebied": ["Ecotoop_ZES1", "Gebied"]}
+
+bisi_area_columns: [
+    "BISI_gebied",
+    "BISI_deelgebied", 
+    "BISI_Eunis", 
+    "BISI_Eunis_asev", 
+    "BISI_Habitat"
+    ]
+
+colorblind_friendly: [
+    "#E69F00",
+    "#000000",
+    "#56B4E9",
+    "#CC79A7",
+    "#F0E442",
+    "#0072B2",
+    "#D55E00",
+    "#009E73",
+    "#CC6633",
+]
+
+plot_config:
+    titles:
+        Dichtheid_Aantal: {"plot_title": "Gemiddelde dichtheid aantal", "y_title": "Gemiddelde dichtheid (n/m²)"}
+        Dichtheid_Massa: {"plot_title": "Gemiddelde dichtheid massa", "y_title": "Gemiddelde dichtheid (mg/m²)"}
+        Soortenrijkdom: {"plot_title": "Soortenrijkdom", "y_title": "Aantal unieke soorten (n)"}
+        Soortenrijkdom_Monster: {"plot_title": "Gemiddelde Soortenrijkdom", "y_title": "Gemiddeld aantal unieke soorten"}
+        Shannon: {"plot_title": "Shannon index", "y_title": "Shannon index (n/m²)"}
+        Shannon_Monster: {"plot_title": "Gemiddelde Shannon index", "y_title": "Shannon index (n/m²)"}
+        Margalef_Monster: {"plot_title": "Gemiddelde Margalef index", "y_title": "Margalef index (n)"}
+        Bedekking: {"plot_title": Bedekking, "y_title": "Bedekking (%)"}
+    settings:
+        fill_missing_years_bar: True
+        fill_missing_years_scatter: True

@@ -1,0 +1,38 @@
+Twn_name;Name;Hierarchie;Taxonrank;Order
+Abietinaria;Abietinaria;Sertulariidae|Hydrozoa|Cnidaria|Animalia;Genus;6
+Abietinaria abietina;Abietinaria abietina;Abietinaria|Sertulariidae|Hydrozoa|Cnidaria|Animalia;Species;1
+Ablabesmyia;Ablabesmyia;Tanypodinae|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Genus;6
+Ablabesmyia longistyla;Ablabesmyia longistyla;Ablabesmyia|Tanypodinae|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Species;1
+Ablabesmyia monilis;Ablabesmyia monilis;Ablabesmyia|Tanypodinae|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Species;1
+Ablabesmyia monilis monilis;Ablabesmyia monilis;Ablabesmyia|Tanypodinae|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Species;1
+Ablabesmyia monilis/longistyla;Ablabesmyia monilis/longistyla;Ablabesmyia|Tanypodinae|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;SpeciesCombi;2
+Ablabesmyia monilis/phatta;Ablabesmyia monilis/phatta;Ablabesmyia|Tanypodinae|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;SpeciesCombi;2
+Ablabesmyia phatta;Ablabesmyia phatta;Ablabesmyia|Tanypodinae|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Species;1
+Animalia;Animalia;;Kingdom;28
+Arthropoda;Arthropoda;Animalia;Phylum;24
+Chironomidae;Chironomidae;Diptera|Insecta|Arthropoda|Animalia;Family;12
+Cnidaria;Cnidaria;Animalia;Phylum;24
+Diptera;Diptera;Insecta|Arthropoda|Animalia;Order;16
+Hydrozoa;Hydrozoa;Cnidaria|Animalia;Class;20
+Insecta;Insecta;Arthropoda|Animalia;Class;20
+Sertulariidae;Sertulariidae;Hydrozoa|Cnidaria|Animalia;Family;12
+Tanypodinae;Tanypodinae;Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Subfamily;11
+Acentria ephemerella;Acentria ephemerella;Acentria|Crambidae|Lepidoptera|Insecta|Arthropoda|Animalia;Species;1
+Acentria;Acentria;Crambidae|Lepidoptera|Insecta|Arthropoda|Animalia;Genus;6
+Crambidae;Crambidae;Lepidoptera|Insecta|Arthropoda|Animalia;Family;12
+Lepidoptera;Lepidoptera;Insecta|Arthropoda|Animalia;Order;16
+Einfeldia/Fleuria;Einfeldia/Fleuria;Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;GenusCombi;8
+Chironomini;Chironomini;Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Tribe;10
+Einfeldia;Einfeldia;Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Genus;6
+Einfeldia pagana;Einfeldia pagana;Einfeldia|Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Species;1
+Benthalia;Benthalia;Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Genus;6
+Benthalia carbonaria;Benthalia carbonaria;Benthalia|Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Species;1
+Benthalia dissidens;Benthalia dissidens;Benthalia|Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Species;1
+Fleuria;Fleuria;Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Genus;6
+Fleuria lacustris;Fleuria lacustris;Fleuria|Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Species;1
+Tubificoides benedii;Tubificoides benedii;Tubificoides|Tubificidae|Tubificida|Oligochaeta|Annelida|Animalia;Species;1
+Tubificoides;Tubificoides;Tubificidae|Tubificida|Oligochaeta|Annelida|Animalia;Genus;6
+Tubificidae;Tubificidae;Tubificida|Oligochaeta|Annelida|Animalia;Family;12
+Tubificida;Tubificida;Oligochaeta|Annelida|Animalia;Order;16
+Oligochaeta;Oligochaeta;Annelida|Animalia;Class;20
+Annelida;Annelida;Animalia;Phylum;24

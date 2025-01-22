@@ -1,0 +1,38 @@
+Name;Parentname;Taxonrank;Order
+Abietinaria;Sertulariidae;Genus;6
+Abietinaria abietina;Abietinaria;Species;1
+Ablabesmyia;Tanypodinae;Genus;6
+Ablabesmyia longistyla;Ablabesmyia;Species;1
+Ablabesmyia monilis;Ablabesmyia;Species;1
+Ablabesmyia monilis monilis;Ablabesmyia monilis;Subspecies;-1
+Ablabesmyia monilis/longistyla;Ablabesmyia;SpeciesCombi;2
+Ablabesmyia monilis/phatta;Ablabesmyia;SpeciesCombi;2
+Ablabesmyia phatta;Ablabesmyia;Species;1
+Animalia;;Kingdom;28
+Arthropoda;Animalia;Phylum;24
+Chironomidae;Diptera;Family;12
+Cnidaria;Animalia;Phylum;24
+Diptera;Insecta;Order;16
+Hydrozoa;Cnidaria;Class;20
+Insecta;Arthropoda;Class;20
+Sertulariidae;Hydrozoa;Family;12
+Tanypodinae;Chironomidae;Subfamily;11
+Acentria ephemerella;Acentria;Species;1
+Acentria;Crambidae;Genus;6
+Crambidae;Lepidoptera;Family;12
+Lepidoptera;Insecta;Order;16
+Einfeldia/Fleuria;Chironomini;GenusCombi;8
+Chironomini;Chironomidae;Tribe;10
+Einfeldia;Chironomini;Genus;6
+Einfeldia pagana;Einfeldia;Species;1
+Benthalia;Chironomini;Genus;6
+Benthalia carbonaria;Benthalia;Species;1
+Benthalia dissidens;Benthalia;Species;1
+Fleuria;Chironomini;Genus;6
+Fleuria lacustris;Fleuria;Species;1
+Tubificoides benedii;Tubificoides;Species;1
+Tubificoides;Tubificidae;Genus;6
+Tubificidae;Tubificida;Family;12
+Tubificida;Oligochaeta;Order;16
+Oligochaeta;Annelida;Class;20
+Annelida;Animalia;Phylum;24

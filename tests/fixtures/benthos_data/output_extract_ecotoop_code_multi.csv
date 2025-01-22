@@ -1,0 +1,6 @@
+Collectie_Referentie;Ecotoop_Codes;Ecotoop_ZES1;Ecotoop_EUNIS
+sample1;ZES.1=B22.22,EUNIS=A5.25,PAR=4994;B22.22;A5.25
+sample2;ZES.1=B23.1;B23.1;
+sample3;EUNIS=A5.23,ZES.1=B22.22;B22.22;A5.23
+sample4;;;
+sample5;EUNIS=A5.1;;A5.1

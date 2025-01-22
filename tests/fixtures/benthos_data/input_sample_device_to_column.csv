@@ -1,0 +1,13 @@
+Collectie_Referentie;Classificatie_Code;Grootheid_Code;Parameter_Specificatie;test_description
+sample 1;;AANTL;Abra alba;correct
+sample 1;VANVHPR;BEMSRAPRT;;correct
+sample 2;;AANTL;Abra alba;duplicate
+sample 2;VANVHPR;BEMSRAPRT;;duplicate
+sample 2;VANVHPR;BEMSRAPRT;;duplicate
+sample 3;;AANTL;Abra alba;different device
+sample 3;VANVHPR;BEMSRAPRT;;different device
+sample 3;POLGPR;BEMSRAPRT;;different device
+sample 4;;AANTL;Abra alba;different grootheid
+sample 4;POLGPR;BEMSRAPRT;;different grootheid
+sample 4;STEEN;SUBSMTRAL;;different grootheid
+sample 5;;AANTL;Abra alba;no device

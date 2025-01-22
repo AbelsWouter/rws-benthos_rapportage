@@ -1,0 +1,56 @@
+### lijst van rws-waterlichamen die het benthosscript kan verwerken.
+### door het verwijderen van een hekje (#) kan een waterlichaam actief gemaakt worden.
+### er mogen meerdere waterlichamen actief zijn per run!
+#Amsterdam-Rijnkanaal Betuwepand
+#Amsterdam-Rijnkanaal Noordpand
+#Bedijkte Maas
+#Beneden Maas
+#Bergsche Maas
+#Boven- en Beneden Merwede
+#Bovenmaas
+#Boven-Rijn, Waal
+#Brabantse Biesbosch
+#Bruine Bank
+#Doggerbank
+#Dordtse Biesbosch
+#Eems-Dollard
+#Eems-Dollard (kustwater)
+#Friese Front
+#Grensmaas
+#Grevelingenmeer
+#Haringvliet-oost
+#Haringvliet-west
+#Hollandsche IJssel
+#Hollandse kust (kustwater)
+#IJssel
+#IJsselmeer
+#Julianakanaal
+#Kanaal Gent Terneuzen
+#Ketelmeer, Vossemeer
+#Klaverbank
+#Markermeer
+#Midden Limburgse en Noord-Brabantse kanalen
+#Nederrijn, Lek
+#Nieuwe Maas
+#Nieuwe Waterweg
+#Noordelijke Deltakust (kustwater)
+#Noordzee-overig
+#Noordzeekanaal
+#Oestergronden
+#Oosterschelde
+#Oude Maas
+#Randmeren-oost
+#Randmeren-zuid
+#Twenthekanalen
+#Vechtdelta Groot Salland
+#Veerse Meer
+#Vlakte van de Raan
+#Volkerak
+#Waddenkust (kustwater)
+#Waddenzee
+#Waddenzee vastelandskust
+#Westerschelde
+Zandmaas
+#Zeeuwse kust (kustwater)
+#Zoommeer, Eendracht
+#Zwarte Meer

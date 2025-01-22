@@ -1,0 +1,365 @@
+Collectie_Referentie;Monsterjaar;Monsterjaar_cluster;Gebruik;Meetobject_Code;Bemonsteringsapp;Heeft_Seizoen;Seizoen;Waterlichaam;Gebied;Strata;Ecotoop_Codes;Ecotoop_ZES1;Ecotoop_EUNIS;Analyse_taxonnaam;Groep;Support_Eenheid;Trendgroep;Margalef;Aantal;Massa;Bedekking;Dichtheid_Aantal;Dichtheid_Massa;nm2_Soort_Monster;nm2_Soort_Waterlichaam;nm2_Soort_Strata;nm2_Soort_Gebied;nm2_Soort_Strata_Gebied;nm2_Soort_Ecotoop_Codes;nm2_Soort_Ecotoop_Codes_Gebied;n_Soort_Monster
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Acroloxus lacustris;Gastropoda;l;zoet;x;1;;;1;0.667;1;1;1;1;1;1;1;1
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Ancylus fluviatilis;Gastropoda;l;zoet;x;1;;;1;1.301;3;2;2;2;2;2;2;1
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Asellus aquaticus;Crustacea-Isopoda;l;zoet;x;1;;;1;1.623;1;3;3;3;3;3;3;1
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Aulodrilus pigueti;Oligochaeta;l;zoet;x;11;;;2;1.298;10;14;14;14;14;14;14;11
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Caenis;Overig;l;zoet;x;33;;;9;1.858;;;;;;;;
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Chelicorophium curvispinum;Crustacea-Corophiidae;l;zoet;x;1;;;810;1.925;810;810;810;810;810;810;810;1
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Chironomus;Diptera-Chironomidae;l;zoet;x;1;;;1;0.94;1;;;;;;;1
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Corbicula;Bivalvia-overig;l;zoet;x;2;;;512;2.302;;;;;;;;
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Corophium;Crustacea-Corophiidae;l;zoet;x;3;;;420;1.674;420;420;420;420;420;420;420;3
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Cricotopus;Diptera-Chironomidae;l;zoet;x;1;;;1;3.266;1;;;;;;;1
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Dreissena polymorpha;Dreissenidae;l;zoet;x;1;;;56;1.392;56;56;56;56;56;56;56;1
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Erpobdella octoculata;Overig;l;zoet;x;1;;;7;1.747;9;9;9;9;9;9;9;1
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Ferrissia californica;Gastropoda;l;zoet;x;6;;;2;2.989;5;4;4;4;4;4;4;6
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Forelia;Overig;l;zoet;x;2;;;3;3.072;3;3;3;3;3;3;3;2
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Gammaridae;Crustacea-Amphipoda;l;zoet;x;5;;;276;2.815;;;;;;;;
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Gyraulus albus;Gastropoda;l;zoet;x;1;;;3;1.816;6;5;5;5;5;5;5;1
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Harnischia;Diptera-Chironomidae;l;zoet;x;1;;;1;2.939;1;1;1;1;1;1;1;1
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Jaera istri;Crustacea-Isopoda;l;zoet;x;1;;;1;2.728;1;1;1;1;1;1;1;1
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Limnesia;Overig;l;zoet;x;1;;;1;0.704;1;1;1;1;1;1;1;1
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Limnodrilus hoffmeisteri;Oligochaeta;l;zoet;x;131;;;1;1.7;3;5;5;5;5;5;5;131
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Mysidae;Overig;l;zoet;x;1;;;1;3.525;1;;;;;;;1
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Pisidium;Bivalvia-overig;l;zoet;x;7;;;16;0.728;;;;;;;;
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Pisidium henslowanum;Bivalvia-overig;l;zoet;x;1;;;12;2.856;15;16;16;16;16;16;16;1
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Pisidium moitessierianum;Bivalvia-overig;l;zoet;x;2;;;48;1.172;60;64;64;64;64;64;64;2
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Polypedilum pedestre;Diptera-Chironomidae;l;zoet;x;1;;;1;2.061;1;3;3;3;3;3;3;1
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Polypedilum scalaenum;Diptera-Chironomidae;l;zoet;x;1;;;2;0.416;2;11;11;11;11;11;11;1
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Schmidtea polychroa;Overig;l;zoet;x;1;;;1;3.108;1;1;1;1;1;1;1;1
+2000302700;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Trichoptera;Overig;l;zoet;x;3;;;2;3.32;;;;;;;;
+2000302722;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Ceratopogonidae;Overig;m2;zoet;x;2;;;105;2.389;105;105;105;105;105;105;105;2
+2000302722;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Chelicorophium curvispinum;Crustacea-Corophiidae;m2;zoet;x;2;;;79;0.273;79;79;79;79;79;79;79;2
+2000302722;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Corbicula fluminea;Bivalvia-overig;m2;zoet;x;3;;;325;1.507;1254;1506;1506;1506;1506;1506;1506;3
+2000302722;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Corophium;Crustacea-Corophiidae;m2;zoet;x;2;;;88;0.964;88;88;88;88;88;88;88;2
+2000302722;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Dikerogammarus;Crustacea-Amphipoda;m2;zoet;x;1;;;44;2.565;158;;;;;;;1
+2000302722;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Ecnomus tenellus;Overig;m2;zoet;x;1;;;9;2.04;9;10;10;10;10;10;10;1
+2000302722;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Gammaridae;Crustacea-Amphipoda;m2;zoet;x;2;;;412;1.783;;;;;;;;
+2000302722;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Gammarus;Crustacea-Amphipoda;m2;zoet;x;1;;;114;1.606;412;;;;;;;1
+2000302722;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Hypania invalida;Overig;m2;zoet;x;1;;;18;2.725;18;18;18;18;18;18;18;1
+2000302722;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Limnodrilus hoffmeisteri;Oligochaeta;m2;zoet;x;9;;;35;2.056;326;320;320;320;320;320;320;9
+2000302722;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Paratrichocladius rufiventris;Diptera-Chironomidae;m2;zoet;x;3;;;9;0.841;9;10;10;10;10;10;10;3
+2000302722;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Polypedilum;Diptera-Chironomidae;m2;zoet;x;1;;;70;2.581;94;;;;;;;1
+2000302722;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Potamothrix moldaviensis;Oligochaeta;m2;zoet;x;1;;;35;2.168;326;320;320;320;320;320;320;1
+2000302722;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Tubificidae;Oligochaeta;m2;zoet;x;1;;;728;0.823;;;;;;;;
+2000302723;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Chelicorophium curvispinum;Crustacea-Corophiidae;m2;zoet;x;1;;;5963;1.318;5963;5963;5963;5963;5963;5963;5963;1
+2000302723;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Corophium;Crustacea-Corophiidae;m2;zoet;x;1;;;5847;2.48;5847;5847;5847;5847;5847;5847;5847;1
+2000302752;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Acroloxus lacustris;Gastropoda;m2;zoet;x;3;;;2;2.034;7;4;4;4;4;4;4;3
+2000302752;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Chelicorophium curvispinum;Crustacea-Corophiidae;m2;zoet;x;4;;;167;1.328;167;167;167;167;167;167;167;4
+2000302752;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Corbicula fluminea;Bivalvia-overig;m2;zoet;x;1;;;19;1.156;70;86;86;86;86;86;86;1
+2000302752;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Corophium;Crustacea-Corophiidae;m2;zoet;x;1;;;98;1.962;98;98;98;98;98;98;98;1
+2000302752;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Cricotopus bicinctus;Diptera-Chironomidae;m2;zoet;x;3;;;56;1.963;75;75;75;75;75;75;75;3
+2000302752;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Cricotopus vierriensis;Diptera-Chironomidae;m2;zoet;x;6;;;130;1.1;174;176;176;176;176;176;176;6
+2000302752;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Dikerogammarus;Crustacea-Amphipoda;m2;zoet;x;4;;;2009;1.245;;;;;;;;
+2000302752;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Diptera;Overig;m2;zoet;x;1;;;2;1.305;;;;;;;;
+2000302752;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Dreissena polymorpha;Dreissenidae;m2;zoet;x;6;;;72;3.724;72;72;72;72;72;72;72;6
+2000302752;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Ecnomus tenellus;Overig;m2;zoet;x;1;;;2;1.489;2;3;3;3;3;3;3;1
+2000302752;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Gammaridae;Crustacea-Amphipoda;m2;zoet;x;9;;;4242;3.425;;;;;;;;
+2000302752;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Gammarus;Crustacea-Amphipoda;m2;zoet;x;5;;;56;0.453;181;;;;;;;5
+2000302752;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Hydroptila;Overig;m2;zoet;x;2;;;2;2.039;2;3;3;3;3;3;3;2
+2000302752;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Nais bretscheri;Oligochaeta;m2;zoet;x;4;;;14;2.875;14;14;14;14;14;14;14;4
+2000302752;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Pisidium;Bivalvia-overig;m2;zoet;x;5;;;2;1.8;2;;;;;;;5
+2017008397;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Ceratopogonidae;Overig;m2;zoet;x;1;;;1;2.195;1;1;1;1;1;1;1;1
+2017008397;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Chelicorophium curvispinum;Crustacea-Corophiidae;m2;zoet;x;2;;;3;0.986;11;10;10;10;10;10;10;2
+2017008397;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Chelicorophium robustum;Crustacea-Corophiidae;m2;zoet;x;1;;;2;3.079;7;6;6;6;6;6;6;1
+2017008397;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Cladotanytarsus mancus gr.;Diptera-Chironomidae;m2;zoet;x;3;;;3;0.909;3;3;3;3;3;3;3;3
+2017008397;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Corophiidae;Crustacea-Corophiidae;m2;zoet;x;1;;;12;1.152;;;;;;;;
+2017008397;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Cricotopus bicinctus;Diptera-Chironomidae;m2;zoet;x;2;;;5;3.308;5;5;5;5;5;5;5;2
+2017008397;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Cricotopus intersectus agg.;Diptera-Chironomidae;m2;zoet;x;2;;;11;2.966;11;12;12;12;12;12;12;2
+2017008397;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Dicrotendipes nervosus;Diptera-Chironomidae;m2;zoet;x;1;;;3;0.955;3;3;3;3;3;3;3;1
+2017008397;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Dikerogammarus haemobaphes;Crustacea-Amphipoda;m2;zoet;x;1;;;1;2.2;13;13;13;13;13;13;13;1
+2017008397;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Dreissena;Dreissenidae;m2;zoet;x;2;;;10;2.701;;;;;;;;
+2017008397;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Dreissena bugensis;Dreissenidae;m2;zoet;x;4;;;11;1.196;20;12;12;12;12;12;12;4
+2017008397;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Dreissena polymorpha;Dreissenidae;m2;zoet;x;1;;;1;2.784;2;1;1;1;1;1;1;1
+2017008397;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Gammaridae;Crustacea-Amphipoda;m2;zoet;x;1;;;177;2.328;;;;;;;;
+2017008397;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Hypania invalida;Overig;m2;zoet;x;1;;;1;2.973;1;1;1;1;1;1;1;1
+2017008397;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Nais;Oligochaeta;m2;zoet;x;9;;;1;1.667;;;;;;;;
+2017008397;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Paratanytarsus;Diptera-Chironomidae;m2;zoet;x;1;;;1;2.694;1;;;;;;;1
+2017008397;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Paratrichocladius rufiventris;Diptera-Chironomidae;m2;zoet;x;1;;;1;0.59;1;1;1;1;1;1;1;1
+2017008397;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Psectrocladius sordidellus/limbatellus gr.;Diptera-Chironomidae;m2;zoet;x;1;;;1;2.815;1;1;1;1;1;1;1;1
+2017008397;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Psychomyia pusilla;Overig;m2;zoet;x;27;;;2;2.799;2;2;2;2;2;2;2;27
+2017008397;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Tanytarsus;Diptera-Chironomidae;m2;zoet;x;13;;;3;1.209;;;;;;;;
+2017008397;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Tanytarsus brundini/curticornis;Diptera-Chironomidae;m2;zoet;x;4;;;1;2.104;4;4;4;4;4;4;4;4
+2017008397;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Tinodes waeneri;Overig;m2;zoet;x;1;;;1;1.828;1;1;1;1;1;1;1;1
+2017008398;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Ceratopogonidae;Overig;m2;zoet;x;1;;;21;1.082;21;21;21;21;21;21;21;1
+2017008398;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Chelicorophium curvispinum;Crustacea-Corophiidae;m2;zoet;x;1;;;14;2.858;67;42;42;42;42;42;42;1
+2017008398;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Cladotanytarsus mancus gr.;Diptera-Chironomidae;m2;zoet;x;1;;;543;2.032;554;547;547;547;547;547;547;1
+2017008398;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Corophiidae;Crustacea-Corophiidae;m2;zoet;x;1;;;53;2.827;;;;;;;;
+2017008398;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Cricotopus bicinctus;Diptera-Chironomidae;m2;zoet;x;1;;;12;1.694;12;13;13;13;13;13;13;1
+2017008398;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Cricotopus intersectus agg.;Diptera-Chironomidae;m2;zoet;x;2;;;47;0.54;47;52;52;52;52;52;52;2
+2017008398;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Dreissena bugensis;Dreissenidae;m2;zoet;x;1;;;1;1.938;1;1;1;1;1;1;1;1
+2017008398;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Hygrobates nigromaculatus [1];Overig;m2;zoet;x;6;;;3;3.299;3;3;3;3;3;3;3;6
+2017008398;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Hygrobates trigonicus;Overig;m2;zoet;x;5;;;7;0.102;7;7;7;7;7;7;7;5
+2017008398;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Limnodrilus claparedianus;Oligochaeta;m2;zoet;x;3;;;4;1.841;94;43;43;43;43;43;43;3
+2017008398;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Limnodrilus hoffmeisteri;Oligochaeta;m2;zoet;x;6;;;4;1.494;94;43;43;43;43;43;43;6
+2017008398;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Lithoglyphus naticoides;Gastropoda;m2;zoet;x;1;;;1;0.729;1;1;1;1;1;1;1;1
+2017008398;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Nais bretscheri;Oligochaeta;m2;zoet;x;4;;;4;2.458;4;5;5;5;5;5;5;4
+2017008398;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Neozavrelia;Diptera-Chironomidae;m2;zoet;x;2;;;12;3.441;12;12;12;12;12;12;12;2
+2017008398;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Polypedilum;Diptera-Chironomidae;m2;zoet;x;1;;;1;3.073;1;;;;;;;1
+2017008398;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Rhagionidae;Overig;m2;zoet;x;4;;;3;2.47;3;3;3;3;3;3;3;4
+2017008398;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Tanytarsus lestagei;Diptera-Chironomidae;m2;zoet;x;3;;;12;1.21;36;36;36;36;36;36;36;3
+2017008398;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Tubificidae;Oligochaeta;m2;zoet;x;1;;;359;1.811;;;;;;;;
+2017008413;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Branchiura sowerbyi;Oligochaeta;m2;zoet;x;2;;;29;1.916;484;302;302;302;302;302;302;2
+2017008413;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Bryozoa;Overig;m2;zoet;x;0;;;0;0;0;0;0;0;0;0;0;0
+2017008413;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Chelicorophium curvispinum;Crustacea-Corophiidae;m2;zoet;x;8;;;11;2.482;43;32;32;32;32;32;32;8
+2017008413;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Chironomus bernensis;Diptera-Chironomidae;m2;zoet;x;1;;;1;3.007;1;2;2;2;2;2;2;1
+2017008413;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Cladopelma viridulum gr.;Diptera-Chironomidae;m2;zoet;x;3;;;14;1.838;14;14;14;14;14;14;14;3
+2017008413;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Corbicula fluminea;Bivalvia-overig;m2;zoet;x;2;;;1;1.658;54;5;5;5;5;5;5;2
+2017008413;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Corophiidae;Crustacea-Corophiidae;m2;zoet;x;2;;;32;0.835;;;;;;;;
+2017008413;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Cricotopus bicinctus;Diptera-Chironomidae;m2;zoet;x;2;;;43;2.153;43;47;47;47;47;47;47;2
+2017008413;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Cricotopus intersectus agg.;Diptera-Chironomidae;m2;zoet;x;8;;;14;0.729;14;15;15;15;15;15;15;8
+2017008413;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Cryptochironomus;Diptera-Chironomidae;m2;zoet;x;2;;;14;3.264;14;;;;;;;2
+2017008413;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Cryptotendipes;Diptera-Chironomidae;m2;zoet;x;4;;;43;0.597;43;;;;;;;4
+2017008413;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Dikerogammarus villosus;Crustacea-Amphipoda;m2;zoet;x;4;;;1;1.925;289;13;13;13;13;13;13;4
+2017008413;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Gammaridae;Crustacea-Amphipoda;m2;zoet;x;1;;;288;1.549;;;;;;;;
+2017008413;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Limnodrilus claparedianus;Oligochaeta;m2;zoet;x;2;;;29;2.233;484;305;305;305;305;305;305;2
+2017008413;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Paratanytarsus dissimilis agg.;Diptera-Chironomidae;m2;zoet;x;2;;;29;1.692;29;47;47;47;47;47;47;2
+2017008413;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Polypedilum;Diptera-Chironomidae;m2;zoet;x;2;;;29;1.56;;;;;;;;
+2017008413;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Polypedilum bicrenatum;Diptera-Chironomidae;m2;zoet;x;2;;;29;0.944;36;35;35;35;35;35;35;2
+2017008413;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Polypedilum nubeculosum;Diptera-Chironomidae;m2;zoet;x;2;;;71;1.555;89;88;88;88;88;88;88;2
+2017008413;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Stempellina almi;Diptera-Chironomidae;m2;zoet;x;1;;;29;0.773;29;29;29;29;29;29;29;1
+2017008413;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Tanytarsus;Diptera-Chironomidae;m2;zoet;x;29;;;142;3.609;;;;;;;;
+2017008413;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Tanytarsus eminulus gr.;Diptera-Chironomidae;m2;zoet;x;7;;;14;2.876;49;42;42;42;42;42;42;7
+2017008413;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Tanytarsus medius;Diptera-Chironomidae;m2;zoet;x;1;;;29;1.864;101;86;86;86;86;86;86;1
+2019030110;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Alboglossiphonia hyalina;Overig;m2;zoet;x;2;;;7;0.407;7;7;7;7;7;7;7;2
+2019030110;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Cricotopus reversus;Diptera-Chironomidae;m2;zoet;x;7;;;13;2.046;21;18;18;18;18;18;18;7
+2019030110;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Cricotopus sylvestris gr.;Diptera-Chironomidae;m2;zoet;x;3;;;187;1.627;296;247;247;247;247;247;247;3
+2019030110;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Dicrotendipes nervosus;Diptera-Chironomidae;m2;zoet;x;1;;;20;3.414;20;20;20;20;20;20;20;1
+2019030110;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Dreissena bugensis;Dreissenidae;m2;zoet;x;3;;;13;1.963;80;19;19;19;19;19;19;3
+2019030110;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Endochironomus albipennis;Diptera-Chironomidae;m2;zoet;x;13;;;7;1.558;7;7;7;7;7;7;7;13
+2019030110;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Gammaridae;Crustacea-Amphipoda;m2;zoet;x;32;;;1284;1.199;;;;;;;;
+2019030110;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Naididae;Oligochaeta;m2;zoet;x;2;;;27;3.336;;;;;;;;
+2019030110;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Nais communis;Oligochaeta;m2;zoet;x;1;;;7;2.259;12;10;10;10;10;10;10;1
+2019030110;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Neozavrelia;Diptera-Chironomidae;m2;zoet;x;2;;;7;2.141;7;7;7;7;7;7;7;2
+2019030110;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Orthocladiinae;Diptera-Chironomidae;m2;zoet;x;2;;;47;1.514;;;;;;;;
+2019030110;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Paratanytarsus;Diptera-Chironomidae;m2;zoet;x;5;;;13;2.359;;;;;;;;
+2019030110;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Paratrichocladius rufiventris;Diptera-Chironomidae;m2;zoet;x;2;;;40;1.779;45;43;43;43;43;43;43;2
+2019030110;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Tanytarsus;Diptera-Chironomidae;m2;zoet;x;2;;;20;1.827;20;;;;;;;2
+2019030110;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Tubificidae;Oligochaeta;m2;zoet;x;1;;;7;3.463;7;;;;;;;1
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Caenis;Overig;l;zoet;x;4;;;1;1.421;;;;;;;;
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Caenis luctuosa;Overig;l;zoet;x;2;;;1;1.509;3;3;3;3;3;3;3;2
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Calopteryx splendens;Overig;l;zoet;x;1;;;1;2.117;1;1;1;1;1;1;1;1
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Corbicula;Bivalvia-overig;l;zoet;x;2;;;4;2.93;;;;;;;;
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Corbicula fluminea;Bivalvia-overig;l;zoet;x;1;;;0;2.244;4;4;4;4;4;4;4;1
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Corophiidae;Crustacea-Corophiidae;l;zoet;x;1;;;274;2.259;;;;;;;;
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Cricotopus (Isocladius);Diptera-Chironomidae;l;zoet;x;2;;;33;1.219;34;34;34;34;34;34;34;2
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Cricotopus bicinctus;Diptera-Chironomidae;l;zoet;x;2;;;25;2.885;26;26;26;26;26;26;26;2
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Cricotopus intersectus agg.;Diptera-Chironomidae;l;zoet;x;1;;;3;2.034;3;3;3;3;3;3;3;1
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Cricotopus sylvestris gr.;Diptera-Chironomidae;l;zoet;x;1;;;13;1.39;14;14;14;14;14;14;14;1
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Dicrotendipes nervosus;Diptera-Chironomidae;l;zoet;x;3;;;4;0.801;4;4;4;4;4;4;4;3
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Dikerogammarus;Crustacea-Amphipoda;l;zoet;x;4;;;9;1.651;;;;;;;;
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Dreissena;Dreissenidae;l;zoet;x;1;;;29;1.686;;;;;;;;
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Dreissena bugensis;Dreissenidae;l;zoet;x;3;;;88;1.357;114;114;114;114;114;114;114;3
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Dreissena polymorpha;Dreissenidae;l;zoet;x;1;;;10;3.166;13;13;13;13;13;13;13;1
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Ecnomus tenellus;Overig;l;zoet;x;1;;;5;3.303;5;5;5;5;5;5;5;1
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Ferrissia californica;Gastropoda;l;zoet;x;1;;;13;1.697;17;17;17;17;17;17;17;1
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Gammaridae;Crustacea-Amphipoda;l;zoet;x;1;;;43;3.737;;;;;;;;
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Gastropoda;Gastropoda;l;zoet;x;3;;;7;2.036;;;;;;;;
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Hygrobates nigromaculatus [1];Overig;l;zoet;x;1;;;4;2.255;4;4;4;4;4;4;4;1
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Hypania invalida;Overig;l;zoet;x;1;;;9;1.34;9;9;9;9;9;9;9;1
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Nanocladius dichromus/distinctus;Diptera-Chironomidae;l;zoet;x;1;;;1;1.503;1;1;1;1;1;1;1;1
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Orthotrichia;Overig;l;zoet;x;2;;;5;1.037;5;5;5;5;5;5;5;2
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Paratanytarsus;Diptera-Chironomidae;l;zoet;x;24;;;3;1.012;;;;;;;;
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Porifera;Overig;l;zoet;x;0;;;0;0;0;0;0;0;0;0;0;0
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Stenochironomus;Diptera-Chironomidae;l;zoet;x;1;;;1;2.878;1;1;1;1;1;1;1;1
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Stylaria lacustris;Oligochaeta;l;zoet;x;2;;;1;1.091;2;2;2;2;2;2;2;2
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Tanytarsus eminulus gr.;Diptera-Chironomidae;l;zoet;x;1;;;1;2.235;1;1;1;1;1;1;1;1
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Tubificidae;Oligochaeta;l;zoet;x;2;;;4;2.545;;;;;;;;
+2019030112;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Xenochironomus xenolabis;Diptera-Chironomidae;l;zoet;x;1;;;1;0.838;1;1;1;1;1;1;1;1
+2019030113;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Chaetogaster;Oligochaeta;m2;zoet;x;3;;;6;0.414;9;9;9;9;9;9;9;3
+2019030113;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Chelicorophium;Crustacea-Corophiidae;m2;zoet;x;1;;;18;2.219;;;;;;;;
+2019030113;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Chelicorophium curvispinum;Crustacea-Corophiidae;m2;zoet;x;1;;;12;3.257;153;20;20;20;20;20;20;1
+2019030113;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Cnidaria;Overig;m2;zoet;x;9;;;3;1.373;3;3;3;3;3;3;3;9
+2019030113;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Cricotopus;Diptera-Chironomidae;m2;zoet;x;11;;;9;0.367;;;;;;;;
+2019030113;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Cricotopus intersectus agg.;Diptera-Chironomidae;m2;zoet;x;124;;;9;1.89;9;12;12;12;12;12;12;124
+2019030113;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Dreissena bugensis;Dreissenidae;m2;zoet;x;20;;;47;1.022;249;66;66;66;66;66;66;20
+2019030113;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Dreissena polymorpha;Dreissenidae;m2;zoet;x;49;;;12;1.765;62;16;16;16;16;16;16;49
+2019030113;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Ferrissia californica;Gastropoda;m2;zoet;x;3;;;6;1.351;6;6;6;6;6;6;6;3
+2019030113;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Naididae;Oligochaeta;m2;zoet;x;1;;;65;2.731;;;;;;;;
+2019030113;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Nais bretscheri;Oligochaeta;m2;zoet;x;1;;;29;1.573;46;44;44;44;44;44;44;1
+2019030113;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Nais christinae;Oligochaeta;m2;zoet;x;7;;;24;1.051;37;35;35;35;35;35;35;7
+2019030113;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Nais pardalis;Oligochaeta;m2;zoet;x;4;;;12;3.529;18;18;18;18;18;18;18;4
+2019030113;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Nais variabilis;Oligochaeta;m2;zoet;x;1;;;6;1.867;9;9;9;9;9;9;9;1
+2019030113;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Orthocladius (Orthocladius);Diptera-Chironomidae;m2;zoet;x;1;;;9;1.629;9;9;9;9;9;9;9;1
+2019030113;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Paratanytarsus dissimilis;Diptera-Chironomidae;m2;zoet;x;1;;;9;2.713;11;12;12;12;12;12;12;1
+2019030113;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Paratanytarsus dissimilis agg.;Diptera-Chironomidae;m2;zoet;x;1;;;26;1.976;33;35;35;35;35;35;35;1
+2019030113;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Potamopyrgus antipodarum;Gastropoda;m2;zoet;x;2;;;6;1.185;6;6;6;6;6;6;6;2
+2019030113;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Pristina;Oligochaeta;m2;zoet;x;2;;;35;1.083;53;52;52;52;52;52;52;2
+2019030113;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Stylaria lacustris;Oligochaeta;m2;zoet;x;2;;;6;2.113;9;9;9;9;9;9;9;2
+2019030113;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Tanytarsus;Diptera-Chironomidae;m2;zoet;x;2;;;18;1.53;;;;;;;;
+2019030113;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 1;;;;;Tinodes waeneri;Overig;m2;zoet;x;4;;;12;2.27;12;12;12;12;12;12;12;4
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Ancylus fluviatilis;Gastropoda;l;zoet;x;2;;;6;2.675;72;20;50;36;13;210;14;2
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Asellus aquaticus;Crustacea-Isopoda;l;zoet;x;1;;;6;2.21;9;30;51;15451;43;64;30;1
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Caenis luctuosa;Overig;l;zoet;x;1;;;1680;2.869;84221;5368;715;759;775;3564;810;1
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Chelicorophium curvispinum;Crustacea-Corophiidae;l;zoet;x;1;;;15258;3.473;12790;142719;134316;12466;19404;82892;12410;1
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Chironomus;Diptera-Chironomidae;l;zoet;x;1;;;12;2.861;66;;;;;;;1
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Corophium;Crustacea-Corophiidae;l;zoet;x;4;;;15538;2.497;6100;5732;10841;9390;16811;4639;10737;4
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Cricotopus;Diptera-Chironomidae;l;zoet;x;2;;;10;2.22;12;;;;;;;2
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Dreissena polymorpha;Dreissenidae;l;zoet;x;1;;;8165;1.658;2837;35661;827;9587;778;602;708;1
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Ephemeroptera;Overig;l;zoet;x;3;;;19;2.507;;;;;;;;
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Erpobdella;Overig;l;zoet;x;5;;;15;1.748;;;;;;;;
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Ferrissia californica;Gastropoda;l;zoet;x;3;;;108;1.371;86;624;38;83;61;42;176;3
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Gammaridae;Crustacea-Amphipoda;l;zoet;x;3;;;63397;2.592;;;;;;;;
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Gastropoda;Gastropoda;l;zoet;x;18;;;2985;3.065;;;;;;;;
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Gyraulus albus;Gastropoda;l;zoet;x;1;;;50;1.698;78;238;90;130;52;52;104;1
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Hypania invalida;Overig;l;zoet;x;2;;;5633;1.418;12058;12494;34187;4159;4940;4466;4345;2
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Jaera istri;Crustacea-Isopoda;l;zoet;x;2;;;20;2.024;49;6;6;8;67;6;255;2
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Limnesia;Overig;l;zoet;x;1;;;9;2.195;7;15;28;14;6;8;13;1
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Limnodrilus hoffmeisteri;Oligochaeta;l;zoet;x;1;;;33;1.269;107;93;237;60;217;349;72;1
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Nanocladius dichromus/distinctus;Diptera-Chironomidae;l;zoet;x;1;;;10;2.16;9;10;7;8;8;42;34;1
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Parachironomus frequens;Diptera-Chironomidae;l;zoet;x;5;;;67;1.998;18;34;69;25;115;33;38;5
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Paratendipes albimanus;Diptera-Chironomidae;l;zoet;x;1;;;15;2.823;7;9;12;48;591;9;9;1
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Pisidium casertanum;Bivalvia-overig;l;zoet;x;1;;;123;3.075;105;183;87;587;8775;55;256;1
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Polypedilum pedestre;Diptera-Chironomidae;l;zoet;x;2;;;612;3.202;41;47;33;196;39;54;58;2
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Procladius;Diptera-Chironomidae;l;zoet;x;4;;;925;1.973;1507;305;327;261;1736;667;248;4
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Rhynchelmis;Oligochaeta;l;zoet;x;2;;;7;1.047;20;7;7;6;5;15;22;2
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Tubificidae;Oligochaeta;l;zoet;x;4;;;649;1.752;;;;;;;;
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Unio;Bivalvia-overig;l;zoet;x;8;;;35;0.417;;;;;;;;
+2000302764;2000;2000-2001;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Unio pictorum;Bivalvia-overig;l;zoet;x;2;;;14;3.132;47;21;21;48;20;170;21;2
+2000302786;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Ceratopogonidae;Overig;m2;zoet;x;2;;;1523;0.6;1322;1277;3400;13483;55140;2231;3116;2
+2000302786;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Corbicula fluminea;Bivalvia-overig;m2;zoet;x;1;;;10772;1.616;14285;19319;130745;19892;79718;43381;79093;1
+2000302786;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Corophium;Crustacea-Corophiidae;m2;zoet;x;1;;;1009;2.971;6187;38690;883;30205;2140;945;2517;1
+2000302786;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Cryptochironomus;Diptera-Chironomidae;m2;zoet;x;1;;;129;1.049;126;159;285;149;227;221;303;1
+2000302786;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Ferrissia californica;Gastropoda;m2;zoet;x;3;;;151;2.156;369;2899;574;635;172;164;354;3
+2000302786;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Hypania invalida;Overig;m2;zoet;x;1;;;265;1.829;505;407;199;176;782;194;327;1
+2000302786;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Limnodrilus hoffmeisteri;Oligochaeta;m2;zoet;x;1;;;2174;1.736;3627;8244;10958;3203;366284;13385;4189;1
+2000302786;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Potamothrix moldaviensis;Oligochaeta;m2;zoet;x;9;;;985;0.595;9602;13274;6309;9988;5825;7076;4132;9
+2000302786;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Psammoryctides barbatus;Oligochaeta;m2;zoet;x;3;;;140;2.375;1074;1093;934;1626;2158;1138;2747;3
+2000302786;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Tubifex tubifex;Oligochaeta;m2;zoet;x;2;;;346;2.207;1003;880;875;1613;2012;996;2647;2
+2000302787;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Cladotanytarsus mancus gr.;Diptera-Chironomidae;m2;zoet;x;3;;;37;1.792;42;106;85;241;2382;48;75;3
+2000302787;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Enchytraeidae;Oligochaeta;m2;zoet;x;1;;;36;0.566;36;53;36;96;77;38;54;1
+2000302787;2000;2000-2001;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Neozavrelia;Diptera-Chironomidae;m2;zoet;x;4;;;208;1.552;40;45;45;60;1067;517;53;4
+2000302816;2000;2000-2001;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Acroloxus lacustris;Gastropoda;m2;zoet;x;2;;;55;3.055;121;43;77;128;45;348;42;2
+2000302816;2000;2000-2001;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Asellidae;Crustacea-Isopoda;m2;zoet;x;32;;;25;1.217;82;;;;;;;32
+2000302816;2000;2000-2001;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Chelicorophium curvispinum;Crustacea-Corophiidae;m2;zoet;x;2;;;1807;1.001;2607;1695;1885;161745;3392;63331;5403;2
+2000302816;2000;2000-2001;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Corbicula fluminea;Bivalvia-overig;m2;zoet;x;1;;;226;2.681;1729;3690;914;4139;1070;1329;1119;1
+2000302816;2000;2000-2001;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Corophium;Crustacea-Corophiidae;m2;zoet;x;12;;;1114;1.5;5901;1445;6929;3816;700976;1115;1491;12
+2000302816;2000;2000-2001;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Cricotopus bicinctus;Diptera-Chironomidae;m2;zoet;x;3;;;1010;1.047;2331;1838;2174;851;3193;1855;3637;3
+2000302816;2000;2000-2001;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Cricotopus vierriensis;Diptera-Chironomidae;m2;zoet;x;15;;;2789;1.892;2736;3372;2247;3374;6011;1986;2782;15
+2000302816;2000;2000-2001;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Dikerogammarus;Crustacea-Amphipoda;m2;zoet;x;2;;;134876;3.303;;;;;;;;
+2000302816;2000;2000-2001;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Diptera;Overig;m2;zoet;x;1;;;24;1.785;;;;;;;;
+2000302816;2000;2000-2001;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Dreissena polymorpha;Dreissenidae;m2;zoet;x;3;;;1206;0.876;6141;13298;1555;1665;743;1014;1048;3
+2000302816;2000;2000-2001;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Gastropoda;Gastropoda;m2;zoet;x;4;;;923;0.555;;;;;;;;
+2000302816;2000;2000-2001;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Hydroptila;Overig;m2;zoet;x;26;;;26;1.64;54;26;28;885;59;964;34;26
+2000302816;2000;2000-2001;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Nais pardalis;Oligochaeta;m2;zoet;x;2;;;311;1.326;233;99;193;13607;324;904;333;2
+2000302816;2000;2000-2001;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Potamopyrgus antipodarum;Gastropoda;m2;zoet;x;2;;;804;1.556;1599;2409;1862;459;1283;416;629;2
+2017008461;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Argyroneta aquatica;Overig;m2;zoet;x;2;;;38;0.771;32;20;14;25;40;22;370;2
+2017008461;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Ceratopogonidae;Overig;m2;zoet;x;2;;;9;0.632;29;20;21;12;8;161;7;2
+2017008461;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Chelicorophium robustum;Crustacea-Corophiidae;m2;zoet;x;1;;;71;1.81;262;133;71;71;930;343;76;1
+2017008461;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Corophiidae;Crustacea-Corophiidae;m2;zoet;x;3;;;136;1.809;;;;;;;;
+2017008461;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Cricotopus;Diptera-Chironomidae;m2;zoet;x;11;;;7;2.688;;;;;;;;
+2017008461;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Cricotopus bicinctus;Diptera-Chironomidae;m2;zoet;x;2;;;73;2.283;53;108;94;69;275;75;74;2
+2017008461;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Cricotopus intersectus agg.;Diptera-Chironomidae;m2;zoet;x;31;;;122;2.373;166;435;333;168;215;667;152;31
+2017008461;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Dicrotendipes nervosus;Diptera-Chironomidae;m2;zoet;x;9;;;823;2.139;117;51;37;162;400;114;156;9
+2017008461;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Dikerogammarus villosus;Crustacea-Amphipoda;m2;zoet;x;2;;;366;3.537;6822;8805;2598;5987;5598;2419;6032;2
+2017008461;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Dreissena bugensis;Dreissenidae;m2;zoet;x;1;;;344;1.954;569;451;17458;126;202;138;130;1
+2017008461;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Dreissena polymorpha;Dreissenidae;m2;zoet;x;2;;;30;2.524;43;27;14;15;44;38;34;2
+2017008461;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Hypania invalida;Overig;m2;zoet;x;1054;;;24;1.656;14;26;17;28;13;8;13;1054
+2017008461;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Limnomysis benedeni;Overig;m2;zoet;x;2;;;214;2.745;253;445;302;944;206;371;317;2
+2017008461;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Mysidae;Overig;m2;zoet;x;2;;;96;1.892;;;;;;;;
+2017008461;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Psectrocladius sordidellus/limbatellus gr.;Diptera-Chironomidae;m2;zoet;x;2;;;12;3.024;47;12;82;14;22;9;14;2
+2017008461;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Psychomyia pusilla;Overig;m2;zoet;x;6;;;47;2.322;63;41;81;80;22;197;23;6
+2017008461;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Stylaria lacustris;Oligochaeta;m2;zoet;x;1;;;55;2.884;141;98;450;97;31;2430;66;1
+2017008461;2017;2017;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Tanytarsus;Diptera-Chironomidae;m2;zoet;x;3;;;27;2.679;;;;;;;;
+2017008462;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Bryozoa;Overig;m2;zoet;x;0;;;0;0;0;0;0;0;0;0;0;0
+2017008462;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Ceratopogonidae;Overig;m2;zoet;x;4;;;4338;1.975;581;295;377;1475;433;946;294;4
+2017008462;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Chironomus acutiventris;Diptera-Chironomidae;m2;zoet;x;4;;;1748;2.951;832;1300;2063;1809;1309;1375;32474;4
+2017008462;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Cladotanytarsus mancus;Diptera-Chironomidae;m2;zoet;x;1;;;296;0.386;302;272;3142;1747;254;1164;1156;1
+2017008462;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Corophiidae;Crustacea-Corophiidae;m2;zoet;x;3;;;727;1.034;;;;;;;;
+2017008462;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Cricotopus (Isocladius);Diptera-Chironomidae;m2;zoet;x;5;;;472882;2.208;224;140;193;209;140;133;149;5
+2017008462;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Cryptotendipes;Diptera-Chironomidae;m2;zoet;x;35;;;4472;1.318;;;;;;;;
+2017008462;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Dero digitata;Oligochaeta;m2;zoet;x;3;;;66;3.019;254;90;44;58;171;49;362;3
+2017008462;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Dikerogammarus villosus;Crustacea-Amphipoda;m2;zoet;x;1;;;180;3.013;47707;8729;1874;2304;2317;6841;2760;1
+2017008462;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Gammaridae;Crustacea-Amphipoda;m2;zoet;x;4;;;4796;1.172;;;;;;;;
+2017008462;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Hygrobates trigonicus;Overig;m2;zoet;x;1;;;116;0.544;178;102;357;215;147;3318;121;1
+2017008462;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Hypania invalida;Overig;m2;zoet;x;1;;;1418;0.56;1106;1064;285;645;359;415;1170;1
+2017008462;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Limnodrilus claparedianus;Oligochaeta;m2;zoet;x;1;;;224;1.454;13374;1492;585;472;659;670;947;1
+2017008462;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Nais bretscheri;Oligochaeta;m2;zoet;x;1;;;51;2.796;383;89;57;123;51;108;145;1
+2017008462;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Neozavrelia;Diptera-Chironomidae;m2;zoet;x;1;;;335;1.164;263;196;19876;809;138;233;1535;1
+2017008462;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Stempellina almi;Diptera-Chironomidae;m2;zoet;x;2;;;444;0.906;160;184;3710;142;123;1279;136;2
+2017008462;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Tanytarsini;Diptera-Chironomidae;m2;zoet;x;1;;;139;1.058;;;;;;;;
+2017008462;2017;2017;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Tanytarsus;Diptera-Chironomidae;m2;zoet;x;2;;;321;1.683;;;;;;;;
+2017008477;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Branchiura sowerbyi;Oligochaeta;m2;zoet;x;2;;;704;2.247;17773;3883;12142;8729;3979;3229;3139;2
+2017008477;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Chelicorophium curvispinum;Crustacea-Corophiidae;m2;zoet;x;1;;;753;2.344;1046;607;1606;1513;341;374;3436;1
+2017008477;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Chironomus bernensis;Diptera-Chironomidae;m2;zoet;x;3;;;14;2.144;22;47;71;89;35;43;68;3
+2017008477;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Cladotanytarsus mancus;Diptera-Chironomidae;m2;zoet;x;2;;;148;0.877;554;170;353;2585;833;500;856;2
+2017008477;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Corbicula fluminea;Bivalvia-overig;m2;zoet;x;2;;;34;1.979;2638;69;55;158;100;231;1978;2
+2017008477;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Cryptochironomus;Diptera-Chironomidae;m2;zoet;x;2;;;157;2.097;231;;;;;;;2
+2017008477;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Dicrotendipes nervosus;Diptera-Chironomidae;m2;zoet;x;41;;;584;2.895;168;203;217;163;628;196;145;41
+2017008477;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Dikerogammarus villosus;Crustacea-Amphipoda;m2;zoet;x;1;;;21;2.843;6635;128;234;156;202;139;263;1
+2017008477;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Dreissena polymorpha;Dreissenidae;m2;zoet;x;7;;;19;1.681;227;24;22;79;25;33;139;7
+2017008477;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Gammaridae;Crustacea-Amphipoda;m2;zoet;x;2;;;13024;1.042;;;;;;;;
+2017008477;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Hygrobates nigromaculatus [1];Overig;m2;zoet;x;5;;;4379;1.492;4044;4015;3138;6705;7405;7395;3099;5
+2017008477;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Nanocladius;Diptera-Chironomidae;m2;zoet;x;3;;;148;2.034;3017;;;;;;;3
+2017008477;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Polypedilum bicrenatum;Diptera-Chironomidae;m2;zoet;x;17;;;1027;0.846;501;374;1274;2917;748;901;1487;17
+2017008477;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Polypedilum nubeculosum;Diptera-Chironomidae;m2;zoet;x;3;;;822;2.003;1057;1320;1019;1577;1903;1235;924;3
+2017008477;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Stempellina almi;Diptera-Chironomidae;m2;zoet;x;1;;;474;1.528;387;384;1289;1158;305;353;366;1
+2017008477;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Tanytarsus eminulus gr.;Diptera-Chironomidae;m2;zoet;x;1;;;2863;3.578;1026;429;993;1305;421;450;22179;1
+2017008477;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Tanytarsus medius;Diptera-Chironomidae;m2;zoet;x;1;;;1827;0.978;2204;1768;8758;1200;38564;14920;12173;1
+2017008477;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Tanytarsus pallidicornis;Diptera-Chironomidae;m2;zoet;x;1;;;715;0.844;549;512;480;424;451;4465;650;1
+2017008477;2017;2017;trend;loc 3;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Tubificidae;Oligochaeta;m2;zoet;x;3;;;17704;2.808;;;;;;;;
+2019030174;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Alboglossiphonia hyalina;Overig;m2;zoet;x;2;;;271;1.602;123;74;748;119;263;396;616;2
+2019030174;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Caenis luctuosa;Overig;m2;zoet;x;1;;;1137;1.947;80;157;73;69;275;94;67;1
+2019030174;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Chelicorophium curvispinum;Crustacea-Corophiidae;m2;zoet;x;3;;;553;2.908;1061;221604;687;657;493;7646;486;3
+2019030174;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Cladotanytarsus mancus gr.;Diptera-Chironomidae;m2;zoet;x;1;;;627;3.046;540;13095;336;871;17074;377;273;1
+2019030174;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Cricotopus;Diptera-Chironomidae;m2;zoet;x;1;;;3476;1.882;;;;;;;;
+2019030174;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Cricotopus albiforceps;Diptera-Chironomidae;m2;zoet;x;2;;;1367;1.053;975;1127;1608;1364;1333;3196;15834;2
+2019030174;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Cricotopus reversus;Diptera-Chironomidae;m2;zoet;x;2;;;135;1.258;421;299;191;210;241;183;3868;2
+2019030174;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Dreissena;Dreissenidae;m2;zoet;x;10;;;1546;2.819;;;;;;;;
+2019030174;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Dreissena bugensis;Dreissenidae;m2;zoet;x;3;;;447;1.605;13778;2329;207;388;410;267;1094;3
+2019030174;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Dreissena polymorpha;Dreissenidae;m2;zoet;x;1;;;214;2.02;4298;607;315;804;3209;3099;5519;1
+2019030174;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Endochironomus albipennis;Diptera-Chironomidae;m2;zoet;x;2;;;2333;3.162;135;234;93;114;692;112;179;2
+2019030174;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Gammaridae;Crustacea-Amphipoda;m2;zoet;x;5;;;91284;2.496;;;;;;;;
+2019030174;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Jaera istri;Crustacea-Isopoda;m2;zoet;x;10;;;601;1.972;422;14389;432;1323;992;1000;432;10
+2019030174;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Nais communis;Oligochaeta;m2;zoet;x;3;;;88;1.03;265;262;135;311;155;191;104;3
+2019030174;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Neozavrelia;Diptera-Chironomidae;m2;zoet;x;1;;;166;1.778;92;97;84;2145;2437;137;135;1
+2019030174;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Paratanytarsus dissimilis agg.;Diptera-Chironomidae;m2;zoet;x;2;;;234;2.838;920;317;1074;896;1012;453;480;2
+2019030174;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Paratrichocladius rufiventris;Diptera-Chironomidae;m2;zoet;x;2;;;913;3.258;17930;51965;749;1976;2340;718;457;2
+2019030174;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Stylaria lacustris;Oligochaeta;m2;zoet;x;1;;;477;2.447;481;371;324;338;566;580;2015;1
+2019030174;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Tubificidae;Oligochaeta;m2;zoet;x;4;;;74;2.208;110;;;;;;;4
+2019030174;2019;2019;trend;loc 1;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Xenochironomus xenolabis;Diptera-Chironomidae;m2;zoet;x;2;;;178;3.328;175;4008;1181;1055;380;294;145;2
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Caenis luctuosa;Overig;l;zoet;x;1;;;17;1.502;140;42;53;91;38;37;27;1
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Calopteryx splendens;Overig;l;zoet;x;2;;;45;2.259;35;18;17;59;154;34;20;2
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Cnidaria;Overig;l;zoet;x;1;;;2;1.714;3;7;3;4;17;3;33;1
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Corbicula;Bivalvia-overig;l;zoet;x;1;;;81;0.853;;;;;;;;
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Corophiidae;Crustacea-Corophiidae;l;zoet;x;1;;;26207;1.664;;;;;;;;
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Cricotopus bicinctus;Diptera-Chironomidae;l;zoet;x;2;;;824;2.201;1123;427;306;309;488;520;608;2
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Cricotopus intersectus agg.;Diptera-Chironomidae;l;zoet;x;2;;;39;1.228;29;206;31;106;728;46;27;2
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Cricotopus sylvestris gr.;Diptera-Chironomidae;l;zoet;x;1;;;790;2.334;352;206;318;399;231;288;143;1
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Dicrotendipes nervosus;Diptera-Chironomidae;l;zoet;x;2;;;146;3.303;131;45;471;70;61;63;43;2
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Dikerogammarus;Crustacea-Amphipoda;l;zoet;x;13;;;1587;1.155;;;;;;;;
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Ecnomus tenellus;Overig;l;zoet;x;2;;;59;2.098;93;96;3454;146;419;62;65;2
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Gammaridae;Crustacea-Amphipoda;l;zoet;x;4;;;3352;2.065;;;;;;;;
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Hydrellia;Overig;l;zoet;x;5;;;18;0.296;36;20;13;38;17;16;192;5
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Jaera istri;Crustacea-Isopoda;l;zoet;x;1;;;1263;0.705;5734;981;788;3223;1239;2521;1161;1
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Limnodrilus claparedianus;Oligochaeta;l;zoet;x;2;;;32;2.296;279;109;54;389;83;97;163;2
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Limnomysis benedeni;Overig;l;zoet;x;2;;;33;3.01;90;127;106;194;84;49;83;2
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Naididae;Oligochaeta;l;zoet;x;3;;;147;2.119;;;;;;;;
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Nanocladius dichromus/distinctus;Diptera-Chironomidae;l;zoet;x;2;;;135;2.65;15;33;32;21;22;28;15;2
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Nemertea;Overig;l;zoet;x;2;;;23;1.888;783;74;21;18;35;55;27;2
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Ophidonais serpentina;Oligochaeta;l;zoet;x;1;;;52;2.543;28;54;45;332;75;21;36;1
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Orthotrichia;Overig;l;zoet;x;2;;;131;2.053;280;238;63;58;60;143;4140;2
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Paratanytarsus;Diptera-Chironomidae;l;zoet;x;10;;;52;2.444;;;;;;;;
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Paratanytarsus inopertus;Diptera-Chironomidae;l;zoet;x;8;;;59;1.567;236;72;95;978;164;390;89;8
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Physella acuta;Gastropoda;l;zoet;x;14;;;126;0.457;289;516;456;327;279;320;1900;14
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Pionidae;Overig;l;zoet;x;4;;;23;3.139;50;567;57;16;23;50;16;4
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Platycnemis pennipes;Overig;l;zoet;x;2;;;49;1.788;4833;93;173;42;157;119;290;2
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Porifera;Overig;l;zoet;x;0;;;0;0;0;0;0;0;0;0;0;0
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Stylaria lacustris;Oligochaeta;l;zoet;x;8;;;46;1.614;1629;47;175;20;22;225;60;8
+2019030176;2019;2019;trend;loc 2;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Xenochironomus xenolabis;Diptera-Chironomidae;l;zoet;x;3;;;36;2.085;21;133;27;27;34;14;26;3
+2019030177;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Chelicorophium curvispinum;Crustacea-Corophiidae;m2;zoet;x;1;;;282;2.024;1749;1195;1203;277;926;922;409;1
+2019030177;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Cnidaria;Overig;m2;zoet;x;1;;;75;1.393;126;87;213;53;46;64;57;1
+2019030177;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Corophiidae;Crustacea-Corophiidae;m2;zoet;x;6;;;1286;1.233;;;;;;;;
+2019030177;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Cricotopus triannulatus;Diptera-Chironomidae;m2;zoet;x;1;;;290;1.844;13227;1135;422;752;1657;618;645;1
+2019030177;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Dicrotendipes nervosus;Diptera-Chironomidae;m2;zoet;x;1;;;2272;1.285;3544;2262;23437;4670;3905;4474;6828;1
+2019030177;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Enchytraeidae;Oligochaeta;m2;zoet;x;1;;;134;1.204;307;2991;119;162;299;189;1643;1
+2019030177;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Gammaridae;Crustacea-Amphipoda;m2;zoet;x;1;;;1024;2.137;;;;;;;;
+2019030177;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Hypania invalida;Overig;m2;zoet;x;1;;;77;1.657;66;93;62;2260;383;30094;108;1
+2019030177;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Nais christinae;Oligochaeta;m2;zoet;x;4;;;285;0.531;1899;5169;1036;557;510;606;415;4
+2019030177;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Nais pardalis;Oligochaeta;m2;zoet;x;1;;;369;1.536;385;215;203;221;1353;228;387;1
+2019030177;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Nais variabilis;Oligochaeta;m2;zoet;x;2;;;78;2.353;108;135;94;165;417;97;211;2
+2019030177;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Orthocladius (Orthocladius);Diptera-Chironomidae;m2;zoet;x;1;;;1740;2.654;91;2351;215;303;110;108;214;1
+2019030177;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Paratanytarsus;Diptera-Chironomidae;m2;zoet;x;2;;;277;1.201;;;;;;;;
+2019030177;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Polypedilum nubeculosum;Diptera-Chironomidae;m2;zoet;x;5;;;260;0.585;250;182;214;95;136;661;245;5
+2019030177;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Pristina;Oligochaeta;m2;zoet;x;1;;;594;1.746;844;2228;2360;5026;7019;1992;951;1
+2019030177;2019;2019;trend;loc 4;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Tanytarsus;Diptera-Chironomidae;m2;zoet;x;2;;;665;0.976;;;;;;;;
+2019030178;2019;2019;trend;loc 5;BOXCRR;FALSE;najaar;Zandmaas;Gebied 2;;;;;Azoisch;;m2;zoet;x;0;;;0;0;0;0;0;0;0;0;0;0

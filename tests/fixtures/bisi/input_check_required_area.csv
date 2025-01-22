@@ -1,0 +1,11 @@
+BISI_gebied;Bemonsteringsapp;Support_Eenheid;Support
+test;Boxcore (0,078 m2);m2;0.078
+test;Dredge (20 m2);m2;20
+test;Dredge (15 m2);m2;15
+test;Hamon grab (0,09 m2);m2;0.09
+test;Video tracks (>240 m2);m2;240
+test;Video tracks (20 m2);m2;20
+test;Dredge/Video (20 or 240 m2);m2;20
+test;Dredge/Video (20 or 240 m2);m2;240
+test;Boxcore/Hamon (0,078-0,09 m2);m2;0.078
+test;Boxcore/Hamon (0,078-0,09 m2);m2;0.09

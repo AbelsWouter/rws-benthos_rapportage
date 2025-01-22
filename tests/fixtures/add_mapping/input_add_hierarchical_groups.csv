@@ -1,0 +1,85 @@
+Analyse_taxonnaam;Taxongroup_code;Trendgroep;Waterlichaam;Groep
+Alboglossiphonia;APHIR;zoet;Zoet;Overig
+Tubifex tubifex;APOLI;zoet;Zoet;Oligochaeta
+Tricladida;APTUR;zoet;Zoet;Overig
+Arachnida;ARACH;zoet;Zoet;Overig
+Porifera;BRHYP;zoet;Zoet;Overig
+Chelicorophium;CRAMP;zoet;Zoet;Crustacea-Amphipoda
+Jaera istri;CRISO;zoet;Zoet;Crustacea-Isopoda
+Limnomysis benedeni;CRMYS;zoet;Zoet;Overig
+Xenochironomus xenolabis;IDCHI;zoet;Zoet;Diptera-Chironomidae
+Ceratopogonidae;IDREM;zoet;Zoet;Overig
+Caenis;INEPH;zoet;Zoet;Overig
+Sigara falleni gr.;INHET;zoet;Zoet;Overig
+Elophila nymphaeata;INLEP;zoet;Zoet;Overig
+Pyrrhosoma nymphula;INODO;zoet;Zoet;Overig
+Sialis;INREM;zoet;Zoet;Overig
+Triaenodes bicolor;INTRI;zoet;Zoet;Overig
+Prostoma;MAREM;zoet;Zoet;Overig
+Abra;MOBIV;zoet;Zoet;Bivalvia-overig
+Bivalvia;MOBIV;zoet;Zoet;Bivalvia-overig
+Corbicula;MOBIV;zoet;Zoet;Bivalvia-overig
+Acroloxus lacustris;MOGAS;zoet;Zoet;Gastropoda
+Corbicula;MOBIV;zoet;Zoet;Bivalvia-overig
+Corbicula fluminea;MOBIV;zoet;Zoet;Bivalvia-overig
+Dreissena;MOBIV;zoet;Zoet;Bivalvia-overig
+Dreissena polymorpha;MOBIV;zoet;Zoet;Bivalvia-overig
+Dreissenidae;MOBIV;zoet;Zoet;Bivalvia-overig
+Chelicorophium;CRAMP;zoet;Zoet;Crustacea-Amphipoda
+Niphargus;CRAMP;zoet;Zoet;Crustacea-Amphipoda
+Alboglossiphonia;APHIR;overgang;Overgang;Overig
+Tubifex tubifex;APOLI;overgang;Overgang;Oligochaeta
+Tricladida;APTUR;overgang;Overgang;Overig
+Arachnida;ARACH;overgang;Overgang;Overig
+Porifera;BRHYP;overgang;Overgang;Overig
+Chelicorophium;CRAMP;overgang;Overgang;Crustacea
+Jaera istri;CRISO;overgang;Overgang;Crustacea
+Limnomysis benedeni;CRMYS;overgang;Overgang;Crustacea
+Xenochironomus xenolabis;IDCHI;overgang;Overgang;Overig
+Ceratopogonidae;IDREM;overgang;Overgang;Overig
+Caenis;INEPH;overgang;Overgang;Overig
+Sigara falleni gr.;INHET;overgang;Overgang;Overig
+Elophila nymphaeata;INLEP;overgang;Overgang;Overig
+Pyrrhosoma nymphula;INODO;overgang;Overgang;Overig
+Sialis;INREM;overgang;Overgang;Overig
+Triaenodes bicolor;INTRI;overgang;Overgang;Overig
+Prostoma;MAREM;overgang;Overgang;Overig
+Abra;MOBIV;overgang;Overgang;Bivalvia
+Bivalvia;MOBIV;overgang;Overgang;Bivalvia
+Corbicula;MOBIV;overgang;Overgang;Bivalvia
+Acroloxus lacustris;MOGAS;overgang;Overgang;Gastropoda
+Corbicula;MOBIV;overgang;Overgang;Bivalvia
+Corbicula fluminea;MOBIV;overgang;Overgang;Bivalvia
+Dreissena;MOBIV;overgang;Overgang;Bivalvia
+Dreissena polymorpha;MOBIV;overgang;Overgang;Bivalvia
+Dreissenidae;MOBIV;overgang;Overgang;Bivalvia
+Chelicorophium;CRAMP;overgang;Overgang;Crustacea
+Niphargus;CRAMP;overgang;Overgang;Crustacea
+Alboglossiphonia;APHIR;marien;Marien;Overig
+Tubifex tubifex;APOLI;marien;Marien;Oligochaeta
+Tricladida;APTUR;marien;Marien;Overig
+Arachnida;ARACH;marien;Marien;Overig
+Porifera;BRHYP;marien;Marien;Overig
+Chelicorophium;CRAMP;marien;Marien;Crustacea
+Jaera istri;CRISO;marien;Marien;Crustacea
+Limnomysis benedeni;CRMYS;marien;Marien;Crustacea
+Xenochironomus xenolabis;IDCHI;marien;Marien;Overig
+Ceratopogonidae;IDREM;marien;Marien;Overig
+Caenis;INEPH;marien;Marien;Overig
+Sigara falleni gr.;INHET;marien;Marien;Overig
+Elophila nymphaeata;INLEP;marien;Marien;Overig
+Pyrrhosoma nymphula;INODO;marien;Marien;Overig
+Sialis;INREM;marien;Marien;Overig
+Triaenodes bicolor;INTRI;marien;Marien;Overig
+Prostoma;MAREM;marien;Marien;Overig
+Abra;MOBIV;marien;Marien;Bivalvia
+Bivalvia;MOBIV;marien;Marien;Bivalvia
+Corbicula;MOBIV;marien;Marien;Bivalvia
+Acroloxus lacustris;MOGAS;marien;Marien;Gastropoda
+Corbicula;MOBIV;marien;Marien;Bivalvia
+Corbicula fluminea;MOBIV;marien;Marien;Bivalvia
+Dreissena;MOBIV;marien;Marien;Bivalvia
+Dreissena polymorpha;MOBIV;marien;Marien;Bivalvia
+Dreissenidae;MOBIV;marien;Marien;Bivalvia
+Chelicorophium;CRAMP;marien;Marien;Crustacea
+Niphargus;CRAMP;marien;Marien;Crustacea

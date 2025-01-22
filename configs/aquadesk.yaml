@@ -1,0 +1,24 @@
+aquadesk_url: https://ddecoapi.aquadesk.nl/v2/
+api_key: Vul hier de Aquadesk-API-key in
+
+
+measurements:
+    query_url: measurements
+    query_filter: organisation:eq:"RWS";
+                  collectiondate:ge:"1999-01-01";
+                  measurementpackage:in:["ME.KG","ME.AB","ME.MS","ME.BD"];
+                  quantity:in:["VOLME","OPPVTE","BEMSRAPRT","SUBSMTRAL","AANTL","MASSA","BEDKG"];
+    skip_properties: changedate,measuredunit,measuredvalue,measurementdate,
+                    measurementpurpose,organisation,
+                    samplingcontext,status,measurementsetnumber,externalkey,
+                    id,sourcesystem,taxontypetaxongroup,organisationnumericcode,
+                    suppliernumericcode,measurementgeography.coordinates,
+                    measurementgeography.type,measurementgeography.srid,
+                    samplingdevicecodes
+    page_size: 10000
+
+twn:
+    query_url: parameters
+    query_filter: parametertype:eq:"TAXON";taxontype:in:["MACEV","NEMTD"];
+    skip_properties: changedate,externalkey,code,parametertype,taxonmaintype,authors,parentauthors,literature,standards,taxonparentexternalkey,literatureids,synonymauthors,taxonsynonymexternalkey
+    page_size: 10000

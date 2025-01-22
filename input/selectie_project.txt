@@ -1,0 +1,10 @@
+### lijst van rws-projecten die het benthosscript kan verwerken.
+### door het verwijderen van een hekje (#) kan een project actief gemaakt worden.
+### er mogen meerdere projecten actief zijn per run, 
+###  maar alle projecten worden voor alle waterlichamen toegepast indien mogelijk.
+MWTL_MACEV
+#MWTL_MZB
+#MWTL_MZB_Schaaf
+#MWTL_MZB_Boxcorer
+#MWTL_MZB_Hamon
+#MWTL_MZB_Video

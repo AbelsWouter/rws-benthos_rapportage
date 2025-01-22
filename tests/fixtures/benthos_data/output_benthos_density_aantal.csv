@@ -1,0 +1,8 @@
+Collectie_Referentie;Grootheid_Code;Support;Support_Eenheid;Waarde_Berekend;Aantal;Massa;Bedekking;Dichtheid_Aantal
+sample 1;AANTL;0.65;m2;1;1;100;;1.538461538
+sample 1;AANTL;0.65;m2;1;1;0;;1.538461538
+sample 1;AANTL;0.65;m2;1;0;;;0
+sample 1;MASSA;0.65;l;1;1;;;1.538461538
+sample 1;BEDKG;0.65;m2;10;;;10;
+sample 1;BEDKG;0.65;m2;1;;;1;
+sample 1;BEDKG;0.65;m2;15;;;15;

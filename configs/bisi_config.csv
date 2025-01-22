@@ -1,0 +1,25 @@
+BISI_indeling;BISI_row;Sheet_name;Sample_devices
+Centrale Oestergronden KRM;Centrale Oestergronden (KRM-area);COE v3;{Dredge (20 m2): BODSF, Boxcore (0,078 m2): BOXCRR}
+Centrale Oestergronden open;Centrale Oestergronden (open area);COE v3;{Dredge (20 m2): BODSF, Boxcore (0,078 m2): BOXCRR}
+Friese Front HR;Friese Front (HR-area);FF v3;{Dredge (20 m2): BODSF, Boxcore (0,078 m2): BOXCRR}
+Friese Front open FF600;Friese Front (open area 'FF600');FF v3;{Dredge (20 m2): BODSF, Boxcore (0,078 m2): BOXCRR}
+Friese Front open FF400;Friese Front (open area 'FF400');FF v3;{Dredge (20 m2): BODSF, Boxcore (0,078 m2): BOXCRR}
+Doggerbank HR;Doggerbank (HR-area);DB v3;{Dredge (20 m2): BODSF, Boxcore (0,078 m2): BOXCRR}
+Doggerbank open Noord;Doggerbank (open area 'DB-Noord');DB v3;{Dredge (20 m2): BODSF, Boxcore (0,078 m2): BOXCRR}
+Doggerbank open Zuid;Doggerbank (open area 'DB-Zuid');DB v3;{Dredge (20 m2): BODSF, Boxcore (0,078 m2): BOXCRR}
+Voordelta HR;Voordelta (HR-area);VD v3;{Dredge (15 m2): BODSF, Boxcore (0,078 m2): BOXCRR}
+Noordzeekustzone HR;Noordzeekustzone (HR-area);NZKZ v3;{Dredge (15 m2): BODSF, Boxcore (0,078 m2): BOXCRR}
+Noordzeekustzone open;Noordzeekustzone (open areas);NZKZ v3;{Dredge (15 m2): BODSF, Boxcore (0,078 m2): BOXCRR}
+Vlakte van de Raan HR;Vlakte van de Raan (HR-area);VvdR v3;{Dredge (15 m2): BODSF, Boxcore (0,078 m2): BOXCRR}
+Vlakte van de Raan open;Vlakte van de Raan (open areas);VvdR v3;{Dredge (15 m2): BODSF, Boxcore (0,078 m2): BOXCRR}
+Klaverbank HR;Klaverbank (HR-area) = H1170;KB - H1170 v3;{Video tracks (20 m2): VIDOCMRA, Hamon grab (0,09 m2): HAMHPR}
+Klaverbank open;Klaverbank (open areas);KB - H1170 v3;{Video tracks (20 m2): VIDOCMRA, Hamon grab (0,09 m2): HAMHPR}
+Bruine Bank KRM;Bruine Bank (KRM-area);BB v3;{Dredge (15 m2): BODSF, Boxcore (0,078 m2): BOXCRR}
+Diep zand;Offshore circalittoral sand (Diep zandig habitat);OCSa v3;{Boxcore/Hamon (0,078-0,09 m2): BOXCRR/HAMHPR, Dredge/Video (20 or 240 m2): BODSF/VIDOCMRA}
+Diep slibrijk;Offshore circalittoral mud (Diep slibrijk);OCMu v3;{Boxcore/Hamon (0,078-0,09 m2): BOXCRR/HAMHPR, Dredge/Video (20 or 240 m2): BODSF/VIDOCMRA}
+Diep grof sediment;Offshore circalittoral coarse sediment (Diep grof sediment);OCcs v3;{Video tracks (>240 m2): VIDOCMRA, Hamon grab (0,09 m2): HAMHPR}
+Ondiep zand;Circalittoral sand (Ondiep zandig);CSa v3;{Dredge (15-20 m2): BODSF, Boxcore (0,078 m2): BOXCRR}
+Ondiep slibrijk;Circalittoral mud (Ondiep slibrijk);CMu v3;{Dredge (15-20 m2): BODSF, Boxcore (0,078 m2): BOXCRR}
+Ondiep grof sediment;Circalittoral coarse sediment (Ondiep grof sediment);Ccs v3;{Dredge (15-20 m2): BODSF, Boxcore (0,078 m2): BOXCRR}
+H1110b;HR-habitat type H1110b (Permanent overstroomde zandbanken kustzone);H1110b v3;{Dredge (15 m2): BODSF, Boxcore (0,078 m2): BOXCRR}
+H1110c;HR-habitat type H1110c (Permanent overstroomde zandbanken offshore);H1110c v3;{Dredge (20 m2): BODSF, Boxcore (0,078 m2): BOXCRR}

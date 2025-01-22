@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "rws-benthos_rapportage"
+version = "0.1.0"
+description = ""
+license= "LICENSE"
+authors = ["joyceharinga <j.haringa@waardenburg.eco>"]
+readme = "README.md"
+repository = "https://gitlab.com/wbe_projects/rws_project"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.1.4"
+plotnine = "^0.12.4"
+logging = "^0.4.9.6"
+numpy = "^1.26.3"
+sphinx = "^7.2.6"
+sphinx-rtd-theme = "^2.0.0"
+pytest = "^7.4.4"
+openpyxl = "^3.1.2"
+cblind = "^2.3.1"
+coverage = "^7.4.0"
+pyyaml = "^6.0.1"
+types-pyyaml = "^6.0.12.12"
+pytest-mock = "^3.12.0"
+pytest-lazy-fixture = "^0.6.3"
+pre-commit = "^3.6.0"
+pylint = "^3.0.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

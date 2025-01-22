@@ -1,0 +1,28 @@
+set_parentnames:
+  Animalia:
+  Cnidaria: 'Animalia'
+  Sagartia: 'Sagartiidae'
+  Scyphozoa: 'Cnidaria'
+  
+set_taxongroup_codes:
+  Animalia: 'REMAIN'
+  Annelida: 'REMAIN'
+  Arthropoda: 'REMAIN' 
+  Cnidaria: 'BRHYP'
+  Crustacea: 'CRREM'
+  Diptera: 'INREM'
+  Hemiptera: 'INREM'
+  Insecta: 'INREM'
+  Mollusca: 'MOREM'
+  Nematoda: 'REMAIN'
+
+set_taxonranks:
+
+set_refernames:
+  Einfeldia carbonaria gr.:
+  Einfeldia insolita gr.:
+  Homochaeta naidina: 'Tubificidae'
+  Psammodrilida: 'Polychaeta'
+  Sagartiogeton undatus: 'Sagartia undata'
+
+

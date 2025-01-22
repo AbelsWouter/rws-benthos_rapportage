@@ -1,0 +1,13 @@
+Collectie_Referentie;Grootheid_Code;Parameter_Specificatie;Waarde_Berekend;Eenheid_Berekend;test_description
+sample 1;OPPVTE;;1.5;m2;correct
+sample 1;AANTL;Abra alba;1;n;goed
+sample 2;OPPVTE;;1.5;m2;duplicate
+sample 2;OPPVTE;;1.5;m2;duplicate
+sample 2;AANTL;Abra alba;1;n;duplicate
+sample 3;OPPVTE;;1;m2;different support value
+sample 3;OPPVTE;;0.774;m2;different support value
+sample 3;AANTL;Abra alba;1;n;different support value
+sample 4;OPPVTE;;1.5;m2;different grootheid
+sample 4;VOLME;;3;l;different grootheid
+sample 4;AANTL;Abra alba;1;n;different grootheid
+sample 5;AANTL;Abra alba;1;n;no support

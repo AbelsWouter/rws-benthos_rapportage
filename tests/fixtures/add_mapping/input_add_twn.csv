@@ -1,0 +1,41 @@
+Parameter_Specificatie;Determinatie_protocol;Biomassa_protocol;Trendgroep;Synonymname;Zoetoverrule_taxonname;Zoutoverrule_taxonname;Zoetprotocol_presentie;Zoutprotocol_presentie;Zoutprotocol_biomassa;Analyse_taxonnaam;IsPresentie_Protocol;IsBiomassa_Protocol;Overrule_subspeciesname;Hierarchie;Taxonrank;Order;Combi
+Abietinaria;zoet;;zoet;Abietinaria;Cnidaria;Hydrozoa;True;True;False;Cnidaria;True;False;;Animalia;Phylum;24;
+Abietinaria abietina;zoet;;zoet;Abietinaria abietina;Cnidaria;Hydrozoa;True;True;False;Cnidaria;True;False;;Animalia;Phylum;24;
+Ablabesmyia;zoet;;zoet;Ablabesmyia;;;False;False;True;Ablabesmyia;False;False;;Tanypodinae|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Genus;6;
+Ablabesmyia longistyla;zoet;;zoet;Ablabesmyia longistyla;;;False;False;True;Ablabesmyia longistyla;False;False;;Ablabesmyia|Tanypodinae|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Species;1;
+Ablabesmyia monilis;zoet;;zoet;Ablabesmyia monilis;;;False;False;True;Ablabesmyia monilis;False;False;;Ablabesmyia|Tanypodinae|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Species;1;
+Ablabesmyia monilis monilis;zoet;;zoet;Ablabesmyia monilis monilis;;;False;False;True;Ablabesmyia monilis;False;False;Ablabesmyia monilis;Ablabesmyia|Tanypodinae|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Species;1;
+Ablabesmyia monilis/longistyla;zoet;;zoet;Ablabesmyia monilis/longistyla;;;False;False;True;Ablabesmyia monilis/longistyla;False;False;;Ablabesmyia|Tanypodinae|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;SpeciesCombi;2;Ablabesmyia monilis|Ablabesmyia longistyla
+Ablabesmyia monilis/phatta;zoet;;zoet;Ablabesmyia monilis/phatta;;;False;False;True;Ablabesmyia monilis/phatta;False;False;;Ablabesmyia|Tanypodinae|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;SpeciesCombi;2;Ablabesmyia monilis|Ablabesmyia phatta
+Ablabesmyia phatta;zoet;;zoet;Ablabesmyia phatta;;;False;False;True;Ablabesmyia phatta;False;False;;Ablabesmyia|Tanypodinae|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Species;1;
+Animalia;zoet;;zoet;Animalia;;;False;False;True;Animalia;False;False;;;Kingdom;28;
+Arthropoda;zoet;;zoet;Arthropoda;;;False;False;True;Arthropoda;False;False;;Animalia;Phylum;24;
+Chironomidae;zoet;;zoet;Chironomidae;;;False;False;True;Chironomidae;False;False;;Diptera|Insecta|Arthropoda|Animalia;Family;12;
+Cnidaria;zoet;;zoet;Cnidaria;Cnidaria;;False;False;True;Cnidaria;False;False;;Animalia;Phylum;24;
+Diptera;zoet;;zoet;Diptera;;;False;False;True;Diptera;False;False;;Insecta|Arthropoda|Animalia;Order;16;
+Hydrozoa;zoet;;zoet;Hydrozoa;Cnidaria;Hydrozoa;True;True;False;Cnidaria;True;False;;Animalia;Phylum;24;
+Hydrozoa;zout;zout;overgang;Hydrozoa;Cnidaria;Hydrozoa;True;True;False;Hydrozoa;True;False;;Cnidaria|Animalia;Class;20;
+Insecta;zoet;;zoet;Insecta;;;False;False;True;Insecta;False;False;;Arthropoda|Animalia;Class;20;
+Sertulariidae;zoet;;zoet;Sertulariidae;Cnidaria;Hydrozoa;True;True;False;Cnidaria;True;False;;Animalia;Phylum;24;
+Tanypodinae;zoet;;zoet;Tanypodinae;;;False;False;True;Tanypodinae;False;False;;Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Subfamily;11;
+Acentria nivea;zoet;;zoet;Acentria ephemerella;;;False;False;True;Acentria ephemerella;False;False;;Acentria|Crambidae|Lepidoptera|Insecta|Arthropoda|Animalia;Species;1;
+Acentropus niveus;zoet;;zoet;Acentria ephemerella;;;False;False;True;Acentria ephemerella;False;False;;Acentria|Crambidae|Lepidoptera|Insecta|Arthropoda|Animalia;Species;1;
+Acentria ephemerella;zoet;;zoet;Acentria ephemerella;;;False;False;True;Acentria ephemerella;False;False;;Acentria|Crambidae|Lepidoptera|Insecta|Arthropoda|Animalia;Species;1;
+Acentria;zoet;;zoet;Acentria;;;False;False;True;Acentria;False;False;;Crambidae|Lepidoptera|Insecta|Arthropoda|Animalia;Genus;6;
+Crambidae;zoet;;zoet;Crambidae;;;False;False;True;Crambidae;False;False;;Lepidoptera|Insecta|Arthropoda|Animalia;Family;12;
+Lepidoptera;zoet;;zoet;Lepidoptera;;;False;False;True;Lepidoptera;False;False;;Insecta|Arthropoda|Animalia;Order;16;
+Einfeldia/Fleuria;zout;zout;overgang;Einfeldia/Fleuria;;;False;False;True;Einfeldia/Fleuria;False;True;;Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;GenusCombi;8;Einfeldia|Fleuria
+Chironomini;zout;zout;overgang;Chironomini;;;False;False;True;Chironomini;False;True;;Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Tribe;10;
+Einfeldia;zout;zout;overgang;Einfeldia;;;False;False;True;Einfeldia;False;True;;Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Genus;6;
+Einfeldia carbonaria;zout;zout;overgang;Benthalia carbonaria;;;False;False;True;Benthalia carbonaria;False;True;;Benthalia|Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Species;1;
+Einfeldia dissidens;zout;zout;overgang;Benthalia dissidens;;;False;False;True;Benthalia dissidens;False;True;;Benthalia|Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Species;1;
+Einfeldia dissidens agg.;zout;zout;overgang;Benthalia dissidens;;;False;False;True;Benthalia dissidens;False;True;;Benthalia|Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Species;1;
+Einfeldia pagana;zout;zout;overgang;Einfeldia pagana;;;False;False;True;Einfeldia pagana;False;True;;Einfeldia|Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Species;1;
+Einfeldia pagana gr.;zout;zout;marien;Einfeldia pagana;;;False;False;True;Einfeldia pagana;False;True;;Einfeldia|Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Species;1;
+Benthalia;zout;zout;marien;Benthalia;;;False;False;True;Benthalia;False;True;;Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Genus;6;
+Benthalia carbonaria;zout;zout;marien;Benthalia carbonaria;;;False;False;True;Benthalia carbonaria;False;True;;Benthalia|Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Species;1;
+Benthalia dissidens;zout;zout;marien;Benthalia dissidens;;;False;False;True;Benthalia dissidens;False;True;;Benthalia|Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Species;1;
+Fleuria;zout;zout;marien;Fleuria;;;False;False;True;Fleuria;False;True;;Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Genus;6;
+Fleuria lacustris;zout;zout;marien;Fleuria lacustris;;;False;False;True;Fleuria lacustris;False;True;;Fleuria|Chironomini|Chironomidae|Diptera|Insecta|Arthropoda|Animalia;Species;1;
+Oligochaeta;zout;zout;marien;Oligochaeta;;Oligochaeta;False;False;True;Oligochaeta;False;True;;Annelida|Animalia;Class;20;
+Tubificoides benedii;zout;zout;marien;Tubificoides benedii;;Oligochaeta;False;False;True;Oligochaeta;False;True;;Annelida|Animalia;Class;20;

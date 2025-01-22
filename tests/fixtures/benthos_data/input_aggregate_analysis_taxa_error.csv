@@ -1,0 +1,12 @@
+Analyse_taxonnaam;Collectie_Referentie;Meetobject_Code;Overrule_subspeciesname;Parameter_Specificatie;Waterlichaam;Zoetoverrule_taxonname;Zoutoverrule_taxonname;IsBiomassa_Protocol;IsPresentie_Protocol;Waarde_Berekend;Massa;Aantal;Bedekking;Dichtheid_Massa;Dichtheid_Aantal
+Ablabesmyia;2019030151;AFGDM_0002;;Ablabesmyia;Beneden Maas;;;FALSE;FALSE;480;;480;;;320
+Ablabesmyia;2019030151;AFGDM_0002;;Ablabesmyia;Beneden Maas;;;FALSE;TRUE;2;;2;;;16
+Ablabesmyia longistyla;2019030151;AFGDM_0002;;Ablabesmyia longistyla;Beneden Maas;;;FALSE;FALSE;24;;24;;;16
+Ablabesmyia longistyla;2019030151;AFGDM_0002;;Ablabesmyia longistyla;Beneden Maas;;;FALSE;FALSE;86;;86;;;57.33
+Acentria ephemerella;2019030151;AFGDM_0002;;Acentria ephemerella;Beneden Maas;;;FALSE;FALSE;8;;8;;;5.33
+Acentria ephemerella;2019030151;AFGDM_0002;;Acentria ephemerella;Beneden Maas;;;TRUE;FALSE;;0.5;;;2;
+Acentria ephemerella;2019030151;AFGDM_0003;;Acentria ephemerella;Beneden Maas;;;FALSE;FALSE;1;;1;;;0.67
+Acroloxus lacustris;2019030151;AFGDM_0002;;Acroloxus lacustris;Beneden Maas;;;FALSE;FALSE;1;;1;;;8
+Acroloxus lacustris;2019030151;AFGDM_0002;;Acroloxus lacustris;Beneden Maas;;;FALSE;FALSE;9;;9;;;18.44
+Bryozoa;2019030152;AFGDM_0003;;Acroloxus lacustris;Beneden Maas;;;FALSE;FALSE;;;;1;;18.44
+Acroloxus lacustris;2019030152;AFGDM_0003;;Acroloxus lacustris;Beneden Maas;;;FALSE;FALSE;9;;9;3;;18.44

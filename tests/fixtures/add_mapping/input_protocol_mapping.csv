@@ -1,0 +1,38 @@
+Name;Parentname;Statuscode;Zoetoverrule_taxonname;Zoutoverrule_taxonname;Zoetprotocol_presentie;Zoutprotocol_presentie;Zoutprotocol_biomassa
+Abietinaria;Sertulariidae;10;Cnidaria;Hydrozoa;True;True;False
+Abietinaria abietina;Abietinaria;10;Cnidaria;Hydrozoa;True;True;False
+Ablabesmyia;Tanypodinae;10;;;False;False;True
+Ablabesmyia longistyla;Ablabesmyia;10;;;False;False;True
+Ablabesmyia monilis;Ablabesmyia;10;;;False;False;True
+Ablabesmyia monilis monilis;Ablabesmyia monilis;10;;;False;False;True
+Ablabesmyia monilis/longistyla;Ablabesmyia;80;;;False;False;True
+Ablabesmyia monilis/phatta;Ablabesmyia;80;;;False;False;True
+Ablabesmyia phatta;Ablabesmyia;10;;;False;False;True
+Animalia;;10;;;False;False;True
+Arthropoda;Animalia;10;;;False;False;True
+Chironomidae;Diptera;10;;;False;False;True
+Cnidaria;Animalia;10;Cnidaria;;False;False;True
+Diptera;Insecta;10;;;False;False;True
+Hydrozoa;Cnidaria;10;Cnidaria;Hydrozoa;True;True;False
+Insecta;Arthropoda;10;;;False;False;True
+Sertulariidae;Hydrozoa;10;Cnidaria;Hydrozoa;True;True;False
+Tanypodinae;Chironomidae;10;;;False;False;True
+Acentria ephemerella;Acentria;10;;;False;False;True
+Acentria;Crambidae;10;;;False;False;True
+Crambidae;Lepidoptera;10;;;False;False;True
+Lepidoptera;Insecta;10;;;False;False;True
+Einfeldia/Fleuria;Chironomini;80;;;False;False;True
+Chironomini;Chironomidae;10;;;False;False;True
+Einfeldia;Chironomini;10;;;False;False;True
+Einfeldia pagana;Einfeldia;10;;;False;False;True
+Benthalia;Chironomini;10;;;False;False;True
+Benthalia carbonaria;Benthalia;10;;;False;False;True
+Benthalia dissidens;Benthalia;10;;;False;False;True
+Fleuria;Chironomini;10;;;False;False;True
+Fleuria lacustris;Fleuria;10;;;False;False;True
+Tubificoides benedii;Tubificoides;10;;Oligochaeta;False;False;True
+Tubificoides;Tubificidae;10;;Oligochaeta;False;False;True
+Tubificidae;Tubificida;10;;Oligochaeta;False;False;True
+Tubificida;Oligochaeta;10;;Oligochaeta;False;False;True
+Oligochaeta;Annelida;10;;Oligochaeta;False;False;True
+Annelida;Animalia;10;;;False;False;True

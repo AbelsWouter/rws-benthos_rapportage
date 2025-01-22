@@ -1,0 +1,87 @@
+﻿Trendgroep;Taxongroup_code;Taxongroup;Groep;Hierarchisch;Groepkleur
+marien;MOBIV;Mollusca - Bivalvia;Bivalvia;;#E69F00
+marien;CRAMP;Crustacea - Amphipoda;Crustacea;;#000000
+marien;CRISO;Crustacea - Isopoda;Crustacea;;#000000
+marien;CRMYS;Crustacea - Mysida;Crustacea;;#000000
+marien;CRREM;Crustacea - Remaining;Crustacea;;#000000
+marien;CRDEC;Crustacea - Decapoda;Decapoda;;#56B4E9
+marien;MOGAS;Mollusca - Gastropoda;Gastropoda;;#CC79A7
+marien;APOLI;Annelida/Platyhelminthes - Oligochaeta;Oligochaeta;;#F0E442
+marien;APHIR;Annelida/Platyhelminthes - Hirudinea;Overig;;#0072B2
+marien;APTUR;Annelida/Platyhelminthes - Turbellaria;Overig;;#0072B2
+marien;ARACH;Arachnida;Overig;;#0072B2
+marien;BRHYP;Bryozoa - Hydrozoa - Porifera;Overig;;#0072B2
+marien;COLMB;Collembola;Overig;;#0072B2
+marien;ECHIN;Echinodermata;Overig;;#0072B2
+marien;INCOL;Insecta - Coleoptera;Overig;;#0072B2
+marien;INEPH;Insecta - Ephemeroptera;Overig;;#0072B2
+marien;INHET;Insecta - Heteroptera;Overig;;#0072B2
+marien;INLEP;Insecta - Lepidoptera;Overig;;#0072B2
+marien;INODO;Insecta - Odonata;Overig;;#0072B2
+marien;INREM;Insecta - Remaining;Overig;;#0072B2
+marien;INTRI;Insecta - Trichoptera;Overig;;#0072B2
+marien;IDCHI;Insecta (Diptera) - Chironomidae;Overig;;#0072B2
+marien;IDREM;Insecta (Diptera) - Remaining;Overig;;#0072B2
+marien;IDSIM;Insecta (Diptera) - Simuliidae;Overig;;#0072B2
+marien;MAREM;Marien - Remaining;Overig;;#0072B2
+marien;MOREM;Mollusca - Remaining;Overig;;#0072B2
+marien;REMAIN;Remaining;Overig;;#0072B2
+marien;APPOL;Annelida/Platyhelminthes - Polychaeta;Polychaeta;;#D55E00
+overgang;MOBIV;Mollusca - Bivalvia;Bivalvia;;#E69F00
+overgang;CRAMP;Crustacea - Amphipoda;Crustacea;;#000000
+overgang;CRDEC;Crustacea - Decapoda;Crustacea;;#000000
+overgang;CRISO;Crustacea - Isopoda;Crustacea;;#000000
+overgang;CRMYS;Crustacea - Mysida;Crustacea;;#000000
+overgang;CRREM;Crustacea - Remaining;Crustacea;;#000000
+overgang;ECHIN;Echinodermata;Echinoderms;;#008B8B
+overgang;MOGAS;Mollusca - Gastropoda;Gastropoda;;#CC79A7
+overgang;APOLI;Annelida/Platyhelminthes - Oligochaeta;Oligochaeta;;#F0E442
+overgang;APHIR;Annelida/Platyhelminthes - Hirudinea;Overig;;#0072B2
+overgang;APTUR;Annelida/Platyhelminthes - Turbellaria;Overig;;#0072B2
+overgang;ARACH;Arachnida;Overig;;#0072B2
+overgang;BRHYP;Bryozoa - Hydrozoa - Porifera;Overig;;#0072B2
+overgang;COLMB;Collembola;Overig;;#0072B2
+overgang;INCOL;Insecta - Coleoptera;Overig;;#0072B2
+overgang;INEPH;Insecta - Ephemeroptera;Overig;;#0072B2
+overgang;INHET;Insecta - Heteroptera;Overig;;#0072B2
+overgang;INLEP;Insecta - Lepidoptera;Overig;;#0072B2
+overgang;INODO;Insecta - Odonata;Overig;;#0072B2
+overgang;INREM;Insecta - Remaining;Overig;;#0072B2
+overgang;INTRI;Insecta - Trichoptera;Overig;;#0072B2
+overgang;IDCHI;Insecta (Diptera) - Chironomidae;Overig;;#0072B2
+overgang;IDREM;Insecta (Diptera) - Remaining;Overig;;#0072B2
+overgang;IDSIM;Insecta (Diptera) - Simuliidae;Overig;;#0072B2
+overgang;MAREM;Marien - Remaining;Overig;;#0072B2
+overgang;MOREM;Mollusca - Remaining;Overig;;#0072B2
+overgang;REMAIN;Remaining;Overig;;#0072B2
+overgang;APPOL;Annelida/Platyhelminthes - Polychaeta;Polychaeta;;#D55E00
+zoet;MOBIV;Mollusca - Bivalvia;Bivalvia-overig;;#708090
+zoet;CRAMP;Crustacea - Amphipoda;Crustacea-Amphipoda;;#A52A2A
+zoet;CRAMP;Crustacea - Amphipoda;Crustacea-Corophiidae;Corophiidae;#E6E6FA
+zoet;CRISO;Crustacea - Isopoda;Crustacea-Isopoda;;#808000
+zoet;IDCHI;Insecta (Diptera) - Chironomidae;Diptera-Chironomidae;;#228B22
+zoet;MOBIV;Mollusca - Bivalvia;Dreissenidae;Dreissenidae;#4B0082
+zoet;MOGAS;Mollusca - Gastropoda;Gastropoda;;#CC79A7
+zoet;APOLI;Annelida/Platyhelminthes - Oligochaeta;Oligochaeta;;#F0E442
+zoet;APHIR;Annelida/Platyhelminthes - Hirudinea;Overig;;#0072B2
+zoet;APPOL;Annelida/Platyhelminthes - Polychaeta;Overig;;#0072B2
+zoet;APTUR;Annelida/Platyhelminthes - Turbellaria;Overig;;#0072B2
+zoet;ARACH;Arachnida;Overig;;#0072B2
+zoet;BRHYP;Bryozoa - Hydrozoa - Porifera;Overig;;#0072B2
+zoet;COLMB;Collembola;Overig;;#0072B2
+zoet;CRDEC;Crustacea - Decapoda;Overig;;#0072B2
+zoet;CRMYS;Crustacea - Mysida;Overig;;#0072B2
+zoet;CRREM;Crustacea - Remaining;Overig;;#0072B2
+zoet;ECHIN;Echinodermata;Overig;;#0072B2
+zoet;INCOL;Insecta - Coleoptera;Overig;;#0072B2
+zoet;INEPH;Insecta - Ephemeroptera;Overig;;#0072B2
+zoet;INHET;Insecta - Heteroptera;Overig;;#0072B2
+zoet;INLEP;Insecta - Lepidoptera;Overig;;#0072B2
+zoet;INODO;Insecta - Odonata;Overig;;#0072B2
+zoet;INREM;Insecta - Remaining;Overig;;#0072B2
+zoet;INTRI;Insecta - Trichoptera;Overig;;#0072B2
+zoet;IDREM;Insecta (Diptera) - Remaining;Overig;;#0072B2
+zoet;IDSIM;Insecta (Diptera) - Simuliidae;Overig;;#0072B2
+zoet;MAREM;Marien - Remaining;Overig;;#0072B2
+zoet;MOREM;Mollusca - Remaining;Overig;;#0072B2
+zoet;REMAIN;Remaining;Overig;;#0072B2

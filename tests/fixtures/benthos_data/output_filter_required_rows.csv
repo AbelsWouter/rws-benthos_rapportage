@@ -1,0 +1,8 @@
+Collectie_Referentie;Collectie_DatumTijd;Meetpakket_Code;Grootheid_Code;test_description
+sample 1;2020-09-02 00:00:00;ME.KG;VOLME;correct
+sample 1;2020-09-02 00:00:00;ME.KG;OPPVTE;correct
+sample 1;2020-09-02 00:00:00;ME.KG;BEMSRAPRT;correct
+sample 1;2020-09-02 00:00:00;ME.KG;SUBSMTRAL;correct
+sample 1;2020-09-02 00:00:00;ME.AB;AANTL;correct
+sample 1;2020-09-02 00:00:00;ME.MS;MASSA;correct
+sample 2;1920-09-02 00:00:00;ME.AB;AANTL;unwanted datetime will NOT be deleted.

@@ -1,0 +1,848 @@
+Analyse_taxonnaam;Hierarchie;BISI_Eunis;BISI_Eunis_asev;BISI_Habitat;BISI_deelgebied;BISI_gebied;Bemonsteringsapp;Collectie_Referentie;Meetobject_Code;Monsterjaar;Support;Support_Eenheid;Waterlichaam;Dichtheid_Aantal;app;methods;taxa
+Acanthocardia echinata;Acanthocardia|Cardiidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Centrale Oestergronden KRM;BODSF;sample 1;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Amphiura filiformis;Amphiura|Amphiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;;;Centrale Oestergronden KRM;BOXCRR;sample 1;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Aphrodita aculeata;Aphrodita|Aphroditidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;;Centrale Oestergronden KRM;BODSF;sample 1;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Arctica islandica;Arctica|Arcticidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Centrale Oestergronden KRM;BODSF;sample 1;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Brissopsis lyrifera;Brissopsis|Brissidae|Spatangoida|Echinoidea|Echinodermata|Animalia|;;;;;Centrale Oestergronden KRM;BODSF;sample 1;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Callianassa subterranea;Callianassa|Callianassidae|Thalassinidea|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Centrale Oestergronden KRM;BOXCRR;sample 1;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Chaetopterus variopedatus;Chaetopterus|Chaetopteridae|Spionida|Polychaeta|Annelida|Animalia|;;;;;Centrale Oestergronden KRM;BOXCRR;sample 1;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Chamelea striatula;Chamelea|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Centrale Oestergronden KRM;BODSF;sample 1;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Corbula gibba;Corbula|Corbulidae|Myoida|Bivalvia|Mollusca|Animalia|;;;;;Centrale Oestergronden KRM;BOXCRR;sample 1;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Cylichna cylindracea;Cylichna|Cylichnidae|Cephalaspidea|Gastropoda|Mollusca|Animalia|;;;;;Centrale Oestergronden KRM;BOXCRR;sample 1;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Dosinia lupinus;Dosinia|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Centrale Oestergronden KRM;BODSF;sample 1;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Echinocardium cordatum;Echinocardium|Loveniidae|Spatangoida|Echinoidea|Echinodermata|Animalia|;;;;;Centrale Oestergronden KRM;BODSF;sample 1;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Echinocardium flavescens;Echinocardium|Loveniidae|Spatangoida|Echinoidea|Echinodermata|Animalia|;;;;;Centrale Oestergronden KRM;BODSF;sample 1;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Nephtys incisa;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;;Centrale Oestergronden KRM;BOXCRR;sample 1;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Nucula nitidosa;Nucula|Nuculidae|Nuculoida|Bivalvia|Mollusca|Animalia|;;;;;Centrale Oestergronden KRM;BOXCRR;sample 1;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Sthenelais limicola;Sthenelais|Sigalionidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;;Centrale Oestergronden KRM;BOXCRR;sample 1;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Terebellides;Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;;Centrale Oestergronden KRM;BOXCRR;sample 1;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;6 taxa
+Terebellides europaea;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;;Centrale Oestergronden KRM;BOXCRR;sample 1;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;6 taxa
+Terebellides gentili;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;;Centrale Oestergronden KRM;BOXCRR;sample 1;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;6 taxa
+Terebellides resomari;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;;Centrale Oestergronden KRM;BOXCRR;sample 1;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;6 taxa
+Terebellides shetlandica;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;;Centrale Oestergronden KRM;BOXCRR;sample 1;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;6 taxa
+Terebellides stroemii;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;;Centrale Oestergronden KRM;BOXCRR;sample 1;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;6 taxa
+Turritellinella tricarinata;Turritellinella|Turritellidae|Gastropoda|Mollusca|Animalia|;;;;;Centrale Oestergronden KRM;BODSF;sample 1;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Upogebia deltaura*;Upogebia|Upogebiidae|Thalassinidea|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Centrale Oestergronden KRM;BODSF;sample 1;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Upogebia stellata**;Upogebia|Upogebiidae|Thalassinidea|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Centrale Oestergronden KRM;BODSF;sample 1;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Abra alba;Abra|Semelidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Noordzeekustzone HR;BOXCRR;sample 10;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Bathyporeia elegans;Bathyporeia|Bathyporeiidae|Senticaudata|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Noordzeekustzone HR;BOXCRR;sample 10;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Buccinum undatum;Buccinum|Buccinidae|Neogastropoda|Gastropoda|Mollusca|Animalia|;;;;;Noordzeekustzone HR;BODSF;sample 10;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Chamelea striatula;Chamelea|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Noordzeekustzone HR;BODSF;sample 10;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Corystes cassivelaunus;Corystes|Corystidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Noordzeekustzone HR;BODSF;sample 10;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Donax vittatus;Donax|Donacidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Noordzeekustzone HR;BODSF;sample 10;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Echinocardium cordatum;Echinocardium|Loveniidae|Spatangoida|Echinoidea|Echinodermata|Animalia|;;;;;Noordzeekustzone HR;BOXCRR;sample 10;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Euspira nitida;Euspira|Naticidae|Neotaenioglossa|Gastropoda|Mollusca|Animalia|;;;;;Noordzeekustzone HR;BODSF;sample 10;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Fabulina fabula;Fabulina|Tellinidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Noordzeekustzone HR;BOXCRR;sample 10;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Lanice conchilega;Lanice|Terebellidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;;Noordzeekustzone HR;BOXCRR;sample 10;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Macoma balthica;Macoma|Tellinidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Noordzeekustzone HR;BODSF;sample 10;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Liocarcinus holsatus;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Noordzeekustzone HR;BODSF;sample 10;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Lutraria lutraria;Lutraria|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Noordzeekustzone HR;BODSF;sample 10;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Mactra stultorum;Mactra|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Noordzeekustzone HR;BODSF;sample 10;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Magelona filiformis;Magelona|Magelonidae|Spionida|Polychaeta|Annelida|Animalia|;;;;;Noordzeekustzone HR;BOXCRR;sample 10;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Magelona johnstoni;Magelona|Magelonidae|Spionida|Polychaeta|Annelida|Animalia|;;;;;Noordzeekustzone HR;BOXCRR;sample 10;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Mytilus edulis;Mytilus|Mytilidae|Mytiloida|Bivalvia|Mollusca|Animalia|;;;;;Noordzeekustzone HR;BODSF;sample 10;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Nephtys cirrosa;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;;Noordzeekustzone HR;BOXCRR;sample 10;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Nephtys hombergii;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;;Noordzeekustzone HR;BOXCRR;sample 10;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Ophiura ophiura;Ophiura|Ophiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;;;Noordzeekustzone HR;BODSF;sample 10;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Owenia fusiformis;Owenia|Oweniidae|Sabellida|Polychaeta|Annelida|Animalia|;;;;;Noordzeekustzone HR;BOXCRR;sample 10;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Paguridae;Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Noordzeekustzone HR;BODSF;sample 10;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus;Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Noordzeekustzone HR;BODSF;sample 10;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus bernhardus;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Noordzeekustzone HR;BODSF;sample 10;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus cuanensis;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Noordzeekustzone HR;BODSF;sample 10;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus prideaux;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Noordzeekustzone HR;BODSF;sample 10;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus pubescens;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Noordzeekustzone HR;BODSF;sample 10;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pontocrates altamarinus;Pontocrates|Oedicerotidae|Gammaridea|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Noordzeekustzone HR;BOXCRR;sample 10;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Spiophanes bombyx;Spiophanes|Spionidae|Spionida|Polychaeta|Annelida|Animalia|;;;;;Noordzeekustzone HR;BOXCRR;sample 10;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Spisula subtruncata;Spisula|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Noordzeekustzone HR;BODSF;sample 10;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Urothoe poseidonis;Urothoe|Gammaridae|Gammaridea|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Noordzeekustzone HR;BOXCRR;sample 10;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Abra alba;Abra|Semelidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Noordzeekustzone open;;BOXCRR;sample 11;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Bathyporeia elegans;Bathyporeia|Bathyporeiidae|Senticaudata|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Noordzeekustzone open;;BOXCRR;sample 11;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Buccinum undatum;Buccinum|Buccinidae|Neogastropoda|Gastropoda|Mollusca|Animalia|;;;;Noordzeekustzone open;;BODSF;sample 11;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Chamelea striatula;Chamelea|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Noordzeekustzone open;;BODSF;sample 11;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Corystes cassivelaunus;Corystes|Corystidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Noordzeekustzone open;;BODSF;sample 11;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Donax vittatus;Donax|Donacidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Noordzeekustzone open;;BODSF;sample 11;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Echinocardium cordatum;Echinocardium|Loveniidae|Spatangoida|Echinoidea|Echinodermata|Animalia|;;;;Noordzeekustzone open;;BOXCRR;sample 11;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Euspira nitida;Euspira|Naticidae|Neotaenioglossa|Gastropoda|Mollusca|Animalia|;;;;Noordzeekustzone open;;BODSF;sample 11;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Fabulina fabula;Fabulina|Tellinidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Noordzeekustzone open;;BOXCRR;sample 11;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Lanice conchilega;Lanice|Terebellidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;Noordzeekustzone open;;BOXCRR;sample 11;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Macoma balthica;Macoma|Tellinidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Noordzeekustzone open;;BODSF;sample 11;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Liocarcinus holsatus;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Noordzeekustzone open;;BODSF;sample 11;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Lutraria lutraria;Lutraria|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Noordzeekustzone open;;BODSF;sample 11;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Mactra stultorum;Mactra|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Noordzeekustzone open;;BODSF;sample 11;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Magelona filiformis;Magelona|Magelonidae|Spionida|Polychaeta|Annelida|Animalia|;;;;Noordzeekustzone open;;BOXCRR;sample 11;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Magelona johnstoni;Magelona|Magelonidae|Spionida|Polychaeta|Annelida|Animalia|;;;;Noordzeekustzone open;;BOXCRR;sample 11;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Mytilus edulis;Mytilus|Mytilidae|Mytiloida|Bivalvia|Mollusca|Animalia|;;;;Noordzeekustzone open;;BODSF;sample 11;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Nephtys cirrosa;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;Noordzeekustzone open;;BOXCRR;sample 11;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Nephtys hombergii;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;Noordzeekustzone open;;BOXCRR;sample 11;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Ophiura ophiura;Ophiura|Ophiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;;Noordzeekustzone open;;BODSF;sample 11;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Owenia fusiformis;Owenia|Oweniidae|Sabellida|Polychaeta|Annelida|Animalia|;;;;Noordzeekustzone open;;BOXCRR;sample 11;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Paguridae;Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Noordzeekustzone open;;BODSF;sample 11;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus;Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Noordzeekustzone open;;BODSF;sample 11;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus bernhardus;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Noordzeekustzone open;;BODSF;sample 11;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus cuanensis;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Noordzeekustzone open;;BODSF;sample 11;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus prideaux;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Noordzeekustzone open;;BODSF;sample 11;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus pubescens;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Noordzeekustzone open;;BODSF;sample 11;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pontocrates altamarinus;Pontocrates|Oedicerotidae|Gammaridea|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Noordzeekustzone open;;BOXCRR;sample 11;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Spiophanes bombyx;Spiophanes|Spionidae|Spionida|Polychaeta|Annelida|Animalia|;;;;Noordzeekustzone open;;BOXCRR;sample 11;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Spisula subtruncata;Spisula|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Noordzeekustzone open;;BODSF;sample 11;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Urothoe poseidonis;Urothoe|Gammaridae|Gammaridea|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Noordzeekustzone open;;BOXCRR;sample 11;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Abra alba;Abra|Semelidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Vlakte van de Raan HR;BODSF;sample 12;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Bathyporeia elegans;Bathyporeia|Bathyporeiidae|Senticaudata|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Vlakte van de Raan HR;BOXCRR;sample 12;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Buccinum undatum;Buccinum|Buccinidae|Neogastropoda|Gastropoda|Mollusca|Animalia|;;;;;Vlakte van de Raan HR;BODSF;sample 12;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Donax vittatus;Donax|Donacidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Vlakte van de Raan HR;BODSF;sample 12;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Echinocardium cordatum;Echinocardium|Loveniidae|Spatangoida|Echinoidea|Echinodermata|Animalia|;;;;;Vlakte van de Raan HR;BOXCRR;sample 12;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Euspira nitida;Euspira|Naticidae|Neotaenioglossa|Gastropoda|Mollusca|Animalia|;;;;;Vlakte van de Raan HR;BOXCRR;sample 12;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Fabulina fabula;Fabulina|Tellinidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Vlakte van de Raan HR;BOXCRR;sample 12;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Lanice conchilega;Lanice|Terebellidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;;Vlakte van de Raan HR;BOXCRR;sample 12;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Macoma balthica;Macoma|Tellinidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Vlakte van de Raan HR;BODSF;sample 12;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Liocarcinus holsatus;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Vlakte van de Raan HR;BODSF;sample 12;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Lutraria lutraria;Lutraria|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Vlakte van de Raan HR;BODSF;sample 12;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Mactra stultorum;Mactra|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Vlakte van de Raan HR;BODSF;sample 12;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Magelona filiformis;Magelona|Magelonidae|Spionida|Polychaeta|Annelida|Animalia|;;;;;Vlakte van de Raan HR;BOXCRR;sample 12;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Magelona johnstoni;Magelona|Magelonidae|Spionida|Polychaeta|Annelida|Animalia|;;;;;Vlakte van de Raan HR;BOXCRR;sample 12;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Nephtys cirrosa;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;;Vlakte van de Raan HR;BOXCRR;sample 12;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Nephtys hombergii;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;;Vlakte van de Raan HR;BOXCRR;sample 12;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Ophiura ophiura;Ophiura|Ophiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;;;Vlakte van de Raan HR;BODSF;sample 12;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Owenia fusiformis;Owenia|Oweniidae|Sabellida|Polychaeta|Annelida|Animalia|;;;;;Vlakte van de Raan HR;BOXCRR;sample 12;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Paguridae;Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Vlakte van de Raan HR;BODSF;sample 12;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus;Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Vlakte van de Raan HR;BODSF;sample 12;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus bernhardus;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Vlakte van de Raan HR;BODSF;sample 12;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus cuanensis;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Vlakte van de Raan HR;BODSF;sample 12;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus prideaux;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Vlakte van de Raan HR;BODSF;sample 12;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus pubescens;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Vlakte van de Raan HR;BODSF;sample 12;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pontocrates altamarinus;Pontocrates|Oedicerotidae|Gammaridea|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Vlakte van de Raan HR;BOXCRR;sample 12;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Spiophanes bombyx;Spiophanes|Spionidae|Spionida|Polychaeta|Annelida|Animalia|;;;;;Vlakte van de Raan HR;BOXCRR;sample 12;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Spisula subtruncata;Spisula|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Vlakte van de Raan HR;BODSF;sample 12;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Urothoe poseidonis;Urothoe|Gammaridae|Gammaridea|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Vlakte van de Raan HR;BOXCRR;sample 12;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Abra alba;Abra|Semelidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Vlakte van de Raan open;;BODSF;sample 13;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Bathyporeia elegans;Bathyporeia|Bathyporeiidae|Senticaudata|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Vlakte van de Raan open;;BOXCRR;sample 13;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Buccinum undatum;Buccinum|Buccinidae|Neogastropoda|Gastropoda|Mollusca|Animalia|;;;;Vlakte van de Raan open;;BODSF;sample 13;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Donax vittatus;Donax|Donacidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Vlakte van de Raan open;;BODSF;sample 13;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Echinocardium cordatum;Echinocardium|Loveniidae|Spatangoida|Echinoidea|Echinodermata|Animalia|;;;;Vlakte van de Raan open;;BOXCRR;sample 13;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Euspira nitida;Euspira|Naticidae|Neotaenioglossa|Gastropoda|Mollusca|Animalia|;;;;Vlakte van de Raan open;;BOXCRR;sample 13;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Fabulina fabula;Fabulina|Tellinidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Vlakte van de Raan open;;BOXCRR;sample 13;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Lanice conchilega;Lanice|Terebellidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;Vlakte van de Raan open;;BOXCRR;sample 13;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Macoma balthica;Macoma|Tellinidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Vlakte van de Raan open;;BODSF;sample 13;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Liocarcinus holsatus;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Vlakte van de Raan open;;BODSF;sample 13;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Lutraria lutraria;Lutraria|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Vlakte van de Raan open;;BODSF;sample 13;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Mactra stultorum;Mactra|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Vlakte van de Raan open;;BODSF;sample 13;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Magelona filiformis;Magelona|Magelonidae|Spionida|Polychaeta|Annelida|Animalia|;;;;Vlakte van de Raan open;;BOXCRR;sample 13;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Magelona johnstoni;Magelona|Magelonidae|Spionida|Polychaeta|Annelida|Animalia|;;;;Vlakte van de Raan open;;BOXCRR;sample 13;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Nephtys cirrosa;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;Vlakte van de Raan open;;BOXCRR;sample 13;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Nephtys hombergii;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;Vlakte van de Raan open;;BOXCRR;sample 13;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Ophiura ophiura;Ophiura|Ophiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;;Vlakte van de Raan open;;BODSF;sample 13;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Owenia fusiformis;Owenia|Oweniidae|Sabellida|Polychaeta|Annelida|Animalia|;;;;Vlakte van de Raan open;;BOXCRR;sample 13;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Paguridae;Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Vlakte van de Raan open;;BODSF;sample 13;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus;Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Vlakte van de Raan open;;BODSF;sample 13;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus bernhardus;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Vlakte van de Raan open;;BODSF;sample 13;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus cuanensis;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Vlakte van de Raan open;;BODSF;sample 13;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus prideaux;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Vlakte van de Raan open;;BODSF;sample 13;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus pubescens;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Vlakte van de Raan open;;BODSF;sample 13;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pontocrates altamarinus;Pontocrates|Oedicerotidae|Gammaridea|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Vlakte van de Raan open;;BOXCRR;sample 13;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Spiophanes bombyx;Spiophanes|Spionidae|Spionida|Polychaeta|Annelida|Animalia|;;;;Vlakte van de Raan open;;BOXCRR;sample 13;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Spisula subtruncata;Spisula|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Vlakte van de Raan open;;BODSF;sample 13;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Urothoe poseidonis;Urothoe|Gammaridae|Gammaridea|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Vlakte van de Raan open;;BOXCRR;sample 13;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Aequipecten opercularis;Aequipecten|Pectinidae|Ostreoida|Bivalvia|Mollusca|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;
+Alcyonium digitatum;Alcyonium|Alcyoniidae|Alcyonacea|Anthozoa|Cnidaria|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;
+Aonides paucibranchiata;Aonides|Spionidae|Spionida|Polychaeta|Annelida|Animalia|;;;;;Klaverbank HR;HAMHPR;sample 14;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Aporrhais pespelecani;Aporrhais|Aporrhaidae|Neotaenioglossa|Gastropoda|Mollusca|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;
+Arctica islandica;Arctica|Arcticidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Klaverbank HR;HAMHPR;sample 14;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Axinella;Axinellidae|Axinellida|Demospongiae|Porifera|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;13 taxa
+Buccinum undatum;Buccinum|Buccinidae|Neogastropoda|Gastropoda|Mollusca|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;
+Calcarea;Porifera|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;13 taxa
+Cerianthus lloydii;Cerianthus|Cerianthidae|Ceriantharia|Anthozoa|Cnidaria|Animalia|;;;;;Klaverbank HR;HAMHPR;sample 14;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Chone duneri;Chone|Sabellidae|Sabellida|Polychaeta|Annelida|Animalia|;;;;;Klaverbank HR;HAMHPR;sample 14;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Corallinaceae;;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;
+Demospongiae;Porifera|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;13 taxa
+Dosinia exoleta;Dosinia|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Klaverbank HR;HAMHPR;sample 14;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Echinocyamus pusillus;Echinocyamus|Fibulariidae|Clypeasteroida|Echinoidea|Echinodermata|Animalia|;;;;;Klaverbank HR;HAMHPR;sample 14;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Ephydatia;Spongillidae|Demospongiae|Porifera|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;13 taxa
+Galathea;Galatheidae|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;2 taxa
+Galathea intermedia;Galathea|Galatheidae|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;2 taxa
+Goniadella bobrezkii;Goniadella|Goniadidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;;Klaverbank HR;HAMHPR;sample 14;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Halichondria;Halichondriidae|Demospongiae|Porifera|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;13 taxa
+Haliclona oculata;Haliclona|Chalinidae|Haplosclerida|Demospongiae|Porifera|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;13 taxa
+Leucosolenia;Leucosoleniidae|Calcarea|Porifera|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;13 taxa
+Liocarcinus;Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;7 taxa
+Liocarcinus depurator;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;7 taxa
+Liocarcinus holsatus;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;7 taxa
+Liocarcinus marmoreus;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;7 taxa
+Liocarcinus navigator;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;7 taxa
+Liocarcinus pusillus;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;7 taxa
+Liocarcinus vernalis;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;7 taxa
+Paguridae;Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;6 taxa
+Pagurus;Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;6 taxa
+Pagurus bernhardus;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;6 taxa
+Pagurus cuanensis;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;6 taxa
+Pagurus prideaux;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;6 taxa
+Pagurus pubescens;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;6 taxa
+Pododesmus;;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;1 taxon = onbekend TWN
+Polititapes rhomboides;Polititapes|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Klaverbank HR;HAMHPR;sample 14;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Polymastiidae;Polymastiida|Demospongiae|Porifera|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;13 taxa
+Porifera;Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;13 taxa
+Protodorvillea kefersteini;Protodorvillea|Dorvilleidae|Eunicida|Polychaeta|Annelida|Animalia|;;;;;Klaverbank HR;HAMHPR;sample 14;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Sabellaria;Sabellariidae|Sabellida|Polychaeta|Annelida|Animalia|;;;;;Klaverbank HR;HAMHPR;sample 14;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;3 taxa
+Sabellaria alveolata;Sabellaria|Sabellariidae|Sabellida|Polychaeta|Annelida|Animalia|;;;;;Klaverbank HR;HAMHPR;sample 14;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;3 taxa
+Sabellaria spinulosa;Sabellaria|Sabellariidae|Sabellida|Polychaeta|Annelida|Animalia|;;;;;Klaverbank HR;HAMHPR;sample 14;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;3 taxa
+Simnia patula;Simnia|Ovulidae|Littorinimorpha|Gastropoda|Mollusca|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;
+Spiophanes kroyeri;Spiophanes|Spionidae|Spionida|Polychaeta|Annelida|Animalia|;;;;;Klaverbank HR;HAMHPR;sample 14;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Spirobranchus triqueter;Spirobranchus|Serpulidae|Sabellida|Polychaeta|Annelida|Animalia|;;;;;Klaverbank HR;HAMHPR;sample 14;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Spongilla lacustris;Spongilla|Spongillidae|Demospongiae|Porifera|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;13 taxa
+Suberites massa;Suberites|Suberitidae|Demospongiae|Porifera|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;13 taxa
+Sycon;Sycettidae|Calcarea|Porifera|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;13 taxa
+Terebellides;Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;;Klaverbank HR;HAMHPR;sample 14;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;6 taxa
+Terebellides europaea;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;;Klaverbank HR;HAMHPR;sample 14;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;6 taxa
+Terebellides gentili;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;;Klaverbank HR;HAMHPR;sample 14;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;6 taxa
+Terebellides resomari;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;;Klaverbank HR;HAMHPR;sample 14;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;6 taxa
+Terebellides shetlandica;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;;Klaverbank HR;HAMHPR;sample 14;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;6 taxa
+Terebellides stroemii;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;;Klaverbank HR;HAMHPR;sample 14;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;6 taxa
+Timoclea ovata;Timoclea|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Klaverbank HR;HAMHPR;sample 14;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Trochospongilla;Spongillidae|Demospongiae|Porifera|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;13 taxa
+Upogebia deltaura;Upogebia|Upogebiidae|Thalassinidea|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Klaverbank HR;HAMHPR;sample 14;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Urothoe marina;Urothoe|Gammaridae|Gammaridea|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Klaverbank HR;HAMHPR;sample 14;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Urticina;Actiniidae|Actiniaria|Anthozoa|Cnidaria|Animalia|;;;;;Klaverbank HR;VIDOCMRA;sample 14;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;combined taxa
+Aequipecten opercularis;Aequipecten|Pectinidae|Ostreoida|Bivalvia|Mollusca|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;
+Alcyonium digitatum;Alcyonium|Alcyoniidae|Alcyonacea|Anthozoa|Cnidaria|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;
+Aonides paucibranchiata;Aonides|Spionidae|Spionida|Polychaeta|Annelida|Animalia|;;;;Klaverbank open;;HAMHPR;sample 15;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Aporrhais pespelecani;Aporrhais|Aporrhaidae|Neotaenioglossa|Gastropoda|Mollusca|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;
+Arctica islandica;Arctica|Arcticidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Klaverbank open;;HAMHPR;sample 15;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Axinella;Axinellidae|Axinellida|Demospongiae|Porifera|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;13 taxa
+Buccinum undatum;Buccinum|Buccinidae|Neogastropoda|Gastropoda|Mollusca|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;
+Calcarea;Porifera|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;13 taxa
+Cerianthus lloydii;Cerianthus|Cerianthidae|Ceriantharia|Anthozoa|Cnidaria|Animalia|;;;;Klaverbank open;;HAMHPR;sample 15;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Chone duneri;Chone|Sabellidae|Sabellida|Polychaeta|Annelida|Animalia|;;;;Klaverbank open;;HAMHPR;sample 15;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Corallinaceae;;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;
+Demospongiae;Porifera|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;13 taxa
+Dosinia exoleta;Dosinia|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Klaverbank open;;HAMHPR;sample 15;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Echinocyamus pusillus;Echinocyamus|Fibulariidae|Clypeasteroida|Echinoidea|Echinodermata|Animalia|;;;;Klaverbank open;;HAMHPR;sample 15;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Ephydatia;Spongillidae|Demospongiae|Porifera|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;13 taxa
+Galathea;Galatheidae|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;2 taxa
+Galathea intermedia;Galathea|Galatheidae|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;2 taxa
+Goniadella bobrezkii;Goniadella|Goniadidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;Klaverbank open;;HAMHPR;sample 15;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Halichondria;Halichondriidae|Demospongiae|Porifera|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;13 taxa
+Haliclona oculata;Haliclona|Chalinidae|Haplosclerida|Demospongiae|Porifera|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;13 taxa
+Leucosolenia;Leucosoleniidae|Calcarea|Porifera|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;13 taxa
+Liocarcinus;Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;7 taxa
+Liocarcinus depurator;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;7 taxa
+Liocarcinus holsatus;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;7 taxa
+Liocarcinus marmoreus;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;7 taxa
+Liocarcinus navigator;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;7 taxa
+Liocarcinus pusillus;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;7 taxa
+Liocarcinus vernalis;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;7 taxa
+Paguridae;Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;6 taxa
+Pagurus;Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;6 taxa
+Pagurus bernhardus;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;6 taxa
+Pagurus cuanensis;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;6 taxa
+Pagurus prideaux;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;6 taxa
+Pagurus pubescens;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;6 taxa
+Pododesmus;;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;1 taxon = onbekend TWN
+Polititapes rhomboides;Polititapes|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Klaverbank open;;HAMHPR;sample 15;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Polymastiidae;Polymastiida|Demospongiae|Porifera|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;13 taxa
+Porifera;Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;13 taxa
+Protodorvillea kefersteini;Protodorvillea|Dorvilleidae|Eunicida|Polychaeta|Annelida|Animalia|;;;;Klaverbank open;;HAMHPR;sample 15;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Sabellaria;Sabellariidae|Sabellida|Polychaeta|Annelida|Animalia|;;;;Klaverbank open;;HAMHPR;sample 15;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;3 taxa
+Sabellaria alveolata;Sabellaria|Sabellariidae|Sabellida|Polychaeta|Annelida|Animalia|;;;;Klaverbank open;;HAMHPR;sample 15;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;3 taxa
+Sabellaria spinulosa;Sabellaria|Sabellariidae|Sabellida|Polychaeta|Annelida|Animalia|;;;;Klaverbank open;;HAMHPR;sample 15;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;3 taxa
+Simnia patula;Simnia|Ovulidae|Littorinimorpha|Gastropoda|Mollusca|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;
+Spiophanes kroyeri;Spiophanes|Spionidae|Spionida|Polychaeta|Annelida|Animalia|;;;;Klaverbank open;;HAMHPR;sample 15;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Spirobranchus triqueter;Spirobranchus|Serpulidae|Sabellida|Polychaeta|Annelida|Animalia|;;;;Klaverbank open;;HAMHPR;sample 15;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Spongilla lacustris;Spongilla|Spongillidae|Demospongiae|Porifera|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;13 taxa
+Suberites massa;Suberites|Suberitidae|Demospongiae|Porifera|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;13 taxa
+Sycon;Sycettidae|Calcarea|Porifera|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;13 taxa
+Terebellides;Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;Klaverbank open;;HAMHPR;sample 15;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;6 taxa
+Terebellides europaea;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;Klaverbank open;;HAMHPR;sample 15;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;6 taxa
+Terebellides gentili;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;Klaverbank open;;HAMHPR;sample 15;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;6 taxa
+Terebellides resomari;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;Klaverbank open;;HAMHPR;sample 15;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;6 taxa
+Terebellides shetlandica;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;Klaverbank open;;HAMHPR;sample 15;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;6 taxa
+Terebellides stroemii;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;Klaverbank open;;HAMHPR;sample 15;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;6 taxa
+Timoclea ovata;Timoclea|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Klaverbank open;;HAMHPR;sample 15;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Trochospongilla;Spongillidae|Demospongiae|Porifera|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;13 taxa
+Upogebia deltaura;Upogebia|Upogebiidae|Thalassinidea|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Klaverbank open;;HAMHPR;sample 15;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Urothoe marina;Urothoe|Gammaridae|Gammaridea|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Klaverbank open;;HAMHPR;sample 15;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Urticina;Actiniidae|Actiniaria|Anthozoa|Cnidaria|Animalia|;;;;Klaverbank open;;VIDOCMRA;sample 15;NRDZE_0313;2022;20;m2;Noordzee;1;Video tracks (20 m2);;combined taxa
+Bathyporeia elegans;Bathyporeia|Bathyporeiidae|Senticaudata|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Bruine Bank KRM;BOXCRR;sample 16;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Bathyporeia guilliamsoniana;Bathyporeia|Bathyporeiidae|Senticaudata|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Bruine Bank KRM;BOXCRR;sample 16;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Corystes cassivelaunus;Corystes|Corystidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Bruine Bank KRM;BODSF;sample 16;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Donax vittatus;Donax|Donacidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Bruine Bank KRM;BODSF;sample 16;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Echinocardium cordatum;Echinocardium|Loveniidae|Spatangoida|Echinoidea|Echinodermata|Animalia|;;;;;Bruine Bank KRM;BODSF;sample 16;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Echinocyamus pusillus;Echinocyamus|Fibulariidae|Clypeasteroida|Echinoidea|Echinodermata|Animalia|;;;;;Bruine Bank KRM;BOXCRR;sample 16;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Ensis ensis;Ensis|Pharidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Bruine Bank KRM;BODSF;sample 16;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Ensis siliqua;Ensis|Pharidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Bruine Bank KRM;BODSF;sample 16;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Euspira nitida;Euspira|Naticidae|Neotaenioglossa|Gastropoda|Mollusca|Animalia|;;;;;Bruine Bank KRM;BODSF;sample 16;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Fabulina fabula;Fabulina|Tellinidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Bruine Bank KRM;BOXCRR;sample 16;NRDZE_0313;2022;0.078;m2;Noordzee;4;Boxcore (0,078 m2);check position;
+Goniada maculata;Goniada|Goniadidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;;Bruine Bank KRM;BOXCRR;sample 16;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Lanice conchilega;Lanice|Terebellidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;;Bruine Bank KRM;BOXCRR;sample 16;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Liocarcinus holsatus;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Bruine Bank KRM;BODSF;sample 16;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Nephtys cirrosa;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;;Bruine Bank KRM;BOXCRR;sample 16;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Ophiura albida;Ophiura|Ophiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;;;Bruine Bank KRM;BODSF;sample 16;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Ophiura ophiura;Ophiura|Ophiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;;;Bruine Bank KRM;BODSF;sample 16;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Paguridae;Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Bruine Bank KRM;BODSF;sample 16;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus;Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Bruine Bank KRM;BODSF;sample 16;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus bernhardus;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Bruine Bank KRM;BODSF;sample 16;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus cuanensis;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Bruine Bank KRM;BODSF;sample 16;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus prideaux;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Bruine Bank KRM;BODSF;sample 16;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus pubescens;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Bruine Bank KRM;BODSF;sample 16;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Spiophanes bombyx;Spiophanes|Spionidae|Spionida|Polychaeta|Annelida|Animalia|;;;;;Bruine Bank KRM;BOXCRR;sample 16;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Spisula elliptica;Spisula|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Bruine Bank KRM;BODSF;sample 16;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Thia scutellata;Thia|Thiidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Bruine Bank KRM;BODSF;sample 16;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Urothoe poseidonis;Urothoe|Gammaridae|Gammaridea|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Bruine Bank KRM;BOXCRR;sample 16;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Arctica islandica;Arctica|Arcticidae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep zand;;;;;BODSF;sample 17;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Arctica islandica;Arctica|Arcticidae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep zand;;;;;VIDOCMRA;sample 17;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Bathyporeia elegans;Bathyporeia|Bathyporeiidae|Senticaudata|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep zand;;;;;BOXCRR;sample 17;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Bathyporeia elegans;Bathyporeia|Bathyporeiidae|Senticaudata|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep zand;;;;;HAMHPR;sample 17;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Bathyporeia guilliamsoniana;Bathyporeia|Bathyporeiidae|Senticaudata|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep zand;;;;;BOXCRR;sample 17;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Bathyporeia guilliamsoniana;Bathyporeia|Bathyporeiidae|Senticaudata|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep zand;;;;;HAMHPR;sample 17;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Corystes cassivelaunus;Corystes|Corystidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep zand;;;;;BODSF;sample 17;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Corystes cassivelaunus;Corystes|Corystidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep zand;;;;;VIDOCMRA;sample 17;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Donax vittatus;Donax|Donacidae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep zand;;;;;BODSF;sample 17;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Donax vittatus;Donax|Donacidae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep zand;;;;;VIDOCMRA;sample 17;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Dosinia lupinus;Dosinia|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep zand;;;;;BOXCRR;sample 17;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Dosinia lupinus;Dosinia|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep zand;;;;;HAMHPR;sample 17;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Echinocardium cordatum;Echinocardium|Loveniidae|Spatangoida|Echinoidea|Echinodermata|Animalia|;Diep zand;;;;;BOXCRR;sample 17;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Echinocardium cordatum;Echinocardium|Loveniidae|Spatangoida|Echinoidea|Echinodermata|Animalia|;Diep zand;;;;;HAMHPR;sample 17;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Echinocyamus pusillus;Echinocyamus|Fibulariidae|Clypeasteroida|Echinoidea|Echinodermata|Animalia|;Diep zand;;;;;BOXCRR;sample 17;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Echinocyamus pusillus;Echinocyamus|Fibulariidae|Clypeasteroida|Echinoidea|Echinodermata|Animalia|;Diep zand;;;;;HAMHPR;sample 17;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Ensis ensis;Ensis|Pharidae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep zand;;;;;BODSF;sample 17;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Ensis ensis;Ensis|Pharidae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep zand;;;;;VIDOCMRA;sample 17;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Ensis siliqua;Ensis|Pharidae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep zand;;;;;BODSF;sample 17;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Ensis siliqua;Ensis|Pharidae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep zand;;;;;VIDOCMRA;sample 17;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Euspira nitida;Euspira|Naticidae|Neotaenioglossa|Gastropoda|Mollusca|Animalia|;Diep zand;;;;;BOXCRR;sample 17;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Euspira nitida;Euspira|Naticidae|Neotaenioglossa|Gastropoda|Mollusca|Animalia|;Diep zand;;;;;HAMHPR;sample 17;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Fabulina fabula;Fabulina|Tellinidae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep zand;;;;;BOXCRR;sample 17;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Fabulina fabula;Fabulina|Tellinidae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep zand;;;;;HAMHPR;sample 17;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Gari fervensis;Gari|Psammobiidae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep zand;;;;;BODSF;sample 17;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Gari fervensis;Gari|Psammobiidae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep zand;;;;;VIDOCMRA;sample 17;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Goniada maculata;Goniada|Goniadidae|Phyllodocida|Polychaeta|Annelida|Animalia|;Diep zand;;;;;BOXCRR;sample 17;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Goniada maculata;Goniada|Goniadidae|Phyllodocida|Polychaeta|Annelida|Animalia|;Diep zand;;;;;HAMHPR;sample 17;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Lanice conchilega;Lanice|Terebellidae|Terebellida|Polychaeta|Annelida|Animalia|;Diep zand;;;;;BOXCRR;sample 17;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Lanice conchilega;Lanice|Terebellidae|Terebellida|Polychaeta|Annelida|Animalia|;Diep zand;;;;;HAMHPR;sample 17;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Liocarcinus holsatus;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep zand;;;;;BODSF;sample 17;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Liocarcinus holsatus;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep zand;;;;;VIDOCMRA;sample 17;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Nephtys cirrosa;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;Diep zand;;;;;BOXCRR;sample 17;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Nephtys cirrosa;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;Diep zand;;;;;HAMHPR;sample 17;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Ophiura albida;Ophiura|Ophiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;Diep zand;;;;;BODSF;sample 17;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Ophiura albida;Ophiura|Ophiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;Diep zand;;;;;VIDOCMRA;sample 17;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Ophiura ophiura;Ophiura|Ophiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;Diep zand;;;;;BODSF;sample 17;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Ophiura ophiura;Ophiura|Ophiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;Diep zand;;;;;VIDOCMRA;sample 17;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Paguridae;Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep zand;;;;;BODSF;sample 17;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;6 taxa
+Paguridae;Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep zand;;;;;VIDOCMRA;sample 17;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;6 taxa
+Pagurus;Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep zand;;;;;BODSF;sample 17;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);;6 taxa
+Pagurus;Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep zand;;;;;VIDOCMRA;sample 17;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);;6 taxa
+Pagurus bernhardus;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep zand;;;;;BODSF;sample 17;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);;6 taxa
+Pagurus bernhardus;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep zand;;;;;VIDOCMRA;sample 17;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);;6 taxa
+Pagurus cuanensis;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep zand;;;;;BODSF;sample 17;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);;6 taxa
+Pagurus cuanensis;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep zand;;;;;VIDOCMRA;sample 17;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);;6 taxa
+Pagurus prideaux;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep zand;;;;;BODSF;sample 17;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);;6 taxa
+Pagurus prideaux;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep zand;;;;;VIDOCMRA;sample 17;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);;6 taxa
+Pagurus pubescens;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep zand;;;;;BODSF;sample 17;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);;6 taxa
+Pagurus pubescens;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep zand;;;;;VIDOCMRA;sample 17;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);;6 taxa
+Psammechinus miliaris;Psammechinus|Parechinidae|Camarodonta|Echinoidea|Echinodermata|Animalia|;Diep zand;;;;;BODSF;sample 17;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Psammechinus miliaris;Psammechinus|Parechinidae|Camarodonta|Echinoidea|Echinodermata|Animalia|;Diep zand;;;;;VIDOCMRA;sample 17;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Spiophanes bombyx;Spiophanes|Spionidae|Spionida|Polychaeta|Annelida|Animalia|;Diep zand;;;;;BOXCRR;sample 17;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Spiophanes bombyx;Spiophanes|Spionidae|Spionida|Polychaeta|Annelida|Animalia|;Diep zand;;;;;HAMHPR;sample 17;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Spisula elliptica;Spisula|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep zand;;;;;BODSF;sample 17;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Spisula elliptica;Spisula|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep zand;;;;;VIDOCMRA;sample 17;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Thia scutellata;Thia|Thiidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep zand;;;;;BODSF;sample 17;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Thia scutellata;Thia|Thiidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep zand;;;;;VIDOCMRA;sample 17;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Urothoe poseidonis;Urothoe|Gammaridae|Gammaridea|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep zand;;;;;BOXCRR;sample 17;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Urothoe poseidonis;Urothoe|Gammaridae|Gammaridea|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep zand;;;;;HAMHPR;sample 17;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Acanthocardia echinata;Acanthocardia|Cardiidae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep slibrijk;;;;;BODSF;sample 18;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Acanthocardia echinata;Acanthocardia|Cardiidae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep slibrijk;;;;;VIDOCMRA;sample 18;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Amphiura filiformis;Amphiura|Amphiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;Diep slibrijk;;;;;BOXCRR;sample 18;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Amphiura filiformis;Amphiura|Amphiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;Diep slibrijk;;;;;HAMHPR;sample 18;NRDZE_0313;2022;0.09;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Aphrodita aculeata;Aphrodita|Aphroditidae|Phyllodocida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;BODSF;sample 18;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Aphrodita aculeata;Aphrodita|Aphroditidae|Phyllodocida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;VIDOCMRA;sample 18;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Arctica islandica;Arctica|Arcticidae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep slibrijk;;;;;BODSF;sample 18;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Arctica islandica;Arctica|Arcticidae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep slibrijk;;;;;VIDOCMRA;sample 18;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Atherospio guillei;Atherospio|Spionidae|Spionida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;BOXCRR;sample 18;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Atherospio guillei;Atherospio|Spionidae|Spionida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;HAMHPR;sample 18;NRDZE_0313;2022;0.09;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Brissopsis lyrifera;Brissopsis|Brissidae|Spatangoida|Echinoidea|Echinodermata|Animalia|;Diep slibrijk;;;;;BODSF;sample 18;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Brissopsis lyrifera;Brissopsis|Brissidae|Spatangoida|Echinoidea|Echinodermata|Animalia|;Diep slibrijk;;;;;VIDOCMRA;sample 18;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Callianassa subterranea;Callianassa|Callianassidae|Thalassinidea|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep slibrijk;;;;;BOXCRR;sample 18;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Callianassa subterranea;Callianassa|Callianassidae|Thalassinidea|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep slibrijk;;;;;HAMHPR;sample 18;NRDZE_0313;2022;0.09;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Chaetopterus variopedatus;Chaetopterus|Chaetopteridae|Spionida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;BOXCRR;sample 18;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Chaetopterus variopedatus;Chaetopterus|Chaetopteridae|Spionida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;HAMHPR;sample 18;NRDZE_0313;2022;0.09;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Chamelea striatula;Chamelea|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep slibrijk;;;;;BOXCRR;sample 18;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Chamelea striatula;Chamelea|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep slibrijk;;;;;HAMHPR;sample 18;NRDZE_0313;2022;0.09;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Corbula gibba;Corbula|Corbulidae|Myoida|Bivalvia|Mollusca|Animalia|;Diep slibrijk;;;;;BOXCRR;sample 18;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Corbula gibba;Corbula|Corbulidae|Myoida|Bivalvia|Mollusca|Animalia|;Diep slibrijk;;;;;HAMHPR;sample 18;NRDZE_0313;2022;0.09;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Corystes cassivelaunus;Corystes|Corystidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep slibrijk;;;;;BODSF;sample 18;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Corystes cassivelaunus;Corystes|Corystidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep slibrijk;;;;;VIDOCMRA;sample 18;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Cylichna cylindracea;Cylichna|Cylichnidae|Cephalaspidea|Gastropoda|Mollusca|Animalia|;Diep slibrijk;;;;;BOXCRR;sample 18;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Cylichna cylindracea;Cylichna|Cylichnidae|Cephalaspidea|Gastropoda|Mollusca|Animalia|;Diep slibrijk;;;;;HAMHPR;sample 18;NRDZE_0313;2022;0.09;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Dosinia lupinus;Dosinia|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep slibrijk;;;;;BODSF;sample 18;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Dosinia lupinus;Dosinia|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep slibrijk;;;;;VIDOCMRA;sample 18;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Echinocardium cordatum;Echinocardium|Loveniidae|Spatangoida|Echinoidea|Echinodermata|Animalia|;Diep slibrijk;;;;;BOXCRR;sample 18;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Echinocardium cordatum;Echinocardium|Loveniidae|Spatangoida|Echinoidea|Echinodermata|Animalia|;Diep slibrijk;;;;;HAMHPR;sample 18;NRDZE_0313;2022;0.09;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Echinocardium flavescens;Echinocardium|Loveniidae|Spatangoida|Echinoidea|Echinodermata|Animalia|;Diep slibrijk;;;;;BODSF;sample 18;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Echinocardium flavescens;Echinocardium|Loveniidae|Spatangoida|Echinoidea|Echinodermata|Animalia|;Diep slibrijk;;;;;VIDOCMRA;sample 18;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Euspira nitida;Euspira|Naticidae|Neotaenioglossa|Gastropoda|Mollusca|Animalia|;Diep slibrijk;;;;;BOXCRR;sample 18;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Euspira nitida;Euspira|Naticidae|Neotaenioglossa|Gastropoda|Mollusca|Animalia|;Diep slibrijk;;;;;HAMHPR;sample 18;NRDZE_0313;2022;0.09;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Goneplax rhomboides;Goneplax|Goneplacidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep slibrijk;;;;;BOXCRR;sample 18;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Goneplax rhomboides;Goneplax|Goneplacidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep slibrijk;;;;;HAMHPR;sample 18;NRDZE_0313;2022;0.09;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Leptosynapta inhaerens;Leptosynapta|Synaptidae|Apodida|Holothuroidea|Echinodermata|Animalia|;Diep slibrijk;;;;;BOXCRR;sample 18;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Leptosynapta inhaerens;Leptosynapta|Synaptidae|Apodida|Holothuroidea|Echinodermata|Animalia|;Diep slibrijk;;;;;HAMHPR;sample 18;NRDZE_0313;2022;0.09;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Nephtys incisa;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;BOXCRR;sample 18;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Nephtys incisa;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;HAMHPR;sample 18;NRDZE_0313;2022;0.09;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Nucula nitidosa;Nucula|Nuculidae|Nuculoida|Bivalvia|Mollusca|Animalia|;Diep slibrijk;;;;;BOXCRR;sample 18;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Nucula nitidosa;Nucula|Nuculidae|Nuculoida|Bivalvia|Mollusca|Animalia|;Diep slibrijk;;;;;HAMHPR;sample 18;NRDZE_0313;2022;0.09;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Ophiura albida;Ophiura|Ophiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;Diep slibrijk;;;;;BODSF;sample 18;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Ophiura albida;Ophiura|Ophiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;Diep slibrijk;;;;;VIDOCMRA;sample 18;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Oxydromus flexuosus;Oxydromus|Hesionidae|Phyllodocida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;BOXCRR;sample 18;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Oxydromus flexuosus;Oxydromus|Hesionidae|Phyllodocida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;HAMHPR;sample 18;NRDZE_0313;2022;0.09;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Podarkeopsis capensis;Podarkeopsis|Hesionidae|Phyllodocida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;BOXCRR;sample 18;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;combined taxa
+Podarkeopsis capensis;Podarkeopsis|Hesionidae|Phyllodocida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;HAMHPR;sample 18;NRDZE_0313;2022;0.09;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;combined taxa
+Podarkeopsis helgolandicus;Podarkeopsis|Hesionidae|Phyllodocida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;BOXCRR;sample 18;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;combined taxa
+Podarkeopsis helgolandicus;Podarkeopsis|Hesionidae|Phyllodocida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;HAMHPR;sample 18;NRDZE_0313;2022;0.09;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;combined taxa
+Sthenelais limicola;Sthenelais|Sigalionidae|Phyllodocida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;BOXCRR;sample 18;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Sthenelais limicola;Sthenelais|Sigalionidae|Phyllodocida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;HAMHPR;sample 18;NRDZE_0313;2022;0.09;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Terebellides;Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;BOXCRR;sample 18;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;6 taxa
+Terebellides;Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;HAMHPR;sample 18;NRDZE_0313;2022;0.09;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;6 taxa
+Terebellides europaea;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;BOXCRR;sample 18;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;6 taxa
+Terebellides europaea;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;HAMHPR;sample 18;NRDZE_0313;2022;0.09;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;6 taxa
+Terebellides gentili;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;BOXCRR;sample 18;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;6 taxa
+Terebellides gentili;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;HAMHPR;sample 18;NRDZE_0313;2022;0.09;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;6 taxa
+Terebellides resomari;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;BOXCRR;sample 18;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;6 taxa
+Terebellides resomari;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;HAMHPR;sample 18;NRDZE_0313;2022;0.09;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;6 taxa
+Terebellides shetlandica;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;BOXCRR;sample 18;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;6 taxa
+Terebellides shetlandica;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;HAMHPR;sample 18;NRDZE_0313;2022;0.09;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;6 taxa
+Terebellides stroemii;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;BOXCRR;sample 18;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;6 taxa
+Terebellides stroemii;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;Diep slibrijk;;;;;HAMHPR;sample 18;NRDZE_0313;2022;0.09;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;6 taxa
+Thracia convexa;Thracia|Thraciidae|Pholadomyoida|Bivalvia|Mollusca|Animalia|;Diep slibrijk;;;;;BODSF;sample 18;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Thracia convexa;Thracia|Thraciidae|Pholadomyoida|Bivalvia|Mollusca|Animalia|;Diep slibrijk;;;;;VIDOCMRA;sample 18;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Turritellinella tricarinata;Turritellinella|Turritellidae|Gastropoda|Mollusca|Animalia|;Diep slibrijk;;;;;BODSF;sample 18;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Turritellinella tricarinata;Turritellinella|Turritellidae|Gastropoda|Mollusca|Animalia|;Diep slibrijk;;;;;VIDOCMRA;sample 18;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Upogebia deltaura;Upogebia|Upogebiidae|Thalassinidea|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep slibrijk;;;;;BOXCRR;sample 18;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Upogebia deltaura;Upogebia|Upogebiidae|Thalassinidea|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep slibrijk;;;;;HAMHPR;sample 18;NRDZE_0313;2022;0.09;m2;Noordzee;1;Boxcore/Hamon (0,078-0,09 m2);combined methods;
+Upogebia stellata;Upogebia|Upogebiidae|Thalassinidea|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep slibrijk;;;;;BODSF;sample 18;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Upogebia stellata;Upogebia|Upogebiidae|Thalassinidea|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep slibrijk;;;;;VIDOCMRA;sample 18;NRDZE_0313;2022;240;m2;Noordzee;1;Dredge/Video (20 or 240 m2);combined methods;
+Aequipecten opercularis;Aequipecten|Pectinidae|Ostreoida|Bivalvia|Mollusca|Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;
+Alcyonium digitatum;Alcyonium|Alcyoniidae|Alcyonacea|Anthozoa|Cnidaria|Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;
+Aonides paucibranchiata;Aonides|Spionidae|Spionida|Polychaeta|Annelida|Animalia|;Diep grof sediment;;;;;HAMHPR;sample 19;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Aporrhais pespelecani;Aporrhais|Aporrhaidae|Neotaenioglossa|Gastropoda|Mollusca|Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;
+Arcopagia crassa;Arcopagia|Tellinidae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep grof sediment;;;;;HAMHPR;sample 19;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Arctica islandica;Arctica|Arcticidae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep grof sediment;;;;;HAMHPR;sample 19;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Axinella;Axinellidae|Axinellida|Demospongiae|Porifera|Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;13 taxa
+Buccinum undatum;Buccinum|Buccinidae|Neogastropoda|Gastropoda|Mollusca|Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;
+Calcarea;Porifera|Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;13 taxa
+Cerianthus lloydii;Cerianthus|Cerianthidae|Ceriantharia|Anthozoa|Cnidaria|Animalia|;Diep grof sediment;;;;;HAMHPR;sample 19;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Chone duneri;Chone|Sabellidae|Sabellida|Polychaeta|Annelida|Animalia|;Diep grof sediment;;;;;HAMHPR;sample 19;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Corallinaceae;;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;
+Demospongiae;Porifera|Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;13 taxa
+Dosinia exoleta;Dosinia|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep grof sediment;;;;;HAMHPR;sample 19;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Echinocyamus pusillus;Echinocyamus|Fibulariidae|Clypeasteroida|Echinoidea|Echinodermata|Animalia|;Diep grof sediment;;;;;HAMHPR;sample 19;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Ephydatia;Spongillidae|Demospongiae|Porifera|Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;13 taxa
+Galathea;Galatheidae|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;2 taxa
+Galathea intermedia;Galathea|Galatheidae|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;2 taxa
+Goniadella bobrezkii;Goniadella|Goniadidae|Phyllodocida|Polychaeta|Annelida|Animalia|;Diep grof sediment;;;;;HAMHPR;sample 19;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Halichondria;Halichondriidae|Demospongiae|Porifera|Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;13 taxa
+Haliclona oculata;Haliclona|Chalinidae|Haplosclerida|Demospongiae|Porifera|Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;13 taxa
+Leucosolenia;Leucosoleniidae|Calcarea|Porifera|Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;13 taxa
+Paguridae;Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;6 taxa
+Pagurus;Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;6 taxa
+Pagurus bernhardus;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;6 taxa
+Pagurus cuanensis;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;6 taxa
+Pagurus prideaux;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;6 taxa
+Pagurus pubescens;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;6 taxa
+Pododesmus;;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;1 taxon = onbekend TWN
+Polititapes rhomboides;Polititapes|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep grof sediment;;;;;HAMHPR;sample 19;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Polymastiidae;Polymastiida|Demospongiae|Porifera|Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;13 taxa
+Porifera;Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;13 taxa
+Protodorvillea kefersteini;Protodorvillea|Dorvilleidae|Eunicida|Polychaeta|Annelida|Animalia|;Diep grof sediment;;;;;HAMHPR;sample 19;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Sabellaria spinulosa;Sabellaria|Sabellariidae|Sabellida|Polychaeta|Annelida|Animalia|;Diep grof sediment;;;;;HAMHPR;sample 19;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Simnia patula;Simnia|Ovulidae|Littorinimorpha|Gastropoda|Mollusca|Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;
+Spiophanes kroyeri;Spiophanes|Spionidae|Spionida|Polychaeta|Annelida|Animalia|;Diep grof sediment;;;;;HAMHPR;sample 19;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Spirobranchus triqueter;Spirobranchus|Serpulidae|Sabellida|Polychaeta|Annelida|Animalia|;Diep grof sediment;;;;;HAMHPR;sample 19;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Spongilla lacustris;Spongilla|Spongillidae|Demospongiae|Porifera|Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;13 taxa
+Suberites massa;Suberites|Suberitidae|Demospongiae|Porifera|Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;13 taxa
+Sycon;Sycettidae|Calcarea|Porifera|Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;13 taxa
+Terebellides;Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;Diep grof sediment;;;;;HAMHPR;sample 19;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;6 taxa
+Terebellides europaea;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;Diep grof sediment;;;;;HAMHPR;sample 19;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;6 taxa
+Terebellides gentili;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;Diep grof sediment;;;;;HAMHPR;sample 19;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;6 taxa
+Terebellides resomari;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;Diep grof sediment;;;;;HAMHPR;sample 19;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;6 taxa
+Terebellides shetlandica;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;Diep grof sediment;;;;;HAMHPR;sample 19;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;6 taxa
+Terebellides stroemii;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;Diep grof sediment;;;;;HAMHPR;sample 19;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;6 taxa
+Timoclea ovata;Timoclea|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;Diep grof sediment;;;;;HAMHPR;sample 19;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Trochospongilla;Spongillidae|Demospongiae|Porifera|Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;13 taxa
+Upogebia deltaura;Upogebia|Upogebiidae|Thalassinidea|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep grof sediment;;;;;HAMHPR;sample 19;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Urothoe marina;Urothoe|Gammaridae|Gammaridea|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Diep grof sediment;;;;;HAMHPR;sample 19;NRDZE_0313;2022;0.09;m2;Noordzee;1;Hamon grab (0,09 m2);;
+Urticina;Actiniidae|Actiniaria|Anthozoa|Cnidaria|Animalia|;Diep grof sediment;;;;;VIDOCMRA;sample 19;NRDZE_0313;2022;240;m2;Noordzee;1;Video tracks (>240 m2);;combined taxa
+Acanthocardia echinata;Acanthocardia|Cardiidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Centrale Oestergronden open;;BODSF;sample 2;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Amphiura filiformis;Amphiura|Amphiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;;Centrale Oestergronden open;;BOXCRR;sample 2;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Aphrodita aculeata;Aphrodita|Aphroditidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;Centrale Oestergronden open;;BODSF;sample 2;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Arctica islandica;Arctica|Arcticidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Centrale Oestergronden open;;BODSF;sample 2;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Brissopsis lyrifera;Brissopsis|Brissidae|Spatangoida|Echinoidea|Echinodermata|Animalia|;;;;Centrale Oestergronden open;;BODSF;sample 2;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Callianassa subterranea;Callianassa|Callianassidae|Thalassinidea|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Centrale Oestergronden open;;BOXCRR;sample 2;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Chaetopterus variopedatus;Chaetopterus|Chaetopteridae|Spionida|Polychaeta|Annelida|Animalia|;;;;Centrale Oestergronden open;;BOXCRR;sample 2;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Chamelea striatula;Chamelea|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Centrale Oestergronden open;;BODSF;sample 2;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Corbula gibba;Corbula|Corbulidae|Myoida|Bivalvia|Mollusca|Animalia|;;;;Centrale Oestergronden open;;BOXCRR;sample 2;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Cylichna cylindracea;Cylichna|Cylichnidae|Cephalaspidea|Gastropoda|Mollusca|Animalia|;;;;Centrale Oestergronden open;;BOXCRR;sample 2;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Dosinia lupinus;Dosinia|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Centrale Oestergronden open;;BODSF;sample 2;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Echinocardium cordatum;Echinocardium|Loveniidae|Spatangoida|Echinoidea|Echinodermata|Animalia|;;;;Centrale Oestergronden open;;BODSF;sample 2;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Echinocardium flavescens;Echinocardium|Loveniidae|Spatangoida|Echinoidea|Echinodermata|Animalia|;;;;Centrale Oestergronden open;;BODSF;sample 2;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Nephtys incisa;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;Centrale Oestergronden open;;BOXCRR;sample 2;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Nucula nitidosa;Nucula|Nuculidae|Nuculoida|Bivalvia|Mollusca|Animalia|;;;;Centrale Oestergronden open;;BOXCRR;sample 2;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Sthenelais limicola;Sthenelais|Sigalionidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;Centrale Oestergronden open;;BOXCRR;sample 2;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Terebellides;Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;Centrale Oestergronden open;;BOXCRR;sample 2;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;6 taxa
+Terebellides europaea;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;Centrale Oestergronden open;;BOXCRR;sample 2;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;6 taxa
+Terebellides gentili;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;Centrale Oestergronden open;;BOXCRR;sample 2;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;6 taxa
+Terebellides resomari;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;Centrale Oestergronden open;;BOXCRR;sample 2;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;6 taxa
+Terebellides shetlandica;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;Centrale Oestergronden open;;BOXCRR;sample 2;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;6 taxa
+Terebellides stroemii;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;Centrale Oestergronden open;;BOXCRR;sample 2;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;6 taxa
+Turritellinella tricarinata;Turritellinella|Turritellidae|Gastropoda|Mollusca|Animalia|;;;;Centrale Oestergronden open;;BODSF;sample 2;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Upogebia deltaura;Upogebia|Upogebiidae|Thalassinidea|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Centrale Oestergronden open;;BODSF;sample 2;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Upogebia stellata;Upogebia|Upogebiidae|Thalassinidea|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Centrale Oestergronden open;;BODSF;sample 2;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Abra alba;Abra|Semelidae|Veneroida|Bivalvia|Mollusca|Animalia|;Ondiep zand;;;;;BODSF;sample 20;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;
+Bathyporeia elegans;Bathyporeia|Bathyporeiidae|Senticaudata|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Ondiep zand;;;;;BOXCRR;sample 20;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Buccinum undatum;Buccinum|Buccinidae|Neogastropoda|Gastropoda|Mollusca|Animalia|;Ondiep zand;;;;;BODSF;sample 20;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;
+Chamelea striatula;Chamelea|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;Ondiep zand;;;;;BODSF;sample 20;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;
+Corystes cassivelaunus;Corystes|Corystidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Ondiep zand;;;;;BODSF;sample 20;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;
+Donax vittatus;Donax|Donacidae|Veneroida|Bivalvia|Mollusca|Animalia|;Ondiep zand;;;;;BODSF;sample 20;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;
+Echinocardium cordatum;Echinocardium|Loveniidae|Spatangoida|Echinoidea|Echinodermata|Animalia|;Ondiep zand;;;;;BOXCRR;sample 20;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Euspira nitida;Euspira|Naticidae|Neotaenioglossa|Gastropoda|Mollusca|Animalia|;Ondiep zand;;;;;BOXCRR;sample 20;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Fabulina fabula;Fabulina|Tellinidae|Veneroida|Bivalvia|Mollusca|Animalia|;Ondiep zand;;;;;BOXCRR;sample 20;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Lanice conchilega;Lanice|Terebellidae|Terebellida|Polychaeta|Annelida|Animalia|;Ondiep zand;;;;;BOXCRR;sample 20;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Liocarcinus holsatus;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Ondiep zand;;;;;BODSF;sample 20;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;
+Lutraria lutraria;Lutraria|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;Ondiep zand;;;;;BODSF;sample 20;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;
+Mactra stultorum;Mactra|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;Ondiep zand;;;;;BODSF;sample 20;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;
+Magelona filiformis;Magelona|Magelonidae|Spionida|Polychaeta|Annelida|Animalia|;Ondiep zand;;;;;BOXCRR;sample 20;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Magelona johnstoni;Magelona|Magelonidae|Spionida|Polychaeta|Annelida|Animalia|;Ondiep zand;;;;;BOXCRR;sample 20;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Mytilus edulis;Mytilus|Mytilidae|Mytiloida|Bivalvia|Mollusca|Animalia|;Ondiep zand;;;;;BODSF;sample 20;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;
+Nephtys cirrosa;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;Ondiep zand;;;;;BOXCRR;sample 20;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Ophiura ophiura;Ophiura|Ophiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;Ondiep zand;;;;;BODSF;sample 20;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;
+Owenia fusiformis;Owenia|Oweniidae|Sabellida|Polychaeta|Annelida|Animalia|;Ondiep zand;;;;;BOXCRR;sample 20;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Paguridae;Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Ondiep zand;;;;;BODSF;sample 20;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;6 taxa
+Pagurus;Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Ondiep zand;;;;;BODSF;sample 20;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;6 taxa
+Pagurus bernhardus;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Ondiep zand;;;;;BODSF;sample 20;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;6 taxa
+Pagurus cuanensis;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Ondiep zand;;;;;BODSF;sample 20;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;6 taxa
+Pagurus prideaux;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Ondiep zand;;;;;BODSF;sample 20;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;6 taxa
+Pagurus pubescens;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Ondiep zand;;;;;BODSF;sample 20;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;6 taxa
+Pontocrates altamarinus;Pontocrates|Oedicerotidae|Gammaridea|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Ondiep zand;;;;;BOXCRR;sample 20;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Sigalion mathildae;Sigalion|Sigalionidae|Phyllodocida|Polychaeta|Annelida|Animalia|;Ondiep zand;;;;;BOXCRR;sample 20;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Spiophanes bombyx;Spiophanes|Spionidae|Spionida|Polychaeta|Annelida|Animalia|;Ondiep zand;;;;;BOXCRR;sample 20;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Spisula subtruncata;Spisula|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;Ondiep zand;;;;;BODSF;sample 20;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;
+Urothoe poseidonis;Urothoe|Gammaridae|Gammaridea|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Ondiep zand;;;;;BOXCRR;sample 20;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Abra alba;Abra|Semelidae|Veneroida|Bivalvia|Mollusca|Animalia|;Ondiep slibrijk;;;;;BODSF;sample 21;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;
+Donax vittatus;Donax|Donacidae|Veneroida|Bivalvia|Mollusca|Animalia|;Ondiep slibrijk;;;;;BODSF;sample 21;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;
+Fabulina fabula;Fabulina|Tellinidae|Veneroida|Bivalvia|Mollusca|Animalia|;Ondiep slibrijk;;;;;BODSF;sample 21;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;
+Lanice conchilega;Lanice|Terebellidae|Terebellida|Polychaeta|Annelida|Animalia|;Ondiep slibrijk;;;;;BOXCRR;sample 21;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Macoma balthica;Macoma|Tellinidae|Veneroida|Bivalvia|Mollusca|Animalia|;Ondiep slibrijk;;;;;BODSF;sample 21;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;
+Liocarcinus holsatus;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Ondiep slibrijk;;;;;BODSF;sample 21;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;
+Magelona filiformis;Magelona|Magelonidae|Spionida|Polychaeta|Annelida|Animalia|;Ondiep slibrijk;;;;;BOXCRR;sample 21;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Magelona johnstoni;Magelona|Magelonidae|Spionida|Polychaeta|Annelida|Animalia|;Ondiep slibrijk;;;;;BOXCRR;sample 21;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Nephtys hombergii;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;Ondiep slibrijk;;;;;BOXCRR;sample 21;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Ophiura ophiura;Ophiura|Ophiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;Ondiep slibrijk;;;;;BODSF;sample 21;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;
+Owenia fusiformis;Owenia|Oweniidae|Sabellida|Polychaeta|Annelida|Animalia|;Ondiep slibrijk;;;;;BOXCRR;sample 21;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Spiophanes bombyx;Spiophanes|Spionidae|Spionida|Polychaeta|Annelida|Animalia|;Ondiep slibrijk;;;;;BOXCRR;sample 21;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Spisula subtruncata;Spisula|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;Ondiep slibrijk;;;;;BODSF;sample 21;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;
+Abra alba;Abra|Semelidae|Veneroida|Bivalvia|Mollusca|Animalia|;Ondiep grof sediment;;;;;BOXCRR;sample 22;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Alcyonium digitatum;Alcyonium|Alcyoniidae|Alcyonacea|Anthozoa|Cnidaria|Animalia|;Ondiep grof sediment;;;;;BODSF;sample 22;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;
+Bathyporeia guilliamsoniana;Bathyporeia|Bathyporeiidae|Senticaudata|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Ondiep grof sediment;;;;;BOXCRR;sample 22;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Chamelea striatula;Chamelea|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;Ondiep grof sediment;;;;;BODSF;sample 22;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;
+Corystes cassivelaunus;Corystes|Corystidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Ondiep grof sediment;;;;;BODSF;sample 22;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;
+Echinocardium cordatum;Echinocardium|Loveniidae|Spatangoida|Echinoidea|Echinodermata|Animalia|;Ondiep grof sediment;;;;;BOXCRR;sample 22;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Echinocyamus pusillus;Echinocyamus|Fibulariidae|Clypeasteroida|Echinoidea|Echinodermata|Animalia|;Ondiep grof sediment;;;;;BOXCRR;sample 22;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Euspira nitida;Euspira|Naticidae|Neotaenioglossa|Gastropoda|Mollusca|Animalia|;Ondiep grof sediment;;;;;BOXCRR;sample 22;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Fabulina fabula;Fabulina|Tellinidae|Veneroida|Bivalvia|Mollusca|Animalia|;Ondiep grof sediment;;;;;BOXCRR;sample 22;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Liocarcinus holsatus;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Ondiep grof sediment;;;;;BODSF;sample 22;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;
+Lutraria lutraria;Lutraria|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;Ondiep grof sediment;;;;;BODSF;sample 22;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;
+Ophiura ophiura;Ophiura|Ophiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;Ondiep grof sediment;;;;;BODSF;sample 22;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;
+Paguridae;Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Ondiep grof sediment;;;;;BODSF;sample 22;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;6 taxa
+Pagurus;Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Ondiep grof sediment;;;;;BODSF;sample 22;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;6 taxa
+Pagurus bernhardus;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Ondiep grof sediment;;;;;BODSF;sample 22;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;6 taxa
+Pagurus cuanensis;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Ondiep grof sediment;;;;;BODSF;sample 22;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;6 taxa
+Pagurus prideaux;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Ondiep grof sediment;;;;;BODSF;sample 22;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;6 taxa
+Pagurus pubescens;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Ondiep grof sediment;;;;;BODSF;sample 22;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15-20 m2);;6 taxa
+Thia scutellata;Thia|Thiidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;Ondiep grof sediment;;;;;BOXCRR;sample 22;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Abra alba;Abra|Semelidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;H1110b;;;BODSF;sample 23;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Bathyporeia elegans;Bathyporeia|Bathyporeiidae|Senticaudata|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;H1110b;;;BOXCRR;sample 23;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Buccinum undatum;Buccinum|Buccinidae|Neogastropoda|Gastropoda|Mollusca|Animalia|;;;H1110b;;;BODSF;sample 23;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Donax vittatus;Donax|Donacidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;H1110b;;;BODSF;sample 23;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Echinocardium cordatum;Echinocardium|Loveniidae|Spatangoida|Echinoidea|Echinodermata|Animalia|;;;H1110b;;;BOXCRR;sample 23;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Euspira nitida;Euspira|Naticidae|Neotaenioglossa|Gastropoda|Mollusca|Animalia|;;;H1110b;;;BOXCRR;sample 23;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Fabulina fabula;Fabulina|Tellinidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;H1110b;;;BOXCRR;sample 23;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Lanice conchilega;Lanice|Terebellidae|Terebellida|Polychaeta|Annelida|Animalia|;;;H1110b;;;BOXCRR;sample 23;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Macoma balthica;Macoma|Tellinidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;H1110b;;;BODSF;sample 23;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Liocarcinus holsatus;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;H1110b;;;BODSF;sample 23;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Lutraria lutraria;Lutraria|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;H1110b;;;BODSF;sample 23;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Mactra stultorum;Mactra|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;H1110b;;;BODSF;sample 23;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Magelona filiformis;Magelona|Magelonidae|Spionida|Polychaeta|Annelida|Animalia|;;;H1110b;;;BOXCRR;sample 23;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Magelona johnstoni;Magelona|Magelonidae|Spionida|Polychaeta|Annelida|Animalia|;;;H1110b;;;BOXCRR;sample 23;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Nephtys cirrosa;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;H1110b;;;BOXCRR;sample 23;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Nephtys hombergii;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;H1110b;;;BOXCRR;sample 23;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Ophiura ophiura;Ophiura|Ophiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;H1110b;;;BODSF;sample 23;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Owenia fusiformis;Owenia|Oweniidae|Sabellida|Polychaeta|Annelida|Animalia|;;;H1110b;;;BOXCRR;sample 23;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Paguridae;Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;H1110b;;;BODSF;sample 23;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus;Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;H1110b;;;BODSF;sample 23;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus bernhardus;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;H1110b;;;BODSF;sample 23;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus cuanensis;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;H1110b;;;BODSF;sample 23;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus prideaux;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;H1110b;;;BODSF;sample 23;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus pubescens;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;H1110b;;;BODSF;sample 23;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pontocrates altamarinus;Pontocrates|Oedicerotidae|Gammaridea|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;H1110b;;;BOXCRR;sample 23;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Spiophanes bombyx;Spiophanes|Spionidae|Spionida|Polychaeta|Annelida|Animalia|;;;H1110b;;;BOXCRR;sample 23;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Spisula subtruncata;Spisula|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;H1110b;;;BODSF;sample 23;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Urothoe poseidonis;Urothoe|Gammaridae|Gammaridea|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;H1110b;;;BOXCRR;sample 23;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Acrocnida brachiata;Acrocnida|Amphiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;H1110c;;;BOXCRR;sample 24;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Alcyonium digitatum;Alcyonium|Alcyoniidae|Alcyonacea|Anthozoa|Cnidaria|Animalia|;;;H1110c;;;BODSF;sample 24;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20 m2);;
+Aphrodita aculeata;Aphrodita|Aphroditidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;H1110c;;;BODSF;sample 24;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20 m2);;
+Arctica islandica;Arctica|Arcticidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;H1110c;;;BODSF;sample 24;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20 m2);;
+Astropecten irregularis;Astropecten|Astropectinidae|Paxillosida|Asteroidea|Echinodermata|Animalia|;;;H1110c;;;BODSF;sample 24;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20 m2);;
+Bathyporeia elegans;Bathyporeia|Bathyporeiidae|Senticaudata|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;H1110c;;;BOXCRR;sample 24;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Bathyporeia guilliamsoniana;Bathyporeia|Bathyporeiidae|Senticaudata|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;H1110c;;;BOXCRR;sample 24;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Buccinum undatum;Buccinum|Buccinidae|Neogastropoda|Gastropoda|Mollusca|Animalia|;;;H1110c;;;BODSF;sample 24;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20 m2);;
+Corystes cassivelaunus;Corystes|Corystidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;H1110c;;;BODSF;sample 24;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20 m2);;
+Echinocyamus pusillus;Echinocyamus|Fibulariidae|Clypeasteroida|Echinoidea|Echinodermata|Animalia|;;;H1110c;;;BOXCRR;sample 24;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Ensis ensis;Ensis|Pharidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;H1110c;;;BODSF;sample 24;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20 m2);;
+Ensis siliqua;Ensis|Pharidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;H1110c;;;BODSF;sample 24;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20 m2);;
+Euspira nitida;Euspira|Naticidae|Neotaenioglossa|Gastropoda|Mollusca|Animalia|;;;H1110c;;;BOXCRR;sample 24;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Fabulina fabula;Fabulina|Tellinidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;H1110c;;;BOXCRR;sample 24;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Gari fervensis;Gari|Psammobiidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;H1110c;;;BODSF;sample 24;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20 m2);;
+Goniada maculata;Goniada|Goniadidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;H1110c;;;BOXCRR;sample 24;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Iphinoe trispinosa;Iphinoe|Bodotriidae|Cumacea|Malacostraca|Crustacea|Arthropoda|Animalia|;;;H1110c;;;BOXCRR;sample 24;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Kurtiella bidentata;Kurtiella|Lasaeidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;H1110c;;;BOXCRR;sample 24;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Lanice conchilega;Lanice|Terebellidae|Terebellida|Polychaeta|Annelida|Animalia|;;;H1110c;;;BOXCRR;sample 24;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Liocarcinus holsatus;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;H1110c;;;BODSF;sample 24;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20 m2);;
+Luidia sarsii;Luidia|Luidiidae|Paxillosida|Asteroidea|Echinodermata|Animalia|;;;H1110c;;;BODSF;sample 24;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20 m2);;
+Magelona filiformis;Magelona|Magelonidae|Spionida|Polychaeta|Annelida|Animalia|;;;H1110c;;;BOXCRR;sample 24;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Magelona johnstoni;Magelona|Magelonidae|Spionida|Polychaeta|Annelida|Animalia|;;;H1110c;;;BOXCRR;sample 24;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Nephtys assimilis;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;H1110c;;;BOXCRR;sample 24;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Nephtys cirrosa;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;H1110c;;;BOXCRR;sample 24;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Nephtys hombergii;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;H1110c;;;BOXCRR;sample 24;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Neptunea antiqua;Neptunea|Buccinidae|Neogastropoda|Gastropoda|Mollusca|Animalia|;;;H1110c;;;BODSF;sample 24;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20 m2);;
+Ophiothrix fragilis;Ophiothrix|Ophiothricidae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;H1110c;;;BODSF;sample 24;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20 m2);;
+Ophiura ophiura;Ophiura|Ophiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;H1110c;;;BODSF;sample 24;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20 m2);;
+Owenia fusiformis;Owenia|Oweniidae|Sabellida|Polychaeta|Annelida|Animalia|;;;H1110c;;;BOXCRR;sample 24;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Paguridae;Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;H1110c;;;BODSF;sample 24;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20 m2);;6 taxa
+Pagurus;Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;H1110c;;;BODSF;sample 24;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20 m2);;6 taxa
+Pagurus bernhardus;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;H1110c;;;BODSF;sample 24;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20 m2);;6 taxa
+Pagurus cuanensis;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;H1110c;;;BODSF;sample 24;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20 m2);;6 taxa
+Pagurus prideaux;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;H1110c;;;BODSF;sample 24;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20 m2);;6 taxa
+Pagurus pubescens;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;H1110c;;;BODSF;sample 24;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20 m2);;6 taxa
+Psammechinus miliaris;Psammechinus|Parechinidae|Camarodonta|Echinoidea|Echinodermata|Animalia|;;;H1110c;;;BODSF;sample 24;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20 m2);;
+Sigalion mathildae;Sigalion|Sigalionidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;H1110c;;;BOXCRR;sample 24;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Spiophanes bombyx;Spiophanes|Spionidae|Spionida|Polychaeta|Annelida|Animalia|;;;H1110c;;;BOXCRR;sample 24;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Urothoe poseidonis;Urothoe|Gammaridae|Gammaridea|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;H1110c;;;BOXCRR;sample 24;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Amphiura filiformis;Amphiura|Amphiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;;;Friese Front HR;BOXCRR;sample 3;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Atherospio guillei;Atherospio|Spionidae|Spionida|Polychaeta|Annelida|Animalia|;;;;;Friese Front HR;BOXCRR;sample 3;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Callianassa subterranea;Callianassa|Callianassidae|Thalassinidea|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Friese Front HR;BOXCRR;sample 3;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Corystes cassivelaunus;Corystes|Corystidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Friese Front HR;BODSF;sample 3;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Dosinia lupinus;Dosinia|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Friese Front HR;BODSF;sample 3;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Echinocardium cordatum;Echinocardium|Loveniidae|Spatangoida|Echinoidea|Echinodermata|Animalia|;;;;;Friese Front HR;BODSF;sample 3;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Euspira nitida;Euspira|Naticidae|Neotaenioglossa|Gastropoda|Mollusca|Animalia|;;;;;Friese Front HR;BOXCRR;sample 3;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Goneplax rhomboides;Goneplax|Goneplacidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Friese Front HR;BODSF;sample 3;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Leptosynapta inhaerens;Leptosynapta|Synaptidae|Apodida|Holothuroidea|Echinodermata|Animalia|;;;;;Friese Front HR;BOXCRR;sample 3;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Nephtys incisa;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;;Friese Front HR;BOXCRR;sample 3;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Ophiura albida;Ophiura|Ophiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;;;Friese Front HR;BODSF;sample 3;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Oxydromus flexuosus;Oxydromus|Hesionidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;;Friese Front HR;BOXCRR;sample 3;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Podarkeopsis capensis;Podarkeopsis|Hesionidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;;Friese Front HR;BOXCRR;sample 3;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Podarkeopsis helgolandicus;Podarkeopsis|Hesionidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;;Friese Front HR;BOXCRR;sample 3;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Thracia convexa;Thracia|Thraciidae|Pholadomyoida|Bivalvia|Mollusca|Animalia|;;;;;Friese Front HR;BODSF;sample 3;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Upogebia deltaura*;Upogebia|Upogebiidae|Thalassinidea|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Friese Front HR;BODSF;sample 3;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Upogebia stellata**;Upogebia|Upogebiidae|Thalassinidea|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Friese Front HR;BODSF;sample 3;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Amphiura filiformis;Amphiura|Amphiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;;Friese Front open FF600;;BOXCRR;sample 4;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Atherospio guillei;Atherospio|Spionidae|Spionida|Polychaeta|Annelida|Animalia|;;;;Friese Front open FF600;;BOXCRR;sample 4;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Callianassa subterranea;Callianassa|Callianassidae|Thalassinidea|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Friese Front open FF600;;BOXCRR;sample 4;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Corystes cassivelaunus;Corystes|Corystidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Friese Front open FF600;;BODSF;sample 4;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Dosinia lupinus;Dosinia|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Friese Front open FF600;;BODSF;sample 4;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Echinocardium cordatum;Echinocardium|Loveniidae|Spatangoida|Echinoidea|Echinodermata|Animalia|;;;;Friese Front open FF600;;BODSF;sample 4;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Euspira nitida;Euspira|Naticidae|Neotaenioglossa|Gastropoda|Mollusca|Animalia|;;;;Friese Front open FF600;;BOXCRR;sample 4;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Goneplax rhomboides;Goneplax|Goneplacidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Friese Front open FF600;;BODSF;sample 4;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Leptosynapta inhaerens;Leptosynapta|Synaptidae|Apodida|Holothuroidea|Echinodermata|Animalia|;;;;Friese Front open FF600;;BOXCRR;sample 4;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Nephtys incisa;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;Friese Front open FF600;;BOXCRR;sample 4;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Ophiura albida;Ophiura|Ophiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;;Friese Front open FF600;;BODSF;sample 4;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Oxydromus flexuosus;Oxydromus|Hesionidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;Friese Front open FF600;;BOXCRR;sample 4;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Podarkeopsis capensis;Podarkeopsis|Hesionidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;Friese Front open FF600;;BOXCRR;sample 4;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Podarkeopsis helgolandicus;Podarkeopsis|Hesionidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;Friese Front open FF600;;BOXCRR;sample 4;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Thracia convexa;Thracia|Thraciidae|Pholadomyoida|Bivalvia|Mollusca|Animalia|;;;;Friese Front open FF600;;BODSF;sample 4;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Upogebia deltaura;Upogebia|Upogebiidae|Thalassinidea|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Friese Front open FF600;;BODSF;sample 4;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Upogebia stellata;Upogebia|Upogebiidae|Thalassinidea|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Friese Front open FF600;;BODSF;sample 4;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Abra alba;Abra|Semelidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Friese Front open FF400;;BODSF;sample 5;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Fabulina fabula;Fabulina|Tellinidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Friese Front open FF400;;BOXCRR;sample 5;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Arctica islandica;Arctica|Arcticidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Friese Front open FF400;;BODSF;sample 5;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Bathyporeia elegans;Bathyporeia|Bathyporeiidae|Senticaudata|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Friese Front open FF400;;BOXCRR;sample 5;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Bathyporeia guilliamsoniana;Bathyporeia|Bathyporeiidae|Senticaudata|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Friese Front open FF400;;BOXCRR;sample 5;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Buccinum undatum;Buccinum|Buccinidae|Neogastropoda|Gastropoda|Mollusca|Animalia|;;;;Friese Front open FF400;;BODSF;sample 5;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Callianassa subterranea;Callianassa|Callianassidae|Thalassinidea|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Friese Front open FF400;;BOXCRR;sample 5;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Chamelea striatula;Chamelea|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Friese Front open FF400;;BODSF;sample 5;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Corbula gibba;Corbula|Corbulidae|Myoida|Bivalvia|Mollusca|Animalia|;;;;Friese Front open FF400;;BOXCRR;sample 5;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Corystes cassivelaunus;Corystes|Corystidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Friese Front open FF400;;BODSF;sample 5;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Donax vittatus;Donax|Donacidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Friese Front open FF400;;BODSF;sample 5;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Dosinia lupinus;Dosinia|Veneridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Friese Front open FF400;;BOXCRR;sample 5;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Echinocardium cordatum;Echinocardium|Loveniidae|Spatangoida|Echinoidea|Echinodermata|Animalia|;;;;Friese Front open FF400;;BOXCRR;sample 5;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Echinocyamus pusillus;Echinocyamus|Fibulariidae|Clypeasteroida|Echinoidea|Echinodermata|Animalia|;;;;Friese Front open FF400;;BOXCRR;sample 5;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Euspira nitida;Euspira|Naticidae|Neotaenioglossa|Gastropoda|Mollusca|Animalia|;;;;Friese Front open FF400;;BOXCRR;sample 5;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Lanice conchilega;Lanice|Terebellidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;Friese Front open FF400;;BOXCRR;sample 5;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Liocarcinus holsatus;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Friese Front open FF400;;BODSF;sample 5;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Lutraria lutraria;Lutraria|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Friese Front open FF400;;BODSF;sample 5;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Mactra stultorum;Mactra|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Friese Front open FF400;;BODSF;sample 5;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Magelona filiformis;Magelona|Magelonidae|Spionida|Polychaeta|Annelida|Animalia|;;;;Friese Front open FF400;;BOXCRR;sample 5;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Magelona johnstoni;Magelona|Magelonidae|Spionida|Polychaeta|Annelida|Animalia|;;;;Friese Front open FF400;;BOXCRR;sample 5;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Mytilus edulis;Mytilus|Mytilidae|Mytiloida|Bivalvia|Mollusca|Animalia|;;;;Friese Front open FF400;;BODSF;sample 5;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Nephtys cirrosa;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;Friese Front open FF400;;BOXCRR;sample 5;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Ophiura albida;Ophiura|Ophiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;;Friese Front open FF400;;BODSF;sample 5;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Ophiura ophiura;Ophiura|Ophiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;;Friese Front open FF400;;BODSF;sample 5;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Owenia fusiformis;Owenia|Oweniidae|Sabellida|Polychaeta|Annelida|Animalia|;;;;Friese Front open FF400;;BOXCRR;sample 5;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Pagurus bernhardus;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Friese Front open FF400;;BODSF;sample 5;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;6 taxa
+Pontocrates altamarinus;Pontocrates|Oedicerotidae|Gammaridea|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Friese Front open FF400;;BOXCRR;sample 5;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Sigalion mathildae;Sigalion|Sigalionidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;Friese Front open FF400;;BOXCRR;sample 5;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Spiophanes bombyx;Spiophanes|Spionidae|Spionida|Polychaeta|Annelida|Animalia|;;;;Friese Front open FF400;;BOXCRR;sample 5;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Spisula subtruncata;Spisula|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Friese Front open FF400;;BODSF;sample 5;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Terebellides;Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;Friese Front open FF400;;BOXCRR;sample 5;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;6 taxa
+Terebellides europaea;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;Friese Front open FF400;;BOXCRR;sample 5;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;6 taxa
+Terebellides gentili;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;Friese Front open FF400;;BOXCRR;sample 5;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;6 taxa
+Terebellides resomari;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;Friese Front open FF400;;BOXCRR;sample 5;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;6 taxa
+Terebellides shetlandica;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;Friese Front open FF400;;BOXCRR;sample 5;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;6 taxa
+Terebellides stroemii;Terebellides|Trichobranchidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;Friese Front open FF400;;BOXCRR;sample 5;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;6 taxa
+Thia scutellata;Thia|Thiidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Friese Front open FF400;;BODSF;sample 5;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Turritellinella tricarinata;Turritellinella|Turritellidae|Gastropoda|Mollusca|Animalia|;;;;Friese Front open FF400;;BODSF;sample 5;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Upogebia deltaura;Upogebia|Upogebiidae|Thalassinidea|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Friese Front open FF400;;BOXCRR;sample 5;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Urothoe poseidonis;Urothoe|Gammaridae|Gammaridea|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Friese Front open FF400;;BOXCRR;sample 5;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Acrocnida brachiata;Acrocnida|Amphiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;;;Doggerbank HR;BOXCRR;sample 6;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Alcyonium digitatum;Alcyonium|Alcyoniidae|Alcyonacea|Anthozoa|Cnidaria|Animalia|;;;;;Doggerbank HR;BODSF;sample 6;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Aphrodita aculeata;Aphrodita|Aphroditidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;;Doggerbank HR;BODSF;sample 6;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Arctica islandica;Arctica|Arcticidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Doggerbank HR;BODSF;sample 6;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Astropecten irregularis;Astropecten|Astropectinidae|Paxillosida|Asteroidea|Echinodermata|Animalia|;;;;;Doggerbank HR;BODSF;sample 6;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Bathyporeia elegans;Bathyporeia|Bathyporeiidae|Senticaudata|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Doggerbank HR;BOXCRR;sample 6;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Bathyporeia guilliamsoniana;Bathyporeia|Bathyporeiidae|Senticaudata|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Doggerbank HR;BOXCRR;sample 6;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Buccinum undatum;Buccinum|Buccinidae|Neogastropoda|Gastropoda|Mollusca|Animalia|;;;;;Doggerbank HR;BODSF;sample 6;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Corystes cassivelaunus;Corystes|Corystidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Doggerbank HR;BODSF;sample 6;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Echinocyamus pusillus;Echinocyamus|Fibulariidae|Clypeasteroida|Echinoidea|Echinodermata|Animalia|;;;;;Doggerbank HR;BOXCRR;sample 6;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Ensis ensis;Ensis|Pharidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Doggerbank HR;BODSF;sample 6;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Ensis siliqua;Ensis|Pharidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Doggerbank HR;BODSF;sample 6;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Euspira nitida;Euspira|Naticidae|Neotaenioglossa|Gastropoda|Mollusca|Animalia|;;;;;Doggerbank HR;BOXCRR;sample 6;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Fabulina fabula;Fabulina|Tellinidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Doggerbank HR;BOXCRR;sample 6;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Gari fervensis;Gari|Psammobiidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Doggerbank HR;BODSF;sample 6;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Goniada maculata;Goniada|Goniadidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;;Doggerbank HR;BOXCRR;sample 6;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Iphinoe trispinosa;Iphinoe|Bodotriidae|Cumacea|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Doggerbank HR;BOXCRR;sample 6;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Kurtiella bidentata;Kurtiella|Lasaeidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Doggerbank HR;BOXCRR;sample 6;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Lanice conchilega;Lanice|Terebellidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;;Doggerbank HR;BOXCRR;sample 6;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Liocarcinus holsatus;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Doggerbank HR;BODSF;sample 6;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Luidia sarsii;Luidia|Luidiidae|Paxillosida|Asteroidea|Echinodermata|Animalia|;;;;;Doggerbank HR;BODSF;sample 6;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Magelona filiformis;Magelona|Magelonidae|Spionida|Polychaeta|Annelida|Animalia|;;;;;Doggerbank HR;BOXCRR;sample 6;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Magelona johnstoni;Magelona|Magelonidae|Spionida|Polychaeta|Annelida|Animalia|;;;;;Doggerbank HR;BOXCRR;sample 6;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Nephtys assimilis;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;;Doggerbank HR;BOXCRR;sample 6;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Nephtys cirrosa;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;;Doggerbank HR;BOXCRR;sample 6;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Nephtys hombergii;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;;Doggerbank HR;BOXCRR;sample 6;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Neptunea antiqua;Neptunea|Buccinidae|Neogastropoda|Gastropoda|Mollusca|Animalia|;;;;;Doggerbank HR;BODSF;sample 6;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Ophiothrix fragilis;Ophiothrix|Ophiothricidae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;;;Doggerbank HR;BODSF;sample 6;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Ophiura ophiura;Ophiura|Ophiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;;;Doggerbank HR;BODSF;sample 6;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Owenia fusiformis;Owenia|Oweniidae|Sabellida|Polychaeta|Annelida|Animalia|;;;;;Doggerbank HR;BOXCRR;sample 6;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Paguridae;Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Doggerbank HR;BODSF;sample 6;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;6 taxa
+Pagurus;Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Doggerbank HR;BODSF;sample 6;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;6 taxa
+Pagurus bernhardus;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Doggerbank HR;BODSF;sample 6;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;6 taxa
+Pagurus cuanensis;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Doggerbank HR;BODSF;sample 6;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;6 taxa
+Pagurus prideaux;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Doggerbank HR;BODSF;sample 6;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;6 taxa
+Pagurus pubescens;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Doggerbank HR;BODSF;sample 6;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;6 taxa
+Psammechinus miliaris;Psammechinus|Parechinidae|Camarodonta|Echinoidea|Echinodermata|Animalia|;;;;;Doggerbank HR;BODSF;sample 6;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Sigalion mathildae;Sigalion|Sigalionidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;;Doggerbank HR;BOXCRR;sample 6;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Spiophanes bombyx;Spiophanes|Spionidae|Spionida|Polychaeta|Annelida|Animalia|;;;;;Doggerbank HR;BOXCRR;sample 6;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Urothoe poseidonis;Urothoe|Gammaridae|Gammaridea|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Doggerbank HR;BOXCRR;sample 6;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Acrocnida brachiata;Acrocnida|Amphiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;;Doggerbank open Noord;;BOXCRR;sample 7;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Alcyonium digitatum;Alcyonium|Alcyoniidae|Alcyonacea|Anthozoa|Cnidaria|Animalia|;;;;Doggerbank open Noord;;BODSF;sample 7;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Aphrodita aculeata;Aphrodita|Aphroditidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;Doggerbank open Noord;;BODSF;sample 7;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Arctica islandica;Arctica|Arcticidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Doggerbank open Noord;;BODSF;sample 7;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Astropecten irregularis;Astropecten|Astropectinidae|Paxillosida|Asteroidea|Echinodermata|Animalia|;;;;Doggerbank open Noord;;BODSF;sample 7;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Bathyporeia elegans;Bathyporeia|Bathyporeiidae|Senticaudata|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Doggerbank open Noord;;BOXCRR;sample 7;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Bathyporeia guilliamsoniana;Bathyporeia|Bathyporeiidae|Senticaudata|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Doggerbank open Noord;;BOXCRR;sample 7;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Buccinum undatum;Buccinum|Buccinidae|Neogastropoda|Gastropoda|Mollusca|Animalia|;;;;Doggerbank open Noord;;BODSF;sample 7;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Corystes cassivelaunus;Corystes|Corystidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Doggerbank open Noord;;BODSF;sample 7;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Echinocyamus pusillus;Echinocyamus|Fibulariidae|Clypeasteroida|Echinoidea|Echinodermata|Animalia|;;;;Doggerbank open Noord;;BOXCRR;sample 7;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Ensis ensis;Ensis|Pharidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Doggerbank open Noord;;BODSF;sample 7;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Ensis siliqua;Ensis|Pharidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Doggerbank open Noord;;BODSF;sample 7;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Euspira nitida;Euspira|Naticidae|Neotaenioglossa|Gastropoda|Mollusca|Animalia|;;;;Doggerbank open Noord;;BOXCRR;sample 7;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Fabulina fabula;Fabulina|Tellinidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Doggerbank open Noord;;BOXCRR;sample 7;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Gari fervensis;Gari|Psammobiidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Doggerbank open Noord;;BODSF;sample 7;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Goniada maculata;Goniada|Goniadidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;Doggerbank open Noord;;BOXCRR;sample 7;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Iphinoe trispinosa;Iphinoe|Bodotriidae|Cumacea|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Doggerbank open Noord;;BOXCRR;sample 7;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Kurtiella bidentata;Kurtiella|Lasaeidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Doggerbank open Noord;;BOXCRR;sample 7;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Lanice conchilega;Lanice|Terebellidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;Doggerbank open Noord;;BOXCRR;sample 7;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Liocarcinus holsatus;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Doggerbank open Noord;;BODSF;sample 7;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Luidia sarsii;Luidia|Luidiidae|Paxillosida|Asteroidea|Echinodermata|Animalia|;;;;Doggerbank open Noord;;BODSF;sample 7;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Magelona filiformis;Magelona|Magelonidae|Spionida|Polychaeta|Annelida|Animalia|;;;;Doggerbank open Noord;;BOXCRR;sample 7;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Magelona johnstoni;Magelona|Magelonidae|Spionida|Polychaeta|Annelida|Animalia|;;;;Doggerbank open Noord;;BOXCRR;sample 7;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Nephtys assimilis;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;Doggerbank open Noord;;BOXCRR;sample 7;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Nephtys cirrosa;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;Doggerbank open Noord;;BOXCRR;sample 7;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Nephtys hombergii;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;Doggerbank open Noord;;BOXCRR;sample 7;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Neptunea antiqua;Neptunea|Buccinidae|Neogastropoda|Gastropoda|Mollusca|Animalia|;;;;Doggerbank open Noord;;BODSF;sample 7;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Ophiothrix fragilis;Ophiothrix|Ophiothricidae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;;Doggerbank open Noord;;BODSF;sample 7;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Ophiura ophiura;Ophiura|Ophiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;;Doggerbank open Noord;;BODSF;sample 7;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Owenia fusiformis;Owenia|Oweniidae|Sabellida|Polychaeta|Annelida|Animalia|;;;;Doggerbank open Noord;;BOXCRR;sample 7;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Paguridae;Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Doggerbank open Noord;;BODSF;sample 7;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;6 taxa
+Pagurus;Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Doggerbank open Noord;;BODSF;sample 7;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;6 taxa
+Pagurus bernhardus;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Doggerbank open Noord;;BODSF;sample 7;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;6 taxa
+Pagurus cuanensis;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Doggerbank open Noord;;BODSF;sample 7;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;6 taxa
+Pagurus prideaux;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Doggerbank open Noord;;BODSF;sample 7;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;6 taxa
+Pagurus pubescens;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Doggerbank open Noord;;BODSF;sample 7;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;6 taxa
+Psammechinus miliaris;Psammechinus|Parechinidae|Camarodonta|Echinoidea|Echinodermata|Animalia|;;;;Doggerbank open Noord;;BODSF;sample 7;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Sigalion mathildae;Sigalion|Sigalionidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;Doggerbank open Noord;;BOXCRR;sample 7;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Spiophanes bombyx;Spiophanes|Spionidae|Spionida|Polychaeta|Annelida|Animalia|;;;;Doggerbank open Noord;;BOXCRR;sample 7;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Urothoe poseidonis;Urothoe|Gammaridae|Gammaridea|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Doggerbank open Noord;;BOXCRR;sample 7;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Acrocnida brachiata;Acrocnida|Amphiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;;Doggerbank open Zuid;;BOXCRR;sample 8;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Alcyonium digitatum;Alcyonium|Alcyoniidae|Alcyonacea|Anthozoa|Cnidaria|Animalia|;;;;Doggerbank open Zuid;;BODSF;sample 8;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Aphrodita aculeata;Aphrodita|Aphroditidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;Doggerbank open Zuid;;BODSF;sample 8;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Arctica islandica;Arctica|Arcticidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Doggerbank open Zuid;;BODSF;sample 8;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Astropecten irregularis;Astropecten|Astropectinidae|Paxillosida|Asteroidea|Echinodermata|Animalia|;;;;Doggerbank open Zuid;;BODSF;sample 8;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Bathyporeia elegans;Bathyporeia|Bathyporeiidae|Senticaudata|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Doggerbank open Zuid;;BOXCRR;sample 8;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Bathyporeia guilliamsoniana;Bathyporeia|Bathyporeiidae|Senticaudata|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Doggerbank open Zuid;;BOXCRR;sample 8;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Buccinum undatum;Buccinum|Buccinidae|Neogastropoda|Gastropoda|Mollusca|Animalia|;;;;Doggerbank open Zuid;;BODSF;sample 8;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Corystes cassivelaunus;Corystes|Corystidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Doggerbank open Zuid;;BODSF;sample 8;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Echinocyamus pusillus;Echinocyamus|Fibulariidae|Clypeasteroida|Echinoidea|Echinodermata|Animalia|;;;;Doggerbank open Zuid;;BOXCRR;sample 8;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Ensis ensis;Ensis|Pharidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Doggerbank open Zuid;;BODSF;sample 8;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Ensis siliqua;Ensis|Pharidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Doggerbank open Zuid;;BODSF;sample 8;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Euspira nitida;Euspira|Naticidae|Neotaenioglossa|Gastropoda|Mollusca|Animalia|;;;;Doggerbank open Zuid;;BOXCRR;sample 8;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Fabulina fabula;Fabulina|Tellinidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Doggerbank open Zuid;;BOXCRR;sample 8;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Gari fervensis;Gari|Psammobiidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Doggerbank open Zuid;;BODSF;sample 8;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Goniada maculata;Goniada|Goniadidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;Doggerbank open Zuid;;BOXCRR;sample 8;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Iphinoe trispinosa;Iphinoe|Bodotriidae|Cumacea|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Doggerbank open Zuid;;BOXCRR;sample 8;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Kurtiella bidentata;Kurtiella|Lasaeidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;Doggerbank open Zuid;;BOXCRR;sample 8;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Lanice conchilega;Lanice|Terebellidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;Doggerbank open Zuid;;BOXCRR;sample 8;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Liocarcinus holsatus;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Doggerbank open Zuid;;BODSF;sample 8;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Luidia sarsii;Luidia|Luidiidae|Paxillosida|Asteroidea|Echinodermata|Animalia|;;;;Doggerbank open Zuid;;BODSF;sample 8;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Magelona filiformis;Magelona|Magelonidae|Spionida|Polychaeta|Annelida|Animalia|;;;;Doggerbank open Zuid;;BOXCRR;sample 8;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Magelona johnstoni;Magelona|Magelonidae|Spionida|Polychaeta|Annelida|Animalia|;;;;Doggerbank open Zuid;;BOXCRR;sample 8;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Nephtys assimilis;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;Doggerbank open Zuid;;BOXCRR;sample 8;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Nephtys cirrosa;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;Doggerbank open Zuid;;BOXCRR;sample 8;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Nephtys hombergii;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;Doggerbank open Zuid;;BOXCRR;sample 8;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Neptunea antiqua;Neptunea|Buccinidae|Neogastropoda|Gastropoda|Mollusca|Animalia|;;;;Doggerbank open Zuid;;BODSF;sample 8;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Ophiothrix fragilis;Ophiothrix|Ophiothricidae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;;Doggerbank open Zuid;;BODSF;sample 8;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Ophiura ophiura;Ophiura|Ophiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;;Doggerbank open Zuid;;BODSF;sample 8;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Owenia fusiformis;Owenia|Oweniidae|Sabellida|Polychaeta|Annelida|Animalia|;;;;Doggerbank open Zuid;;BOXCRR;sample 8;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Paguridae;Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Doggerbank open Zuid;;BODSF;sample 8;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;6 taxa
+Pagurus;Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Doggerbank open Zuid;;BODSF;sample 8;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;6 taxa
+Pagurus bernhardus;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Doggerbank open Zuid;;BODSF;sample 8;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;6 taxa
+Pagurus cuanensis;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Doggerbank open Zuid;;BODSF;sample 8;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;6 taxa
+Pagurus prideaux;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Doggerbank open Zuid;;BODSF;sample 8;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;6 taxa
+Pagurus pubescens;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Doggerbank open Zuid;;BODSF;sample 8;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;6 taxa
+Psammechinus miliaris;Psammechinus|Parechinidae|Camarodonta|Echinoidea|Echinodermata|Animalia|;;;;Doggerbank open Zuid;;BODSF;sample 8;NRDZE_0313;2022;20;m2;Noordzee;1;Dredge (20m2);;
+Sigalion mathildae;Sigalion|Sigalionidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;Doggerbank open Zuid;;BOXCRR;sample 8;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Spiophanes bombyx;Spiophanes|Spionidae|Spionida|Polychaeta|Annelida|Animalia|;;;;Doggerbank open Zuid;;BOXCRR;sample 8;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Urothoe poseidonis;Urothoe|Gammaridae|Gammaridea|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;Doggerbank open Zuid;;BOXCRR;sample 8;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Abra alba;Abra|Semelidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Voordelta HR;BODSF;sample 9;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Bathyporeia elegans;Bathyporeia|Bathyporeiidae|Senticaudata|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Voordelta HR;BOXCRR;sample 9;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Buccinum undatum;Buccinum|Buccinidae|Neogastropoda|Gastropoda|Mollusca|Animalia|;;;;;Voordelta HR;BODSF;sample 9;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Donax vittatus;Donax|Donacidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Voordelta HR;BODSF;sample 9;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Echinocardium cordatum;Echinocardium|Loveniidae|Spatangoida|Echinoidea|Echinodermata|Animalia|;;;;;Voordelta HR;BOXCRR;sample 9;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Euspira nitida;Euspira|Naticidae|Neotaenioglossa|Gastropoda|Mollusca|Animalia|;;;;;Voordelta HR;BOXCRR;sample 9;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Fabulina fabula;Fabulina|Tellinidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Voordelta HR;BOXCRR;sample 9;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Lanice conchilega;Lanice|Terebellidae|Terebellida|Polychaeta|Annelida|Animalia|;;;;;Voordelta HR;BOXCRR;sample 9;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Macoma balthica;Macoma|Tellinidae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Voordelta HR;BODSF;sample 9;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Liocarcinus holsatus;Liocarcinus|Portunidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Voordelta HR;BODSF;sample 9;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Lutraria lutraria;Lutraria|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Voordelta HR;BODSF;sample 9;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Mactra stultorum;Mactra|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Voordelta HR;BODSF;sample 9;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Magelona filiformis;Magelona|Magelonidae|Spionida|Polychaeta|Annelida|Animalia|;;;;;Voordelta HR;BOXCRR;sample 9;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Magelona johnstoni;Magelona|Magelonidae|Spionida|Polychaeta|Annelida|Animalia|;;;;;Voordelta HR;BOXCRR;sample 9;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;combined taxa
+Nephtys cirrosa;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;;Voordelta HR;BOXCRR;sample 9;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Nephtys hombergii;Nephtys|Nephtyidae|Phyllodocida|Polychaeta|Annelida|Animalia|;;;;;Voordelta HR;BOXCRR;sample 9;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Ophiura ophiura;Ophiura|Ophiuridae|Ophiurida|Ophiuroidea|Echinodermata|Animalia|;;;;;Voordelta HR;BODSF;sample 9;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Owenia fusiformis;Owenia|Oweniidae|Sabellida|Polychaeta|Annelida|Animalia|;;;;;Voordelta HR;BOXCRR;sample 9;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Paguridae;Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Voordelta HR;BODSF;sample 9;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus;Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Voordelta HR;BODSF;sample 9;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus bernhardus;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Voordelta HR;BODSF;sample 9;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus cuanensis;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Voordelta HR;BODSF;sample 9;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus prideaux;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Voordelta HR;BODSF;sample 9;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pagurus pubescens;Pagurus|Paguridae|Anomura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Voordelta HR;BODSF;sample 9;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;6 taxa
+Pontocrates altamarinus;Pontocrates|Oedicerotidae|Gammaridea|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Voordelta HR;BOXCRR;sample 9;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Spiophanes bombyx;Spiophanes|Spionidae|Spionida|Polychaeta|Annelida|Animalia|;;;;;Voordelta HR;BOXCRR;sample 9;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;
+Spisula subtruncata;Spisula|Mactridae|Veneroida|Bivalvia|Mollusca|Animalia|;;;;;Voordelta HR;BODSF;sample 9;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Thia scutellata;Thia|Thiidae|Brachyura|Decapoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Voordelta HR;BODSF;sample 9;NRDZE_0313;2022;15;m2;Noordzee;1;Dredge (15 m2);;
+Urothoe poseidonis;Urothoe|Gammaridae|Gammaridea|Amphipoda|Malacostraca|Crustacea|Arthropoda|Animalia|;;;;;Voordelta HR;BOXCRR;sample 9;NRDZE_0313;2022;0.078;m2;Noordzee;1;Boxcore (0,078 m2);;

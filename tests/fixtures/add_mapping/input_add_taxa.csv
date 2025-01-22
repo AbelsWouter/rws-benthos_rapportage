@@ -1,0 +1,41 @@
+Parameter_Specificatie;Determinatie_protocol;Biomassa_protocol;Trendgroep;Synonymname;Zoetoverrule_taxonname;Zoutoverrule_taxonname;Zoetprotocol_presentie;Zoutprotocol_presentie;Zoutprotocol_biomassa;Analyse_taxonnaam;IsPresentie_Protocol;IsBiomassa_Protocol
+Abietinaria;zoet;;zoet;Abietinaria;Cnidaria;Hydrozoa;True;True;False;Cnidaria;True;False
+Abietinaria abietina;zoet;;zoet;Abietinaria abietina;Cnidaria;Hydrozoa;True;True;False;Cnidaria;True;False
+Ablabesmyia;zoet;;zoet;Ablabesmyia;;;False;False;True;Ablabesmyia;False;False
+Ablabesmyia longistyla;zoet;;zoet;Ablabesmyia longistyla;;;False;False;True;Ablabesmyia longistyla;False;False
+Ablabesmyia monilis;zoet;;zoet;Ablabesmyia monilis;;;False;False;True;Ablabesmyia monilis;False;False
+Ablabesmyia monilis monilis;zoet;;zoet;Ablabesmyia monilis monilis;;;False;False;True;Ablabesmyia monilis monilis;False;False
+Ablabesmyia monilis/longistyla;zoet;;zoet;Ablabesmyia monilis/longistyla;;;False;False;True;Ablabesmyia monilis/longistyla;False;False
+Ablabesmyia monilis/phatta;zoet;;zoet;Ablabesmyia monilis/phatta;;;False;False;True;Ablabesmyia monilis/phatta;False;False
+Ablabesmyia phatta;zoet;;zoet;Ablabesmyia phatta;;;False;False;True;Ablabesmyia phatta;False;False
+Animalia;zoet;;zoet;Animalia;;;False;False;True;Animalia;False;False
+Arthropoda;zoet;;zoet;Arthropoda;;;False;False;True;Arthropoda;False;False
+Chironomidae;zoet;;zoet;Chironomidae;;;False;False;True;Chironomidae;False;False
+Cnidaria;zoet;;zoet;Cnidaria;Cnidaria;;False;False;True;Cnidaria;False;False
+Diptera;zoet;;zoet;Diptera;;;False;False;True;Diptera;False;False
+Hydrozoa;zoet;;zoet;Hydrozoa;Cnidaria;Hydrozoa;True;True;False;Cnidaria;True;False
+Hydrozoa;zout;zout;overgang;Hydrozoa;Cnidaria;Hydrozoa;True;True;False;Hydrozoa;True;False
+Insecta;zoet;;zoet;Insecta;;;False;False;True;Insecta;False;False
+Sertulariidae;zoet;;zoet;Sertulariidae;Cnidaria;Hydrozoa;True;True;False;Cnidaria;True;False
+Tanypodinae;zoet;;zoet;Tanypodinae;;;False;False;True;Tanypodinae;False;False
+Acentria nivea;zoet;;zoet;Acentria ephemerella;;;False;False;True;Acentria ephemerella;False;False
+Acentropus niveus;zoet;;zoet;Acentria ephemerella;;;False;False;True;Acentria ephemerella;False;False
+Acentria ephemerella;zoet;;zoet;Acentria ephemerella;;;False;False;True;Acentria ephemerella;False;False
+Acentria;zoet;;zoet;Acentria;;;False;False;True;Acentria;False;False
+Crambidae;zoet;;zoet;Crambidae;;;False;False;True;Crambidae;False;False
+Lepidoptera;zoet;;zoet;Lepidoptera;;;False;False;True;Lepidoptera;False;False
+Einfeldia/Fleuria;zout;zout;overgang;Einfeldia/Fleuria;;;False;False;True;Einfeldia/Fleuria;False;True
+Chironomini;zout;zout;overgang;Chironomini;;;False;False;True;Chironomini;False;True
+Einfeldia;zout;zout;overgang;Einfeldia;;;False;False;True;Einfeldia;False;True
+Einfeldia carbonaria;zout;zout;overgang;Benthalia carbonaria;;;False;False;True;Benthalia carbonaria;False;True
+Einfeldia dissidens;zout;zout;overgang;Benthalia dissidens;;;False;False;True;Benthalia dissidens;False;True
+Einfeldia dissidens agg.;zout;zout;overgang;Benthalia dissidens;;;False;False;True;Benthalia dissidens;False;True
+Einfeldia pagana;zout;zout;overgang;Einfeldia pagana;;;False;False;True;Einfeldia pagana;False;True
+Einfeldia pagana gr.;zout;zout;marien;Einfeldia pagana;;;False;False;True;Einfeldia pagana;False;True
+Benthalia;zout;zout;marien;Benthalia;;;False;False;True;Benthalia;False;True
+Benthalia carbonaria;zout;zout;marien;Benthalia carbonaria;;;False;False;True;Benthalia carbonaria;False;True
+Benthalia dissidens;zout;zout;marien;Benthalia dissidens;;;False;False;True;Benthalia dissidens;False;True
+Fleuria;zout;zout;marien;Fleuria;;;False;False;True;Fleuria;False;True
+Fleuria lacustris;zout;zout;marien;Fleuria lacustris;;;False;False;True;Fleuria lacustris;False;True
+Oligochaeta;zout;zout;marien;Oligochaeta;;Oligochaeta;False;False;True;Oligochaeta;False;True
+Tubificoides benedii;zout;zout;marien;Tubificoides benedii;;Oligochaeta;False;False;True;Oligochaeta;False;True

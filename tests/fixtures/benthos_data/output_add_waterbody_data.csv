@@ -1,0 +1,7 @@
+Collectie_Referentie;Meetobject_Code;Project_Code;Bemonsteringsapp;Waterlichaam;Heeft_Seizoen;Trendgroep;Determinatie_protocol;Biomassa_protocol;Startjaar;Min_trend_monsters
+sample 1;NRDZE_0001;MWTL_MZB_Boxcorer;BOXCRR;Noordzee-overig;True;marien;zout;zout;1999;3
+sample 1;NRDZE_0001;MWTL_MZB_Boxcorer;BOXCRR;Noordzee-overig;True;marien;zout;zout;1999;3
+sample 2;NRDZE_0001;MWTL_MZB;BOXCRR;Noordzee-overig;True;marien;zout;zout;1999;3
+sample 2;NRDZE_0001;MWTL_MZB;BOXCRR;Noordzee-overig;True;marien;zout;zout;1999;3
+sample 3;WADDZE_0001;MWTL_MZB_Schaaf;BODSF;Waddenzee;False;marien;zout;zout;1987;3
+sample 3;WADDZE_0001;MWTL_MZB_Schaaf;BODSF;Waddenzee;False;marien;zout;zout;1987;3

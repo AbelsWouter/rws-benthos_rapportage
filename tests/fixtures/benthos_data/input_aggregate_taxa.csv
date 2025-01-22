@@ -1,0 +1,15 @@
+Collectie_Referentie;Analyse_Taxonnaam;Limiet_Symbool;Name_mapping_taxa;Overrule_taxonname;Grootheid_Code;Waarde_Berekend
+sample 1;Abra alba;>;test;Abra alba;AANTL;0
+sample 1;Abra alba;<;testt;;MASSA;0.1
+sample 1;Abra alba;;;;AANTL;1
+sample 1;Abra alba;;;;MASSA;1
+sample 1;;;;;OPPVTE;1.5
+sample 2;Abra alba;>;test;Abra alba;AANTL;0
+sample 2;Abra alba;<;testt;;MASSA;0.1
+sample 2;Abra alba;;;;AANTL;1
+sample 2;Abra alba;;;;MASSA;1
+sample 2;Abra alba;>;test;Abra alba;AANTL;0
+sample 2;Abra alba;<;testt;;MASSA;0.1
+sample 2;Abra alba;;;;AANTL;1
+sample 2;Abra alba;;;;MASSA;1
+sample 2;;;;;OPPVTE;1.5

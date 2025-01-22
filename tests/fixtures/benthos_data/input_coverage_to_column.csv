@@ -1,0 +1,12 @@
+Collectie_Referentie;Grootheid_Code;Analyse_taxonnaam;Waarde_Berekend
+sample 1;AANTL;Abra alba;10
+sample 1;BEDKG;Abra alba;2
+sample 1;AANTL;Ablabesmyia;20
+sample 1;BEDKG;Ablabesmyia;4
+sample 1;AANTL;Acentria ephemerella;30
+sample 1;BEDKG;Acentria ephemerella;5
+sample 2;AANTL;Abra alba;10
+sample 2;AANTL;Ablabesmyia;30
+sample 2;BEDKG;Ablabesmyia;1
+sample 2;AANTL;Acroloxus lacustris;40
+sample 2;BEDKG;Acroloxus lacustris;20

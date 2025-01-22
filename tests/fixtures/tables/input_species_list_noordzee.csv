@@ -1,0 +1,14 @@
+Analyse_taxonnaam;Bemonsteringsapp;Collectie_DatumTijd;Collectie_Referentie;Ecotoop_Codes;Gebied;Gebruik;Groep;Heeft_Seizoen;Meetobject_Code;Monsterjaar;Order;Project_Code;Seizoen;Startjaar;Strata;Support;Support_Eenheid;Trendgroep;Waterlichaam;Aantal;Massa;Dichtheid_Massa;Dichtheid_Aantal;Bedekking;IsBiomassa_Protocol;IsPresentie_Protocol
+Acrocnida brachiata;BODSF;2022-03-16 15:41:00 +01:00;2022RWS00465;;Doggersbank;trend;Bivalvia;FALSE;NRDZE_0303;2022;6;MWTL_MZB_Schaaf;voorjaar;1999;;20.4;m2;marien;Noordzee;3;500;24.51;0.15;0;TRUE;FALSE
+Abra;BODSF;2022-03-16 16:31:00 +01:00;2022RWS00466;;Doggersbank;trend;Bivalvia;FALSE;NRDZE_0306;2022;6;MWTL_MZB_Schaaf;voorjaar;1999;;20.2;m2;marien;Noordzee;1;500;24.75;0.05;0;TRUE;FALSE
+Abra;BODSF;2021-03-23 10:24:00 +01:00;2022RWS00516;;Doggersbank;trend;Bivalvia;FALSE;NRDZE_0270;2022;6;MWTL_MZB_Schaaf;voorjaar;1999;;20.4;m2;marien;Noordzee;1;500;24.51;0.05;0;TRUE;FALSE
+Abra;BODSF;2021-03-23 10:24:00 +01:00;2022RWS00517;;Doggersbank;trend;Bivalvia;FALSE;NRDZE_0267;2022;6;MWTL_MZB_Schaaf;voorjaar;1999;;20.6;m2;marien;Noordzee;5;500;24.27;0.24;0;TRUE;FALSE
+Abra;BODSF;2022-03-22 18:25:00 +01:00;2022RWS00511;;Doggersbank;trend;Bivalvia;FALSE;NRDZE_0278;2022;6;MWTL_MZB_Schaaf;voorjaar;1999;;20;m2;marien;Noordzee;5;500;25;0.25;0;TRUE;FALSE
+Abra;BODSF;2022-03-18 13:12:00 +01:00;2022RWS00476;;Doggersbank;trend;Bivalvia;FALSE;NRDZE_0293;2022;6;MWTL_MZB_Schaaf;voorjaar;1999;;20.6;m2;marien;Noordzee;1;500;24.27;0.05;0;TRUE;FALSE
+Abra alba;BODSF;2022-03-22 18:25:00 +01:00;2022RWS00479;;Doggersbank;trend;Bivalvia;FALSE;NRDZE_0311;2022;1;MWTL_MZB_Schaaf;voorjaar;1999;;20.6;m2;marien;Noordzee;1;500;24.27;0.05;0;TRUE;FALSE
+Abra alba;BODSF;2021-03-23 10:24:00 +01:00;2022RWS00481;;Doggersbank;trend;Bivalvia;FALSE;NRDZE_0312;2021;1;MWTL_MZB_Schaaf;voorjaar;1999;;20.6;m2;marien;Noordzee;1;500;24.27;0.05;0;TRUE;FALSE
+Astropecten irregularis;BOXCRR;2022-03-19 10:07:00 +01:00;2021433222;;;trend;Overig;FALSE;NRDZE_0073;2022;1;MWTL_MZB_Boxcorer;voorjaar;1999;;0.078;m2;marien;Noordzee;1;0.36;4.62;12.82;0;TRUE;FALSE
+Astropecten irregularis;BOXCRR;2022-03-19 10:07:00 +01:00;2021433206;;;trend;Overig;FALSE;NRDZE_0055;2022;1;MWTL_MZB_Boxcorer;voorjaar;1999;;0.078;m2;marien;Noordzee;1;508.01;6512.95;12.82;0;TRUE;FALSE
+Atherospio guillei;BOXCRR;2022-03-19 10:07:00 +01:00;2021433188;;;trend;Polychaeta;FALSE;NRDZE_0036;2022;1;MWTL_MZB_Boxcorer;voorjaar;1999;;0.078;m2;marien;Noordzee;1;0.1;1.28;12.82;0;TRUE;FALSE
+Atherospio guillei;BOXCRR;2022-03-19 10:07:00 +01:00;2021433191;;;trend;Polychaeta;FALSE;NRDZE_0039;2022;1;MWTL_MZB_Boxcorer;voorjaar;1999;;0.078;m2;marien;Noordzee;1;0.15;1.92;12.82;0;TRUE;FALSE
+Atherospio guillei;BOXCRR;2022-03-19 10:07:00 +01:00;2021433197;;;trend;Polychaeta;FALSE;NRDZE_0044;2022;1;MWTL_MZB_Boxcorer;voorjaar;1999;;0.078;m2;marien;Noordzee;1;0.21;2.69;12.82;0;TRUE;FALSE
