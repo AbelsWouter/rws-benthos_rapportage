@@ -2,9 +2,9 @@
 
 """
 # File: aquadesk.py
-# Author(s): M. Japink (m.japink@waardenburg.eco) & J. Haringa (j.haringa@waardenburg.eco)
+# Author(s): M. Japink (m.japink@waardenburg.eco) & J. Haringa (j.haringa@waardenburg.eco) & W. Abels (wouter.abels@rws.nl)
 # Creation date: 21-01-2023
-# Last modification: 20-02-2024
+# Last modification: 27-01-2025
 # Python v3.12.1
 """
 
@@ -124,12 +124,7 @@ def aquadesk_download(projects: list[str], locations: list[str]) -> bool:
     data_path = read_system_config.read_yaml_configuration(
         "data_path", "global_variables.yaml"
     )
-    aquadesk_result = clean_aquadesk_data(aquadesk_result)
-    
-    df = pd.DataFrame()
-    for project in projects:
-        dataperproject = aquadesk_result[aquadesk_result['projects'].str.contains(project)]
-        aquadesk_result = pd.concat([df,dataperproject])
+    aquadesk_result = clean_aquadesk_data(projects, aquadesk_result)
 
     # rename columns
     column_mapping = read_system_config.read_column_mapping()
@@ -158,7 +153,7 @@ def aquadesk_download(projects: list[str], locations: list[str]) -> bool:
 
 
 @log_decorator.log_factory(__name__)
-def clean_aquadesk_data(aquadesk: pd.DataFrame) -> pd.DataFrame:
+def clean_aquadesk_data(projects, aquadesk: pd.DataFrame) -> pd.DataFrame:
     """Cleans the Aquadesk data (e.g. devices and ecotopes).
 
     Args:
@@ -209,6 +204,11 @@ def clean_aquadesk_data(aquadesk: pd.DataFrame) -> pd.DataFrame:
 
     if "projects" in aquadesk:
         aquadesk = aquadesk.explode("projects")
+        df = pd.DataFrame()
+        for project in projects:
+            if aquadesk["projects"].str.contains(project).any():
+                dataperproject = aquadesk[aquadesk['projects'].str.contains(project)]
+                aquadesk = pd.concat([df,dataperproject])
     else:
         aquadesk["projects"] = pd.NA
         logger.error("Geen projects in de Aquadesk download.")
